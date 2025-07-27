@@ -1,6 +1,6 @@
-owner=X46
-controller=X46
-add_core=TKS
+owner=AFG
+controller=AFG
+add_core=AFG
 add_core=X46
 trade_goods = wool
 life_rating = 35

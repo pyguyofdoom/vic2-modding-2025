@@ -1,7 +1,7 @@
-owner=ARA
-controller=ARA
-add_core=DEN
+owner=SCA
+controller=SCA
 add_core=SCA
+
 add_core=X17
 trade_goods = sulphur
 life_rating = 35

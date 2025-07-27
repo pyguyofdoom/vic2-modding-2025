@@ -1,5 +1,4 @@
-owner=X05
-controller=X05
-add_core=X05
+owner=ROM
+controller=ROM
 trade_goods = fruit
 life_rating = 35

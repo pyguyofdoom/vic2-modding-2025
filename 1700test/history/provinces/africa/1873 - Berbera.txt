@@ -1,7 +1,8 @@
-owner=BYZ
-controller=BYZ
-add_core=ADA
+owner=NUB
+controller=NUB
 add_core=NUB
+add_core=ADA
+
 add_core=SUD
 trade_goods = fish
 life_rating = 31

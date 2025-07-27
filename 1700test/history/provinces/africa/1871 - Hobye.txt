@@ -1,6 +1,6 @@
-owner=BYZ
-controller=BYZ
-add_core=AJU
+owner=NUB
+controller=NUB
+add_core=NUB
 add_core=MRE
 trade_goods = grain
 life_rating = 31

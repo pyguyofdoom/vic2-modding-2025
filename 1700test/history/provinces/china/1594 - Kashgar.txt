@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
-add_core=YUA
+owner=AFG
+controller=AFG
+add_core=AFG
 trade_goods = cotton
 life_rating = 32
 fort = 1

@@ -1,7 +1,8 @@
-owner=X05
-controller=X05
-add_core=FER
+owner=VEN
+controller=VEN
 add_core=ITA
-add_core=X05
+add_core=VEN
+add_core=FER
+
 trade_goods = wool
 life_rating = 35

@@ -8,6 +8,31 @@ vassal=
 
 vassal=
 {
+	first="X05"
+	second="ROM"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X05"
+	second="VEN"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BYZ"
+	second="NUB"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
 	first="FRA"
 	second="BLZ"
 	start_date="1512.1.19"

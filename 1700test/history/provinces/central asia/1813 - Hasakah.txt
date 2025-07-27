@@ -1,6 +1,6 @@
-owner=GEO
-controller=GEO
-add_core=GEO
+owner=RDL
+controller=RDL
+add_core=RDL
 trade_goods = wool
 life_rating = 31
 terrain = dryhills

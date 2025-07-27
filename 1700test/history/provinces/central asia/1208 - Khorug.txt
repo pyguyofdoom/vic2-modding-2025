@@ -1,5 +1,5 @@
-owner=X46
-controller=YUA
-add_core=X46
+owner=AFG
+controller=AFG
+add_core=AFG
 trade_goods = cattle
 life_rating = 35

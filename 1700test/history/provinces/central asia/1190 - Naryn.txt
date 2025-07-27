@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
-add_core=KAS
+owner=AFG
+controller=AFG
+add_core=AFG
 add_core=TKS
 add_core=YUA
 trade_goods = grain

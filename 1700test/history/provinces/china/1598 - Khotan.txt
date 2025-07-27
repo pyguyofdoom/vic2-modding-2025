@@ -1,5 +1,5 @@
-owner=YUA
-controller=TIB
-add_core=YUA
+owner=X45
+controller=X45
+add_core=X45
 trade_goods = grain
 life_rating = 32

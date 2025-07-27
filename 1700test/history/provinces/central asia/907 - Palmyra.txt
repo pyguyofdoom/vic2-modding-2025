@@ -1,5 +1,6 @@
-owner=GEO
-controller=BYZ
+owner=RDL
+controller=RDL
+add_core=RDL
 trade_goods = grain
 life_rating = 10
 colonial=2

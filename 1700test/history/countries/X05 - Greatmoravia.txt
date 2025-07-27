@@ -1,6 +1,6 @@
 capital = 625
 primary_culture = czech
-culture = polish
+
 culture = zzz_religion_catholic
 religion = catholic
 government = bourgeois_dictatorship
@@ -29,7 +29,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = X05_liberal
+ruling_party = X05_conservative
 upper_house = 
 {
 	fascist = 0

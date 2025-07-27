@@ -1,5 +1,5 @@
-owner=GEO
-controller=GEO
-add_core=GEO
+owner=RDL
+controller=RDL
+add_core=RDL
 trade_goods = sulphur
 life_rating = 10

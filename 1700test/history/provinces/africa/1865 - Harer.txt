@@ -1,5 +1,5 @@
-owner=BYZ
-controller=BYZ
+owner=NUB
+controller=NUB
 add_core=NUB
 add_core=SUD
 trade_goods = coffee

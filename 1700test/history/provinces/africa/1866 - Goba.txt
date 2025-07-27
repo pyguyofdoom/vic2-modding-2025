@@ -1,5 +1,6 @@
-owner=BYZ
-controller=BYZ
+owner=NUB
+controller=NUB
+add_core=NUB
 add_core=AJU
 add_core=JIM
 trade_goods = cattle

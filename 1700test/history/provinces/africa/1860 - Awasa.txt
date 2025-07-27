@@ -1,5 +1,6 @@
-owner=BYZ
-controller=BYZ
+owner=NUB
+controller=NUB
+add_core=NUB
 add_core=HDY
 trade_goods = cattle
 life_rating = 35
