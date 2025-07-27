@@ -1,6 +1,5 @@
 capital = 1597
-primary_culture = dummy
-culture = persian
+primary_culture = persian
 culture = tibetan
 culture = zzz_religion_gelugpa
 religion = gelugpa

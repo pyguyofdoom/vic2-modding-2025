@@ -1,7 +1,6 @@
 capital = 1241
-primary_culture = dummy
+primary_culture = punjabi
 culture = avadhi
-culture = bengali
 culture = bihari
 culture = rajput
 culture = zzz_religion_jain
