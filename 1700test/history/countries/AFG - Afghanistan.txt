@@ -1,6 +1,5 @@
 capital = 1197
-primary_culture = dummy
-culture = mongol
+primary_culture = mongol
 culture = uzbek
 culture = zzz_religion_zoroastrian
 religion = zoroastrian
