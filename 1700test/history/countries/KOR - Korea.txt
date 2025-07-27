@@ -1,14 +1,14 @@
 capital = 1624
 primary_culture = korean
 
-culture = japanese
+
 culture = zzz_religion_mahayana
 religion = mahayana
 government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.0489496
-
+literacy = 0.2489496
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -47,6 +47,9 @@ nonstate_consciousness= 0.01167
 
 # Technologies
 flintlock_rifles = 1
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
 land_reform=yes_land_reform
 admin_reform=no_admin_reform
 finance_reform=no_finance_reform

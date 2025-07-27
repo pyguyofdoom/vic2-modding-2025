@@ -1,7 +1,8 @@
-owner=KOR
-controller=KOR
+owner=KHA
+controller=KHA
 add_core=KHA
-add_core=KOR
+
+
 add_core=MGL
 trade_goods = grain
 life_rating = 32

@@ -29,7 +29,19 @@ vassal=
 	start_date="1675.9.21"
 	end_date="1936.1.1"
 }
-
+vassal=
+{
+	first="KOR"
+	second="YAN"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}vassal=
+{
+	first="KOR"
+	second="KRC"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}
 
 vassal=
 {

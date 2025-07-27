@@ -1,7 +1,8 @@
-owner=KOR
-controller=KOR
+
 add_core=CHI
-add_core=KOR
-add_core=KRC
+
 trade_goods = coal
 life_rating = 32
+add_core=KRC
+owner=KRC
+controller=KRC

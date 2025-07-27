@@ -1,5 +1,5 @@
 owner=YUA
-controller=KOR
+controller=YUA
 add_core=KHA
 add_core=MGL
 add_core=YUA

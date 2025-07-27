@@ -1,6 +1,4 @@
-owner=KOR
-controller=KOR
-add_core=KOR
+
 add_core=X25
 trade_goods = coal
 life_rating = 35

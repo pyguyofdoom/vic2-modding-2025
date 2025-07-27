@@ -839,6 +839,1206 @@ army = {
 		home=1502
 	}
 }
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+army = {
+	name="7th Army"
+	location=1535
+	regiment = {
+		name="2nd Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
 
 navy = {
 	name="4th Fleet"

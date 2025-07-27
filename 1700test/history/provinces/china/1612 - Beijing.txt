@@ -1,7 +1,7 @@
-owner=KOR
-controller=KOR
+owner=YAN
+controller=YAN
 add_core=CHI
-add_core=KOR
+
 add_core=YUA
 trade_goods = tea
 life_rating = 32
