@@ -1,2 +1,5 @@
 trade_goods = cattle
 life_rating = 34
+owner=X48
+controller=X48
+add_core=X48

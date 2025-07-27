@@ -1,8 +1,6 @@
-owner=USA
-controller=USA
-add_core=MIK
-add_core=MLS
-add_core=USA
+owner=NEW
+controller=NEW
+add_core=NEW
 trade_goods = timber
 life_rating = 31
 state_building=

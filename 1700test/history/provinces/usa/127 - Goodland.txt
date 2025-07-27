@@ -1,7 +1,5 @@
-owner=USA
-controller=USA
+owner=LOU
+controller=LOU
 add_core=LOU
-add_core=USA
-add_core=X02
 trade_goods = fruit
 life_rating = 35

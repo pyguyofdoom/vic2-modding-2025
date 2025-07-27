@@ -1,7 +1,6 @@
-owner=USA
-controller=X04
-add_core=CYN
-add_core=X04
+owner=NAK
+controller=NAK
+add_core=NAK
 trade_goods = timber
 life_rating = 35
 colonial=2

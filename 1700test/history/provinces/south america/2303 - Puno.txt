@@ -1,6 +1,4 @@
-owner=ARG
-controller=ARG
-add_core=ARG
+
 add_core=CSU
 trade_goods = iron
 life_rating = 35

@@ -1,8 +1,6 @@
-owner=PRO
-controller=PRO
-add_core=HAU
+
 add_core=SGH
 add_core=TMB
 trade_goods = cattle
 life_rating = 5
-colonial=2
+

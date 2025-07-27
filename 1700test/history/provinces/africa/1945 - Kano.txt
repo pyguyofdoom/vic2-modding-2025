@@ -1,7 +1,6 @@
-owner=PRO
-controller=PRO
+
 add_core=HAU
 trade_goods = fruit
 life_rating = 35
 terrain = semidesert
-colonial=2
+

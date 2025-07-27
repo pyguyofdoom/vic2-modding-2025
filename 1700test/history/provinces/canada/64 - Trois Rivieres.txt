@@ -1,5 +1,6 @@
-owner=USA
-controller=USA
-add_core=USA
+
+owner=NEW
+controller=NEW
+add_core=NEW
 trade_goods = iron
 life_rating = 35

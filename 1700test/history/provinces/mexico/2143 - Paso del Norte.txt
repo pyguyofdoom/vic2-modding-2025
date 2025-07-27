@@ -1,5 +1,4 @@
-owner=CAL
-controller=BLZ
+
 add_core=MEX
 trade_goods = grain
 life_rating = 31

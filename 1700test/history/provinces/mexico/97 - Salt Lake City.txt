@@ -1,7 +1,5 @@
-owner=USA
-controller=USA
-add_core=CAL
+
 add_core=KIO
-add_core=USA
+
 trade_goods = coal
 life_rating = 35

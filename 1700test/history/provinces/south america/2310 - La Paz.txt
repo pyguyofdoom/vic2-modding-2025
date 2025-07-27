@@ -1,6 +1,4 @@
-owner=ARG
-controller=ARG
-add_core=ARG
+
 add_core=CRA
 add_core=CSU
 add_core=PCJ

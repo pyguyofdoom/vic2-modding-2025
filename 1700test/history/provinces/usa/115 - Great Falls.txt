@@ -1,6 +1,5 @@
-owner=USA
-controller=USA
+
 add_core=SAL
-add_core=USA
+
 trade_goods = cattle
 life_rating = 35

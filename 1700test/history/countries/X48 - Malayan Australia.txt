@@ -1,12 +1,12 @@
 capital = 2484
-primary_culture = phianam
+primary_culture = malay
 culture = zzz_religion_sunni
 religion = sunni
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.0407913
-
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

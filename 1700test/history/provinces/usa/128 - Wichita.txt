@@ -1,7 +1,5 @@
-owner=USA
-controller=X02
+owner=LOU
+controller=LOU
 add_core=LOU
-add_core=USA
-add_core=X02
 trade_goods = grain
 life_rating = 35

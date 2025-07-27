@@ -1,7 +1,3 @@
-owner=USA
-controller=USA
-add_core=CAL
-add_core=USA
-add_core=X02
+
 trade_goods = coal
 life_rating = 35

@@ -1,6 +1,4 @@
-owner=CAL
-controller=CAL
-add_core=SIO
+
 trade_goods = grain
 life_rating = 31
 terrain = steppe

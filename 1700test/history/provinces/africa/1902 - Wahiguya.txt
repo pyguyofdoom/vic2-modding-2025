@@ -1,5 +1,4 @@
-owner=PRO
-controller=PRO
+
 add_core=GUR
 trade_goods = fruit
 life_rating = 32

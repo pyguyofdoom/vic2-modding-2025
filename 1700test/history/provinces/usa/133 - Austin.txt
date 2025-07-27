@@ -1,6 +1,5 @@
-owner=USA
-controller=MEX
-add_core=MEX
-add_core=USA
+owner=LOU
+controller=LOU
+add_core=LOU
 trade_goods = cattle
 life_rating = 35

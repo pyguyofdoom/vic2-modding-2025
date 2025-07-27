@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 31
 terrain = savanna
+owner=X48
+controller=X48
+add_core=X48

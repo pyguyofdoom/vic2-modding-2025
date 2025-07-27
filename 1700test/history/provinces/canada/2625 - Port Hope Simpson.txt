@@ -1,4 +1,4 @@
-owner=USA
+owner=NEW
 controller=NEW
 add_core=NEW
 trade_goods = fish

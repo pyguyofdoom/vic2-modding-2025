@@ -1,6 +1,5 @@
-owner=USA
-controller=USA
+owner=NEW
+controller=NEW
 add_core=NEW
-add_core=USA
 trade_goods = fish
 life_rating = 31

@@ -1,2 +1,7 @@
+owner=X48
+controller=X48
+add_core=X48
+
+
 trade_goods = grain
 life_rating = 31

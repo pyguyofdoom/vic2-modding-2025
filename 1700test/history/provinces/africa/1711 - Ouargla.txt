@@ -1,7 +1,4 @@
-owner=X37
-controller=X37
-add_core=ALD
-add_core=TLC
+
 add_core=X37
 trade_goods = wool
 life_rating = 10

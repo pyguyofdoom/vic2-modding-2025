@@ -1,7 +1,7 @@
-owner=GEO
-controller=GEO
+owner=YUA
+controller=YUA
 add_core=CHI
-add_core=GEO
+add_core=YUA
 add_core=MIN
 trade_goods = grain
 life_rating = 35

@@ -1,7 +1,5 @@
-owner=PRO
-controller=PRO
-add_core=GUR
+
 add_core=HAU
 trade_goods = grain
 life_rating = 35
-colonial=2
+

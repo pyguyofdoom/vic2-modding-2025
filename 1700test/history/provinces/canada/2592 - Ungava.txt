@@ -1,5 +1,5 @@
-owner=ICL
-controller=ICL
-add_core=ICL
+owner=NEW
+controller=NEW
+add_core=NEW
 trade_goods = timber
 life_rating = 10

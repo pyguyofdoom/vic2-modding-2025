@@ -1,5 +1,5 @@
-owner=MEX
-controller=MEX
-add_core=MEX
+owner=LOU
+controller=LOU
+add_core=LOU
 trade_goods = sulphur
 life_rating = 35

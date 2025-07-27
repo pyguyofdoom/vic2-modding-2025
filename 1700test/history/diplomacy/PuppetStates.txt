@@ -29,7 +29,13 @@ vassal=
 	start_date="1562.8.19"
 	end_date="1936.1.1"
 }
-
+vassal=
+{
+	first="SRJ"
+	second="X48"
+	start_date="1562.8.19"
+	end_date="1936.1.1"
+}
 vassal=
 {
 	first="FRA"

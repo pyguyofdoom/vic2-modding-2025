@@ -1,6 +1,6 @@
-owner=LNA
-controller=LNA
-add_core=LNA
+owner=GEO
+controller=GEO
+add_core=GEO
 add_core=YUE
 trade_goods = precious_goods
 life_rating = 35

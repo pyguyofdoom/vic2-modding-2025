@@ -1,91 +1,91 @@
 2468 = {
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 65
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 3000
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 1100
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 1100
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 4300
 	}
 
 	clergymen=
 	{
-		culture = irish
+		culture = malay
 		religion = catholic
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = irish
+		culture = malay
 		religion = catholic
 		size= 2975
 	}
@@ -115,70 +115,70 @@
 2469 = {
 	clergymen=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 1445
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = irish
+		culture = malay
 		religion = catholic
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = irish
+		culture = malay
 		religion = catholic
 		size= 1100
 	}
@@ -208,56 +208,56 @@
 2470 = {
 	clergymen=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 700
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 160
 	}
@@ -287,28 +287,28 @@
 2471 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -373,49 +373,49 @@
 
 	clergymen=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 125
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 1625
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 100
 	}
@@ -424,28 +424,28 @@
 2473 = {
 	clergymen=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 900
 	}
@@ -482,7 +482,7 @@
 2474 = {
 	aristocrats=
 	{
-		culture = aborigine
+		culture = malay
 		religion = animist
 		size= 25
 	}
@@ -512,7 +512,7 @@
 2475 = {
 	aristocrats=
 	{
-		culture = aborigine
+		culture = malay
 		religion = animist
 		size= 50
 	}
@@ -542,49 +542,49 @@
 2476 = {
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
@@ -614,7 +614,7 @@
 2477 = {
 	aristocrats=
 	{
-		culture = aborigine
+		culture = malay
 		religion = animist
 		size= 25
 	}
@@ -674,7 +674,7 @@
 2479 = {
 	aristocrats=
 	{
-		culture = aborigine
+		culture = malay
 		religion = animist
 		size= 25
 	}
@@ -764,56 +764,56 @@
 2482 = {
 	bureaucrats=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 8675
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 60
 	}
@@ -850,56 +850,56 @@
 
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 875
 	}
@@ -908,28 +908,28 @@
 2484 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1026,7 +1026,7 @@
 2487 = {
 	aristocrats=
 	{
-		culture = aborigine
+		culture = malay
 		religion = animist
 		size= 25
 	}
@@ -1153,56 +1153,56 @@
 2491 = {
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1239,28 +1239,28 @@
 2492 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1327,28 +1327,28 @@
 2494 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1445,70 +1445,70 @@
 2497 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 630
 	}
 
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
@@ -1545,49 +1545,49 @@
 2498 = {
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1804,49 +1804,49 @@
 2505 = {
 	aristocrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 20
 	}
@@ -1943,14 +1943,14 @@
 2508 = {
 	clergymen=
 	{
-		culture = australian
+		culture = malay
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = malay
 		religion = protestant
 		size= 235
 	}

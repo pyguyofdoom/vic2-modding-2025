@@ -1,6 +1,5 @@
-owner=HLR
-controller=HLR
+
 add_core=CKW
 trade_goods = cattle
 life_rating = 10
-colonial=2
+

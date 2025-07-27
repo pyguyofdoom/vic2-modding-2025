@@ -1,2 +1,5 @@
 trade_goods = coal
 life_rating = 33
+owner=X48
+controller=X48
+add_core=X48

@@ -1,6 +1,4 @@
-owner=BYZ
-controller=BYZ
-add_core=JIM
+
 add_core=WLY
 trade_goods = grain
 life_rating = 10
