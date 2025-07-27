@@ -1,0 +1,7 @@
+owner=SUN
+controller=SRJ
+add_core=PLB
+add_core=SRJ
+add_core=SUN
+trade_goods = timber
+life_rating = 32

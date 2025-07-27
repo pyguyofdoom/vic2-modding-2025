@@ -1,0 +1,796 @@
+916 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 385
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 7642
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 857
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 3901
+	}
+
+}
+917 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 8189
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 1191
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 494
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 4805
+	}
+
+}
+918 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 314
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 6487
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 3310
+	}
+
+}
+919 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 5969
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 3047
+	}
+
+}
+920 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = lollard
+		size= 5239
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 1035
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 429
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 674
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 2988
+	}
+
+}
+921 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = norse_pagan_reformed
+		size= 4075
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = monothelite
+		size= 593
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 504
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 2391
+	}
+
+}

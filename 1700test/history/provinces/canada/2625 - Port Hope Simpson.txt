@@ -1,0 +1,6 @@
+owner=USA
+controller=NEW
+add_core=NEW
+trade_goods = fish
+life_rating = 15
+terrain = new_world_boreal

@@ -1,0 +1,9166 @@
+2306 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1465
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3560
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2391
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4513
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1214
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 11
+	}
+
+}
+2401 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 674
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1349
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 538
+	}
+
+}
+2402 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2246
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4489
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 864
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 124
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1790
+	}
+
+}
+2403 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 452
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 905
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 360
+	}
+
+}
+2404 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 458
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 183
+	}
+
+}
+2405 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 663
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1326
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 529
+	}
+
+}
+2407 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 458
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 183
+	}
+
+}
+2408 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 663
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1201
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+}
+2410 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1218
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3273
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = norse_pagan_reformed
+		size= 653
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 1662
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = catholic
+		size= 180
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 299
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1536
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 998
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 185
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 276
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 135
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 331
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 166
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 359
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2870
+	}
+
+}
+2411 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 329
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1334
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2366
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 654
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 201
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 62
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 5
+	}
+
+}
+2412 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 652
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1180
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+}
+2413 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 977
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1773
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+}
+2415 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 641
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1348
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 37
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+}
+2416 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 678
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4932
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 963
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 67
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 3308
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+}
+2417 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1441
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 98
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1716
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 805
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1025
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1217
+	}
+
+}
+2418 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2559
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1389
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 273
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1750
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+}
+2419 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 886
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 597
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+}
+2420 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2224
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 433
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 155
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 1489
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+}
+2421 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 1861
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 1993
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2311
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1585
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 768
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 143
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 430
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 396
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = druidist
+		size= 112
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = druidist
+		size= 15
+	}
+
+}
+2422 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 735
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 956
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 173
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+}
+2423 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 748
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1528
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 46
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 266
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+}
+2424 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 4554
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7491
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 467
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 770
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 9663
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3529
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 658
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 11803
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 93
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 255
+	}
+
+}
+2425 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 4769
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2872
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 485
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 579
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 499
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 949
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 446
+	}
+
+}
+2426 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 6230
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7955
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 7116
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 8536
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 306
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1362
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1066
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1917
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 854
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 277
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 359
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 888
+	}
+
+}
+2427 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 3966
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1290
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 3598
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 460
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 262
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 92
+	}
+
+}
+2428 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 688
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2389
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 2578
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 839
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 371
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 7561
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 557
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 535
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1194
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 387
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 208
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 792
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2747
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 48
+	}
+
+}
+2429 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 4939
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7884
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 10023
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 14913
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 501
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 890
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1268
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1042
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 587
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 944
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2158
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 403
+	}
+
+}
+2430 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 1779
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2799
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 2558
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 3696
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 225
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 632
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 523
+	}
+
+}
+2431 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 4079
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4779
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 8571
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 9615
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1389
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 338
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1078
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 911
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 146
+	}
+
+}
+2432 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 7056
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6113
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 17285
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1779
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 279
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 1659
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 59
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 10585
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3185
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2605
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 93
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 365
+	}
+
+}
+2433 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3906
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2530
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 119
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 4621
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 534
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 2069
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1978
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 675
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1163
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 975
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 91
+	}
+
+}
+2434 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 4430
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6012
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 9251
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1396
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 518
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 9984
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2482
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 888
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1720
+	}
+
+}
+2435 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 3787
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4868
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 7372
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 852
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 8157
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1125
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 876
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 713
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 633
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 266
+	}
+
+}
+2436 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 11427
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 17971
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 19977
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2352
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 607
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 469
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 2348
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 62
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 438
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 25180
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 4667
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3699
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 535
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 98
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 690
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3225
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1127
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2041
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 381
+	}
+
+}
+2437 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 8797
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 6212
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 894
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 639
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 8026
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 620
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 418
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 4346
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1951
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 719
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 426
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2194
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2154
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 311
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 403
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 2943
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 176
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = norse_pagan_reformed
+		size= 1858
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = catholic
+		size= 673
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = catholic
+		size= 289
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = je
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = catholic
+		size= 83
+	}
+
+}
+2438 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 5740
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 7520
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 117
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 5774
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 281
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 448
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 6537
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1122
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 727
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 475
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1658
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1684
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 243
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 314
+	}
+
+}
+2439 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 8867
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 3673
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 14329
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 307
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 585
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 4676
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2585
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 912
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 170
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2028
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1918
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 277
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 358
+	}
+
+}
+2440 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3751
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 1276
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 5259
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1767
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = norse_pagan_reformed
+		size= 4864
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 211
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = norse_pagan_reformed
+		size= 1397
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = catholic
+		size= 1484
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 364
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2629
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1671
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 312
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 5239
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 1473
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 68
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1440
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+}
+2441 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 11955
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 498
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 12471
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 19248
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 16912
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 801
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2600
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 422
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 545
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 129
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 52
+	}
+
+}
+2442 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 7942
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 4771
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 33
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 12933
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4535
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 420
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3077
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 574
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 68
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 27
+	}
+
+}
+2443 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 5701
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 3707
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 5297
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 3187
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1765
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 755
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1509
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 525
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 130
+	}
+
+}
+2444 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3408
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 3672
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 61
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 66
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 5334
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4811
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 657
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 776
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+}
+2445 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 3532
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2353
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 5752
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2335
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1424
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 265
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 12
+	}
+
+}
+2446 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 6760
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4167
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 96
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 60
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 11809
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 5794
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 386
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1233
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 259
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 61
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 24
+	}
+
+}
+2447 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 35205
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1795
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 52772
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 1575
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 2362
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 63113
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3217
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 81219
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 10189
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3208
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1655
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 510
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 203
+	}
+
+}
+2448 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 6359
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 5793
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 960
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 877
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 318
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 9985
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 8184
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 767
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1844
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 927
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 411
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1667
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1983
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 370
+	}
+
+}
+2449 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 7196
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 5757
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 92
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = norse_pagan_reformed
+		size= 10728
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 7690
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 736
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1641
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 871
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 121
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1936
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 361
+	}
+
+}
+2450 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 14850
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 614
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 15235
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 85
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 87
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 28042
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1157
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 24367
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3552
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 746
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 576
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 176
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 70
+	}
+
+}
+2451 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 7257
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 8033
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 12609
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 11872
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 539
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1709
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 358
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 277
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 85
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 34
+	}
+
+}
+2452 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 2198
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3546
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 3580
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4314
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 187
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1386
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 12
+	}
+
+}
+2453 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 757
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1124
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1
+	}
+
+}
+2455 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 3229
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3400
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 6098
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 5450
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 783
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 15
+	}
+
+}
+2456 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size= 757
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1124
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1
+	}
+
+}
+2457 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 5041
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 12406
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 10162
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 21892
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 715
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2147
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 901
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 107
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 43
+	}
+
+}
+2458 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1121
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2253
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2029
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2896
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 401
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 16
+	}
+
+}
+2459 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1319
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3351
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 5631
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2778
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 582
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1382
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 25
+	}
+
+}
+2460 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1394
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4751
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2525
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 6892
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1585
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 296
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 13
+	}
+
+}
+2461 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1979
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 406
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4871
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 8168
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 4166
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 857
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2028
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 45
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 35
+	}
+
+}
+2462 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 2309
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 369
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3918
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 6360
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 4858
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 774
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1842
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 32
+	}
+
+}
+2463 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 3953
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 12556
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 8774
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 24613
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2169
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 352
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 108
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 42
+	}
+
+}
+2464 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1216
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2062
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2701
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3988
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 431
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 8
+	}
+
+}
+2465 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1566
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6954
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 11329
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 3299
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2432
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 454
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 53
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 21
+	}
+
+}
+2466 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1838
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3867
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 2592
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 4096
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 870
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 43
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 34
+	}
+
+}
+2467 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2602
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1559
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 355
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 14
+	}
+
+}
+2532 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 653
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 261
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 5
+	}
+
+}
+2549 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 1565
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1550
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 313
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 18
+	}
+
+}
+2550 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 1735
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 1590
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = druidist
+		size= 334
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = druidist
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = druidist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = druidist
+		size= 3
+	}
+
+}
+2600 = {
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 981
+	}
+
+	farmers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 1780
+	}
+
+	artisans=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mauritsstadtian
+		religion = catholic
+		size= 3
+	}
+
+}

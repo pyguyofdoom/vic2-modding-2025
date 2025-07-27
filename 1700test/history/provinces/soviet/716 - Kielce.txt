@@ -1,0 +1,6 @@
+owner=X05
+controller=X05
+add_core=WSF
+add_core=X05
+trade_goods = sulphur
+life_rating = 35

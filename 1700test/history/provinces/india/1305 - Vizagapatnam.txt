@@ -1,0 +1,9 @@
+owner=SRI
+controller=SRI
+add_core=BRR
+add_core=HND
+add_core=ORI
+add_core=SRI
+add_core=X20
+trade_goods = tobacco
+life_rating = 32

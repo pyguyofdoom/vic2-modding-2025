@@ -1,0 +1,7 @@
+owner=SRJ
+controller=CAM
+add_core=CHA
+add_core=IDO
+add_core=SRJ
+trade_goods = wool
+life_rating = 34

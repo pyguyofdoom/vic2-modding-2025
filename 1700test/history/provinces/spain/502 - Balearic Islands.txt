@@ -1,0 +1,7 @@
+owner=X37
+controller=X37
+add_core=CAT
+add_core=SPA
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

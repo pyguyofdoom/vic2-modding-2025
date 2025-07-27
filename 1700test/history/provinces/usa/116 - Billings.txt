@@ -1,0 +1,5 @@
+owner=KOR
+controller=X03
+add_core=X03
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=BUR
+add_core=IDO
+add_core=MYA
+trade_goods = grain
+life_rating = 33
+fort = 1

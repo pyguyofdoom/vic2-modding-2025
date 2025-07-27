@@ -1,0 +1,8 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HES
+add_core=HLR
+add_core=WES
+trade_goods = fish
+life_rating = 40

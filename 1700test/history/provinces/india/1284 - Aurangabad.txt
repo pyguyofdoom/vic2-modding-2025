@@ -1,0 +1,7 @@
+owner=X41
+controller=HLR
+add_core=HND
+add_core=SRI
+add_core=X41
+trade_goods = cotton
+life_rating = 32

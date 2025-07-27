@@ -1,0 +1,11 @@
+owner=WSI
+controller=WSI
+add_core=HWH
+add_core=HWK
+add_core=HWM
+add_core=HWO
+trade_goods = fish
+life_rating = 35
+terrain = new_world_mountain
+colonial=2
+naval_base = 2

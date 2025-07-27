@@ -1,0 +1,6 @@
+owner=BLZ
+controller=MEX
+add_core=BLZ
+trade_goods = cattle
+life_rating = 35
+terrain = montane_forest

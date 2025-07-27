@@ -1,0 +1,12 @@
+owner=ARG
+controller=ARG
+add_core=ARG
+trade_goods = iron
+life_rating = 35
+terrain = dryhills
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

@@ -1,0 +1,200 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 711
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 14561
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 920
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 4851
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 350
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 38856
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 471
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9642
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 609
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 3212
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 25729
+	}
+
+}

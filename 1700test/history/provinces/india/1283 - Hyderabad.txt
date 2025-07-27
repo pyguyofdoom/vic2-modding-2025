@@ -1,0 +1,7 @@
+owner=KRN
+controller=HLR
+add_core=GOC
+add_core=HND
+add_core=KRN
+trade_goods = silk
+life_rating = 32

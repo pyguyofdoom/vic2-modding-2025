@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+trade_goods = fruit
+life_rating = 35
+terrain = savanna
+colonial=2

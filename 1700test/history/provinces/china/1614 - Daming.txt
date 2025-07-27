@@ -1,0 +1,8 @@
+owner=KOR
+controller=KOR
+add_core=CHI
+add_core=KOR
+add_core=YAN
+add_core=YUA
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=X16
+controller=X16
+add_core=X16
+trade_goods = fruit
+life_rating = 35

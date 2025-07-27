@@ -1,0 +1,8 @@
+owner=X11
+controller=X11
+add_core=ENG
+add_core=IRE
+add_core=X11
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

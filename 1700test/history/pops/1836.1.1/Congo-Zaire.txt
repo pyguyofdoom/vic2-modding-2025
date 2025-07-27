@@ -1,0 +1,1952 @@
+1982 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 41465
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 16646
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 10679
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 771
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 213
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 997
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 226298
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 35288
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 14166
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 38841
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2805
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 777
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 691
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3625
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 157486
+	}
+
+}
+1983 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 4877
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 3538
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 7960
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 159
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 743
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 158976
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4757
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3451
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 23490
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1697
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 470
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2192
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 136288
+	}
+
+}
+1984 = {
+	slaves=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 17117
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 4711
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 841
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 60993
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = catholic
+		size= 6616
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 1821
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = catholic
+		size= 1492
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = catholic
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = catholic
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 21778
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 11256
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3098
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 4545
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 739
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 114
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 1432
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 33949
+	}
+
+}
+1985 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 4549
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 3944
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 664
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 37
+	}
+
+	officers=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = shamanism
+		size= 34227
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4467
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 3714
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 2666
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 146
+	}
+
+	officers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 1679
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 28342
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1284
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 15
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 11023
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1419
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 896
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 565
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11060
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 2932
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 3370
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 20
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 29627
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = catholic
+		size= 1109
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 1274
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = catholic
+		size= 643
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = catholic
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = catholic
+		size= 10237
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1839
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 2114
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1928
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 313
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 106
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 1215
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 15343
+	}
+
+}
+1986 = {
+	aristocrats=
+	{
+		culture = luba
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = animist
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = animist
+		size= 2380
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = animist
+		size= 1925
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = animist
+		size= 31990
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = animist
+		size= 2200
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = animist
+		size= 5680
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = animist
+		size= 1575
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = animist
+		size= 103490
+	}
+
+	slaves=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 22000
+	}
+
+}
+1987 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 7150
+	}
+
+	bureaucrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 75
+	}
+
+	officers=
+	{
+		culture = lunda
+		religion = animist
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 3575
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 4390
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 1030
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 307180
+	}
+
+	aristocrats=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 920
+	}
+
+	clergymen=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 2380
+	}
+
+	soldiers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 1375
+	}
+
+	farmers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 83450
+	}
+
+	slaves=
+	{
+		culture = chokwe
+		religion = animist
+		size= 33000
+	}
+
+}
+1988 = {
+	slaves=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 31014
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 2969
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 13359
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 965
+	}
+
+	bureaucrats=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 267
+	}
+
+	officers=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 1870
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 97873
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 5169
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 495
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size= 2227
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 45
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 16310
+	}
+
+}
+1989 = {
+	aristocrats=
+	{
+		culture = luba
+		religion = animist
+		size= 4030
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = animist
+		size= 1830
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = animist
+		size= 7520
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = animist
+		size= 2775
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = animist
+		size= 144390
+	}
+
+	aristocrats=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 1280
+	}
+
+	clergymen=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 3480
+	}
+
+	soldiers=
+	{
+		culture = kingwana
+		religion = animist
+		size= 2200
+	}
+
+	farmers=
+	{
+		culture = kingwana
+		religion = animist
+		size= 43070
+	}
+
+	slaves=
+	{
+		culture = kingwana
+		religion = animist
+		size= 47670
+	}
+
+}
+1990 = {
+	aristocrats=
+	{
+		culture = luba
+		religion = animist
+		size= 825
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = animist
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = animist
+		size= 1925
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = animist
+		size= 1375
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = animist
+		size= 49330
+	}
+
+	aristocrats=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 920
+	}
+
+	clergymen=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = kingwana
+		religion = sunni
+		size= 2380
+	}
+
+	soldiers=
+	{
+		culture = kingwana
+		religion = animist
+		size= 1375
+	}
+
+	farmers=
+	{
+		culture = kingwana
+		religion = animist
+		size= 83450
+	}
+
+	slaves=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 64670
+	}
+
+}
+1991 = {
+	slaves=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 5199
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 3973
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 3973
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 1291
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 199
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 834
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 183092
+	}
+
+	slaves=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 2335
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1784
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 7540
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 2451
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 377
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1583
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 72967
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 3105
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 2372
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size= 1186
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 59
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 111240
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = catholic
+		size= 248
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = catholic
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = catholic
+		size= 1376
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = catholic
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = catholic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = catholic
+		size= 289
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = catholic
+		size= 6828
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1167
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 892
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 4346
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 1412
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 217
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 913
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 35568
+	}
+
+}
+1992 = {
+	aristocrats=
+	{
+		culture = mongo
+		religion = animist
+		size= 2110
+	}
+
+	clergymen=
+	{
+		culture = mongo
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = mongo
+		religion = animist
+		size= 4400
+	}
+
+	soldiers=
+	{
+		culture = mongo
+		religion = animist
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = mongo
+		religion = animist
+		size= 145990
+	}
+
+	slaves=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 25670
+	}
+
+}
+1993 = {
+	aristocrats=
+	{
+		culture = mongo
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = mongo
+		religion = animist
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = mongo
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = mongo
+		religion = animist
+		size= 1650
+	}
+
+	farmers=
+	{
+		culture = mongo
+		religion = animist
+		size= 169690
+	}
+
+	slaves=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 10000
+	}
+
+}
+1994 = {
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 8724
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 4277
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 8288
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 1347
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 373
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 166
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 2611
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = shamanism
+		size= 188105
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = tibet_bon
+		size= 82
+	}
+
+	soldiers=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 348
+	}
+
+	clergymen=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = kuba
+		religion = tibet_bon
+		size= 1349
+	}
+
+}
+1995 = {
+	aristocrats=
+	{
+		culture = mongo
+		religion = animist
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = mongo
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = mongo
+		religion = animist
+		size= 4125
+	}
+
+	soldiers=
+	{
+		culture = mongo
+		religion = animist
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = mongo
+		religion = animist
+		size= 149750
+	}
+
+	slaves=
+	{
+		culture = ubangian
+		religion = animist
+		size= 14670
+	}
+
+}
+1996 = {
+	aristocrats=
+	{
+		culture = lendu
+		religion = animist
+		size= 2840
+	}
+
+	clergymen=
+	{
+		culture = lendu
+		religion = animist
+		size= 1470
+	}
+
+	artisans=
+	{
+		culture = lendu
+		religion = animist
+		size= 5775
+	}
+
+	soldiers=
+	{
+		culture = lendu
+		religion = animist
+		size= 1470
+	}
+
+	farmers=
+	{
+		culture = lendu
+		religion = animist
+		size= 132120
+	}
+
+	slaves=
+	{
+		culture = kingwana
+		religion = animist
+		size= 49330
+	}
+
+}
+1997 = {
+	aristocrats=
+	{
+		culture = azande
+		religion = animist
+		size= 640
+	}
+
+	clergymen=
+	{
+		culture = azande
+		religion = animist
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = azande
+		religion = animist
+		size= 1375
+	}
+
+	soldiers=
+	{
+		culture = azande
+		religion = animist
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = azande
+		religion = animist
+		size= 32920
+	}
+
+	aristocrats=
+	{
+		culture = lendu
+		religion = animist
+		size= 640
+	}
+
+	clergymen=
+	{
+		culture = lendu
+		religion = animist
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = lendu
+		religion = animist
+		size= 1830
+	}
+
+	soldiers=
+	{
+		culture = lendu
+		religion = animist
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = lendu
+		religion = animist
+		size= 193460
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 35345
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = animist
+		size= 27435
+	}
+
+	slaves=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 7330
+	}
+
+}
+1998 = {
+	aristocrats=
+	{
+		culture = azande
+		religion = animist
+		size= 1925
+	}
+
+	clergymen=
+	{
+		culture = azande
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = azande
+		religion = animist
+		size= 4950
+	}
+
+	soldiers=
+	{
+		culture = azande
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = azande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = azande
+		religion = animist
+		size= 180110
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 10000
+	}
+
+}

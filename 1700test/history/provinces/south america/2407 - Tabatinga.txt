@@ -1,0 +1,4 @@
+owner=WSI
+controller=WSI
+trade_goods = rubber
+life_rating = 31

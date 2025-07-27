@@ -1,0 +1,5 @@
+owner=HLR
+controller=HLR
+trade_goods = timber
+life_rating = 10
+colonial=2

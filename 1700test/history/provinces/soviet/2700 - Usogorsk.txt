@@ -1,0 +1,4 @@
+owner=UKR
+controller=UKR
+trade_goods = timber
+life_rating = 35

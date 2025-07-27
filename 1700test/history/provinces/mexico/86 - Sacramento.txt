@@ -1,0 +1,6 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+add_core=YKT
+trade_goods = fruit
+life_rating = 35

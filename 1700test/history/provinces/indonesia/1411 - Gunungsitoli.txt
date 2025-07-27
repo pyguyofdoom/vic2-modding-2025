@@ -1,0 +1,6 @@
+owner=X15
+controller=SRJ
+add_core=SRJ
+add_core=X15
+trade_goods = fish
+life_rating = 32

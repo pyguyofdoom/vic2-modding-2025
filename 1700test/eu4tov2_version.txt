@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 1.0W "Wallachia"
+* Compatible with EU4 [v1.0-v1.37] and Vic2 [v3]
+* Built on Tue Jul  9 11:46:40 2024
+************************** + EU4 To Vic2 + ***************************

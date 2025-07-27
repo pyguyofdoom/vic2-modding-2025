@@ -1,0 +1,114 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 1671
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 5839
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = druidist
+		size= 2246
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = druidist
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = druidist
+		size= 1324
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = druidist
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = druidist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = druidist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = druidist
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = druidist
+		size= 6673
+	}
+
+}

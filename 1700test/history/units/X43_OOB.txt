@@ -1,0 +1,767 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -2
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -12
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = -42
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 4
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 14
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -99
+	level = 2
+}
+GEO = {
+	value = -99
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = -102
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 22
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = -34
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = -3
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = -13
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 211
+	influence_value = 40
+	level = 4
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 43
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 40
+	level = 2
+}
+SRI = {
+	value = -57
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = -24
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = -8
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 23
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -11
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = -44
+	level = 2
+}
+X33 = {
+	value = -26
+	level = 2
+}
+X34 = {
+	value = -14
+	level = 2
+}
+X35 = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+X41 = {
+	value = 34
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 40
+	level = 2
+}
+X45 = {
+	value = -3
+	level = 2
+}
+X46 = {
+	value = 199
+	influence_value = 37
+	level = 4
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 43
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adhandev V Lakshmandevid"
+	date="1685.2.4"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ladahachandra Sinsiniwar"
+	date="1692.1.11"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Prithvipal Panwara"
+	date="1692.8.31"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yash Chhinda"
+	date="1692.10.19"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1589
+	regiment = {
+		name="1st Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="1st Katmandu Cavalry"
+		type=cavalry
+		home=1326
+	}
+	regiment = {
+		name="1st Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+	regiment = {
+		name="2nd Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+	regiment = {
+		name="3rd Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="1st Patna Cavalry"
+		type=cavalry
+		home=1247
+	}
+	regiment = {
+		name="4th Agra Artillery"
+		type=artillery
+		home=1240
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1327
+	regiment = {
+		name="1st Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="1st Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+	regiment = {
+		name="3rd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="3rd Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1592
+	regiment = {
+		name="2nd Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+	regiment = {
+		name="2nd Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1327
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="1st Rewa Cavalry"
+		type=cavalry
+		home=1274
+	}
+	regiment = {
+		name="1st Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+	regiment = {
+		name="1st Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+	regiment = {
+		name="1st Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="1st Agra Cavalry"
+		type=cavalry
+		home=1240
+	}
+	regiment = {
+		name="2nd Rewa Cavalry"
+		type=cavalry
+		home=1274
+	}
+	regiment = {
+		name="2nd Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1592
+	regiment = {
+		name="2nd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="3rd Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+	regiment = {
+		name="2nd Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1592
+	regiment = {
+		name="1st Dehra Dun Irregulars"
+		type=irregular
+		home=1238
+	}
+	regiment = {
+		name="1st Cawnpore Cavalry"
+		type=cavalry
+		home=1241
+	}
+	regiment = {
+		name="3rd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="2nd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+	regiment = {
+		name="4th Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="1st Gaya Cavalry"
+		type=cavalry
+		home=1248
+	}
+	regiment = {
+		name="3rd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1592
+	regiment = {
+		name="3rd Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Allahabad Cavalry"
+		type=cavalry
+		home=1243
+	}
+	regiment = {
+		name="4th Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+	regiment = {
+		name="2nd Allahabad Cavalry"
+		type=cavalry
+		home=1243
+	}
+	regiment = {
+		name="5th Agra Artillery"
+		type=artillery
+		home=1240
+	}
+}
+

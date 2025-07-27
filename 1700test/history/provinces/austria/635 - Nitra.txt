@@ -1,0 +1,7 @@
+owner=X05
+controller=X05
+add_core=SLV
+add_core=WSF
+add_core=X05
+trade_goods = grain
+life_rating = 35

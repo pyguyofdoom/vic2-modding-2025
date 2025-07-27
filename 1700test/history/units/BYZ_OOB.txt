@@ -1,0 +1,929 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 37
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -84
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = -19
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 7
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -29
+	level = 2
+}
+GEO = {
+	value = 41
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -285
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 22
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 34
+	level = 2
+}
+KZB = {
+	value = 49
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+MEX = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 49
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+PRO = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+RAJ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+RDL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SCA = {
+	value = -5
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 16
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 43
+	level = 2
+}
+SRJ = {
+	value = 25
+	level = 2
+}
+SUD = {
+	value = -85
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 8
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 52
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 27
+	level = 2
+}
+X30 = {
+	value = -45
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = -153
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 22
+	level = 2
+}
+X43 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X48 = {
+	value = 10
+	level = 2
+}
+X49 = {
+	value = 4
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Elpidios Argyros"
+	date="1664.2.18"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Demetrios Choumnos"
+	date="1674.7.25"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Antonios Zimisces"
+	date="1679.4.6"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Elpidios Argyros"
+	date="1679.4.16"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Anastasios Boumbalis"
+	date="1679.4.17"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Anastasios Boumbalis"
+	date="1679.4.17"
+	type=land
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Anastasios Boumbalis"
+	date="1679.4.17"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Konstantios Zimisces"
+	date="1682.3.25"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Elpidios Nestongos"
+	date="1695.7.6"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="Thema Sicelias"
+	location=2764
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="1st Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Elba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antakya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pola Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Üsküdar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Leghorn Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mersin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mustaghanim Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qusayr Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Byzantine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Elba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mersin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bursa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Split Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmit Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmir Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Thema Opsikion"
+	location=762
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+	regiment = {
+		name="1st Benghazi Artillery"
+		type=artillery
+		home=1735
+	}
+	regiment = {
+		name="1st Corinth Artillery"
+		type=artillery
+		home=840
+	}
+	regiment = {
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+	regiment = {
+		name="1st Tobruk Artillery"
+		type=artillery
+		home=1737
+	}
+}
+
+army = {
+	name="Thema Armeniakon"
+	location=1751
+	regiment = {
+		name="1st Izmit Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="1st Sinop Infantry"
+		type=infantry
+		home=883
+	}
+	regiment = {
+		name="1st Erzincan Artillery"
+		type=artillery
+		home=888
+	}
+	regiment = {
+		name="1st Mersin Artillery"
+		type=artillery
+		home=895
+	}
+	regiment = {
+		name="1st Myteline Artillery"
+		type=artillery
+		home=844
+	}
+}
+
+army = {
+	name="Thema Tarabulus"
+	location=828
+	regiment = {
+		name="1st Homs Infantry"
+		type=infantry
+		home=903
+	}
+	regiment = {
+		name="1st Hama Infantry"
+		type=infantry
+		home=904
+	}
+	regiment = {
+		name="1st Konya Artillery"
+		type=artillery
+		home=873
+	}
+	regiment = {
+		name="1st Ras Gharib Artillery"
+		type=artillery
+		home=1772
+	}
+	regiment = {
+		name="2nd Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+}
+
+army = {
+	name="Thema Tarrana"
+	location=1762
+	regiment = {
+		name="1st Dumyat Infantry"
+		type=infantry
+		home=1746
+	}
+	regiment = {
+		name="1st Suez Infantry"
+		type=infantry
+		home=1755
+	}
+	regiment = {
+		name="1st Suakin Artillery"
+		type=artillery
+		home=1833
+	}
+	regiment = {
+		name="1st Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+	regiment = {
+		name="1st Aswan Artillery"
+		type=artillery
+		home=1766
+	}
+}
+
+navy = {
+	name="Thema Cibyrraeoton"
+	location=2767
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+	ship = {
+		name="Thíva"
+		type=frigate
+	}
+	ship = {
+		name="Skirka"
+		type=frigate
+	}
+}
+
+army = {
+	name="Thema Abydos"
+	location=877
+	regiment = {
+		name="1st Mugla Infantry"
+		type=infantry
+		home=872
+	}
+	regiment = {
+		name="1st Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="1st Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="1st Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+}
+
+army = {
+	name="Thema Morea"
+	location=866
+	regiment = {
+		name="1st Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="2nd Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Afyon Artillery"
+		type=artillery
+		home=866
+	}
+	regiment = {
+		name="1st Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="1st Denizli Artillery"
+		type=artillery
+		home=871
+	}
+}
+
+army = {
+	name="Thema Messina"
+	location=1874
+	regiment = {
+		name="2nd Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+	regiment = {
+		name="1st Corfu Infantry"
+		type=infantry
+		home=826
+	}
+	regiment = {
+		name="1st Manisa Artillery"
+		type=artillery
+		home=870
+	}
+	regiment = {
+		name="1st Izmir Artillery"
+		type=artillery
+		home=869
+	}
+}
+
+army = {
+	name="Thema Skoupoi"
+	location=1869
+	regiment = {
+		name="3rd Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+	regiment = {
+		name="1st Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="1st Kütahya Artillery"
+		type=artillery
+		home=867
+	}
+	regiment = {
+		name="2nd Afyon Artillery"
+		type=artillery
+		home=866
+	}
+}
+
+army = {
+	name="Thema Salento"
+	location=834
+	regiment = {
+		name="1st Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="2nd Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="1st Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="1st Chios Artillery"
+		type=artillery
+		home=843
+	}
+}
+

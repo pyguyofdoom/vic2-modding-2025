@@ -1,0 +1,8 @@
+owner=DAI
+controller=DAI
+add_core=CHA
+add_core=DAI
+add_core=IDO
+add_core=LNA
+trade_goods = fish
+life_rating = 35

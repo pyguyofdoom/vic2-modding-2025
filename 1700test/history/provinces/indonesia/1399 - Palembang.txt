@@ -1,0 +1,7 @@
+owner=SRJ
+controller=SRJ
+add_core=MLY
+add_core=PLB
+add_core=SRJ
+trade_goods = grain
+life_rating = 35

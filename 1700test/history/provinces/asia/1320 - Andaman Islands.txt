@@ -1,0 +1,5 @@
+owner=X33
+controller=X33
+add_core=X33
+trade_goods = grain
+life_rating = 30

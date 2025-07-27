@@ -1,0 +1,19 @@
+name = "Srivijayan Reconquest of Api-Api"
+
+1696.10.18 = {
+	add_attacker = SRJ
+	add_attacker = DLI
+	add_attacker = KEL
+	add_attacker = MKS
+	add_attacker = PGR
+	add_attacker = SUN
+	add_defender = BAU
+	add_defender = BNJ
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = SRJ
+		receiver = BAU
+		state_province_id = 1396
+	}
+}

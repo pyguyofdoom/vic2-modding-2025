@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 1218
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 2
+	}
+
+}

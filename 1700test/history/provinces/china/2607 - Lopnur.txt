@@ -1,0 +1,6 @@
+owner=KHA
+controller=KHA
+add_core=KHA
+add_core=YRK
+trade_goods = cotton
+life_rating = 32

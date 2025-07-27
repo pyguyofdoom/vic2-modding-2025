@@ -1,0 +1,7 @@
+owner=GEO
+controller=GEO
+add_core=HND
+add_core=X46
+trade_goods = grain
+life_rating = 35
+colonial=2

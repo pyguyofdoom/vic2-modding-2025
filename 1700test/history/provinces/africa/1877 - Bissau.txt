@@ -1,0 +1,4 @@
+owner=PRO
+controller=PRO
+trade_goods = fish
+life_rating = 35

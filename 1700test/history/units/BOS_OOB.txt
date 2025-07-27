@@ -1,0 +1,606 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 160
+	military_access = yes
+	influence_value = 77
+	level = 5
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 25
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 28
+	level = 2
+}
+USA = {
+	value = 43
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 31
+	level = 2
+}
+X11 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X12 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X13 = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Danijel Pavlovic"
+	date="1679.3.8"
+	type=land
+	personality="chivalrous"
+	background="bootlicker"
+}
+
+leader = {
+	name="Stjepan Tvrtko Hrvatinic"
+	date="1682.10.21"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Matija Branivojevic"
+	date="1693.9.2"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=789
+	regiment = {
+		name="1st Zagreb Infantry"
+		type=infantry
+		home=771
+	}
+	regiment = {
+		name="1st Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="4th Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=257
+	ship = {
+		name="Bosna"
+		type=frigate
+	}
+	ship = {
+		name="Dalmacija"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=265
+	ship = {
+		name="Herzceg"
+		type=frigate
+	}
+	ship = {
+		name="1st Split Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Split Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cattaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Split Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cattaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cattaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dubrovnik Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=804
+	regiment = {
+		name="1st Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Tuzla Infantry"
+		type=infantry
+		home=786
+	}
+	regiment = {
+		name="1st Užice Artillery"
+		type=artillery
+		home=797
+	}
+	regiment = {
+		name="2nd Užice Artillery"
+		type=artillery
+		home=797
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=817
+	regiment = {
+		name="2nd Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="1st Foca Artillery"
+		type=artillery
+		home=787
+	}
+	regiment = {
+		name="2nd Foca Artillery"
+		type=artillery
+		home=787
+	}
+	regiment = {
+		name="3rd Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="3rd Foca Artillery"
+		type=artillery
+		home=787
+	}
+}
+
+army = {
+	name="4th Army"
+	location=799
+	regiment = {
+		name="1st Shumen Infantry"
+		type=infantry
+		home=813
+	}
+	regiment = {
+		name="1st Niš Artillery"
+		type=artillery
+		home=798
+	}
+	regiment = {
+		name="1st Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="1st Osijek Artillery"
+		type=artillery
+		home=779
+	}
+}
+
+army = {
+	name="6th Army"
+	location=265
+	regiment = {
+		name="1st Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="1st Dubrovnik Artillery"
+		type=artillery
+		home=782
+	}
+}
+
+army = {
+	name="7th Army"
+	location=263
+	regiment = {
+		name="1st Livno Artillery"
+		type=artillery
+		home=789
+	}
+}
+

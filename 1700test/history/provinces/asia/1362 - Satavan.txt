@@ -1,0 +1,7 @@
+owner=LNA
+controller=LNA
+add_core=IDO
+add_core=LNA
+add_core=LXA
+trade_goods = fruit
+life_rating = 32

@@ -1,0 +1,6 @@
+owner=ALH
+controller=ALH
+add_core=ALH
+add_core=PER
+trade_goods = cattle
+life_rating = 35

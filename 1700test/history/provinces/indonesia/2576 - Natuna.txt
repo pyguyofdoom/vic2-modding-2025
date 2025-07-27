@@ -1,0 +1,9 @@
+owner=SRJ
+controller=BNJ
+add_core=BRU
+add_core=LAN
+add_core=MLY
+add_core=SRJ
+trade_goods = fish
+life_rating = 31
+terrain = small_island

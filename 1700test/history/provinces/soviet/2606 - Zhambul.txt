@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=MGL
+add_core=X18
+trade_goods = coal
+life_rating = 30
+colonial=2

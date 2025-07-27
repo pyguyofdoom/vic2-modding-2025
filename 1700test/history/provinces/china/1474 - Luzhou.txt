@@ -1,0 +1,8 @@
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=MNX
+add_core=SHU
+add_core=YUA
+trade_goods = cattle
+life_rating = 32

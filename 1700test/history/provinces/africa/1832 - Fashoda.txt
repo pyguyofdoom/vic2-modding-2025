@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=NUB
+add_core=SUD
+trade_goods = grain
+life_rating = 35
+colonial=2

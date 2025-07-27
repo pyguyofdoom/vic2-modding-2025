@@ -1,0 +1,1291 @@
+254 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2568
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 417
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 64
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 809
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 120338
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 2913
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 473
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 918
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 3974
+	}
+
+}
+255 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1286
+	}
+
+	craftsmen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 7973
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2573
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 418
+	}
+
+	clerks=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 241
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	capitalists=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1081
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 114843
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 32
+	}
+
+	craftsmen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 2700
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 439
+	}
+
+	clerks=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 162
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 54
+	}
+
+	capitalists=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1134
+	}
+
+}
+256 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1304
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1304
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 61898
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1479
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 466
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 2018
+	}
+
+}
+257 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1210
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2419
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 786
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 121
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1016
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 115366
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 2582
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 839
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 129
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1084
+	}
+
+}
+258 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 2176
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 4434
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 640
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 88
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 828
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 100607
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size= 490
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size= 1565
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size= 21895
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 6877
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 993
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 138
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1284
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 201
+	}
+
+}
+259 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 5362
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 3830
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 622
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1609
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 179737
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 4038
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 656
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 202
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1696
+	}
+
+}
+260 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 12729
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 20457
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1477
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 409
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 364
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1909
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 189957
+	}
+
+}
+261 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 3000
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 1072
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 102352
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2664
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2975
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 178
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1249
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 87481
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 4162
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 676
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 250
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 166
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1748
+	}
+
+}
+262 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2746
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 12358
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 893
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 247
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1730
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 119230
+	}
+
+}
+263 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 6198
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 15495
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1439
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 310
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 5578
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 192161
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 16018
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 1487
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 320
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = bogomilist
+		size= 5766
+	}
+
+}
+264 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 2446
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 880
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 55940
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2344
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 6880
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 639
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 118
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2478
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 50788
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 9674
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 898
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 166
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 3482
+	}
+
+}
+265 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2636
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 7199
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 668
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 123
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1728
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 81727
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 8002
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 743
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 137
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = bogomilist
+		size= 1921
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 485
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 607
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 16025
+	}
+
+}

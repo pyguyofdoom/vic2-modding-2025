@@ -1,0 +1,6 @@
+owner=LNA
+controller=AVA
+add_core=IDO
+add_core=LNA
+trade_goods = grain
+life_rating = 31

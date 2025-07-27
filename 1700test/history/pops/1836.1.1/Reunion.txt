@@ -1,0 +1,58 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 14042
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 1375
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 6991
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2210
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 160
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 39
+	}
+
+}

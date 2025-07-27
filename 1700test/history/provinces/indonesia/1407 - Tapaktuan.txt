@@ -1,0 +1,7 @@
+owner=PGR
+controller=PGR
+add_core=ATJ
+add_core=MLY
+add_core=PGR
+trade_goods = fish
+life_rating = 35

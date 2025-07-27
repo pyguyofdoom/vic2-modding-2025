@@ -1,0 +1,7 @@
+owner=DLI
+controller=DLI
+add_core=DLI
+add_core=MLY
+add_core=SRJ
+trade_goods = grain
+life_rating = 35

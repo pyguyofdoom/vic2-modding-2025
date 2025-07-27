@@ -1,0 +1,1764 @@
+1151 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 2040
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4682
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 780
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 68
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 655
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 39606
+	}
+
+}
+1152 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 1702
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1363
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 19
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 14770
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = coptic
+		size= 737
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 1411
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 5664
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size= 555
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 284
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 5306
+	}
+
+}
+1153 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 1575
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1693
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 9
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 11906
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = lollard
+		size= 435
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 206
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 1
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = lollard
+		size= 3842
+	}
+
+}
+1154 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size= 660
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1061
+	}
+
+}
+1155 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 608
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 339
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 5397
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 434
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 3
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 4114
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size= 302
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size= 2857
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = coptic
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = coptic
+		size= 1449
+	}
+
+}
+1156 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4159
+	}
+
+}
+1157 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = paulician
+		size= 1820
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 1061
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 15
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 20117
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 2279
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4221
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 704
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 61
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 591
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 20606
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 861
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 502
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 9515
+	}
+
+}
+1158 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 6483
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4956
+	}
+
+}
+1159 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2769
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 347
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1887
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1
+	}
+
+}
+1160 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 1662
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 809
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = yazidi
+		size= 15075
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 1338
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 2112
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 352
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 10196
+	}
+
+}
+1161 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 557
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 4332
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 1861
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 8
+	}
+
+}
+1163 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 267
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = yazidi
+		size= 343
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = yazidi
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 5
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 6817
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 389
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1763
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 293
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 8265
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 328
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 421
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 8364
+	}
+
+}
+1164 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 151
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 14034
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1492
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 249
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 8
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 6979
+	}
+
+}
+2586 = {
+	soldiers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = yazidi
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = yazidi
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 1059
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 871
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = paulician
+		size= 789
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monothelite
+		size= 471
+	}
+
+}

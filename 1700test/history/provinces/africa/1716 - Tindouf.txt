@@ -1,0 +1,11 @@
+owner=PRO
+controller=PRO
+trade_goods = fruit
+life_rating = 10
+colonial=2
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

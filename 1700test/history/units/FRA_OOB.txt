@@ -1,0 +1,1165 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 175
+	military_access = yes
+	influence_value = 81
+	level = 5
+}
+ARK = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+AYR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 287
+	military_access = yes
+	influence_value = 109
+	level = 5
+}
+BNE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BNG = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+BNJ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 93
+	influence_value = 10
+	level = 3
+}
+BRR = {
+	value = -77
+	level = 2
+}
+BRZ = {
+	value = 154
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+BTU = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -34
+	level = 2
+}
+CAL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CAM = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CDL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+DLI = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+KAX = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+KEL = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LNA = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+MEX = {
+	value = 87
+	influence_value = 9
+	level = 2
+}
+MIK = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MLS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSA = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+PNJ = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+PRO = {
+	value = -106
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -61
+	level = 2
+}
+SDY = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SIA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 160
+	military_access = yes
+	influence_value = 77
+	level = 5
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+STA = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = -4
+	level = 2
+}
+SUL = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SUN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 45
+	level = 2
+}
+TID = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 6
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X12 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X13 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+X30 = {
+	value = 192
+	military_access = yes
+	influence_value = 85
+	level = 5
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 239
+	military_access = yes
+	influence_value = 97
+	level = 5
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X43 = {
+	value = -17
+	level = 2
+}
+X44 = {
+	value = -13
+	level = 2
+}
+X45 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X46 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X48 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X49 = {
+	value = 31
+	level = 2
+}
+X50 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ranimiro de Beaudiez"
+	date="1663.1.15"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hunfroi de Machecoul"
+	date="1664.11.12"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Guihomart de Gourcuff"
+	date="1678.5.24"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Adrien de la Trémoille"
+	date="1678.5.26"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ingjald de Malestroit"
+	date="1682.1.31"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Alphonse de Bonnefoy"
+	date="1696.5.20"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Augustin de Maurepas"
+	date="1700.5.9"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Augustin de Maurepas"
+	date="1700.5.9"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Armée de Salavata"
+	location=436
+	regiment = {
+		name="1st Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="1st Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+	regiment = {
+		name="1st La Rochelle Artillery"
+		type=artillery
+		home=442
+	}
+	regiment = {
+		name="1st Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st La Roche Artillery"
+		type=artillery
+		home=437
+	}
+}
+
+army = {
+	name="Armée de Bordeaux"
+	location=2120
+	regiment = {
+		name="1st Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="1st Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2723
+	ship = {
+		name="Condor"
+		type=frigate
+	}
+	ship = {
+		name="Epervier"
+		type=frigate
+	}
+	ship = {
+		name="Faucon"
+		type=frigate
+	}
+	ship = {
+		name="Vautour"
+		type=frigate
+	}
+	ship = {
+		name="Wattignies"
+		type=frigate
+	}
+	ship = {
+		name="Levrier"
+		type=frigate
+	}
+	ship = {
+		name="Casablanca"
+		type=frigate
+	}
+	ship = {
+		name="D'Iberville"
+		type=frigate
+	}
+	ship = {
+		name="Cassini"
+		type=frigate
+	}
+	ship = {
+		name="Lahire"
+		type=frigate
+	}
+	ship = {
+		name="Circé"
+		type=frigate
+	}
+	ship = {
+		name="Hermione"
+		type=frigate
+	}
+	ship = {
+		name="Pallas"
+		type=frigate
+	}
+	ship = {
+		name="Sémiramis"
+		type=frigate
+	}
+	ship = {
+		name="Armorique"
+		type=frigate
+	}
+	ship = {
+		name="Junon"
+		type=frigate
+	}
+	ship = {
+		name="Magicienne"
+		type=frigate
+	}
+	ship = {
+		name="Thémis"
+		type=frigate
+	}
+	ship = {
+		name="Flore"
+		type=frigate
+	}
+	ship = {
+		name="4th Vannes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd French Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Brieuc Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2795
+	ship = {
+		name="Alexandre"
+		type=manowar
+	}
+	ship = {
+		name="Breslaw"
+		type=manowar
+	}
+	ship = {
+		name="Prince Jérôme"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Paris"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Nantes"
+		type=manowar
+	}
+	ship = {
+		name="Duguay-Trouin"
+		type=manowar
+	}
+	ship = {
+		name="Tage"
+		type=manowar
+	}
+	ship = {
+		name="Donawerth"
+		type=manowar
+	}
+	ship = {
+		name="Saint Louis"
+		type=manowar
+	}
+	ship = {
+		name="Fontenoy"
+		type=manowar
+	}
+	ship = {
+		name="Turenne"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Bordeaux"
+		type=manowar
+	}
+	ship = {
+		name="Castiglione"
+		type=manowar
+	}
+	ship = {
+		name="Masséna"
+		type=manowar
+	}
+	ship = {
+		name="Bayard"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Lyon"
+		type=manowar
+	}
+	ship = {
+		name="Louis XIV"
+		type=manowar
+	}
+	ship = {
+		name="2nd St Brieuc Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amiens Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kilwa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1305
+	ship = {
+		name="1st Guatemala City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nantes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Colombo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nantes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Inverness Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mérida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zwolle Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armée de Comoros"
+	location=492
+	regiment = {
+		name="1st La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="1st Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Rennes Infantry"
+		type=infantry
+		home=424
+	}
+	regiment = {
+		name="1st Alençon Artillery"
+		type=artillery
+		home=417
+	}
+	regiment = {
+		name="1st Le Mans Artillery"
+		type=artillery
+		home=436
+	}
+	regiment = {
+		name="1st Vannes Artillery"
+		type=artillery
+		home=422
+	}
+	regiment = {
+		name="2nd Le Mans Artillery"
+		type=artillery
+		home=436
+	}
+	regiment = {
+		name="1st Angers Artillery"
+		type=artillery
+		home=434
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=2570
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="2nd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="2nd London Infantry"
+		type=infantry
+		home=300
+	}
+}
+
+army = {
+	name="Flemish Company"
+	location=415
+	regiment = {
+		name="2nd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="3rd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+}
+
+army = {
+	name="Armée de Narbonnais"
+	location=1305
+	regiment = {
+		name="1st Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="2nd Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="1st La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="2nd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+	regiment = {
+		name="1st Poitiers Artillery"
+		type=artillery
+		home=443
+	}
+	regiment = {
+		name="1st Mont de Marsan Artillery"
+		type=artillery
+		home=459
+	}
+	regiment = {
+		name="2nd Alençon Artillery"
+		type=artillery
+		home=417
+	}
+}
+
+army = {
+	name="Armée de Caen"
+	location=282
+	regiment = {
+		name="1st Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="3rd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="2nd Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="1st Brest Infantry"
+		type=infantry
+		home=420
+	}
+	regiment = {
+		name="1st Paris Cavalry"
+		type=cavalry
+		home=425
+	}
+	regiment = {
+		name="1st Southampton Artillery"
+		type=artillery
+		home=303
+	}
+	regiment = {
+		name="2nd La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="1st Bilbao Cavalry"
+		type=cavalry
+		home=492
+	}
+	regiment = {
+		name="1st Pau Cavalry"
+		type=cavalry
+		home=460
+	}
+	regiment = {
+		name="1st Carcassonne Cavalry"
+		type=cavalry
+		home=463
+	}
+	regiment = {
+		name="1st Foix Cavalry"
+		type=cavalry
+		home=457
+	}
+	regiment = {
+		name="2nd Carcassonne Cavalry"
+		type=cavalry
+		home=463
+	}
+	regiment = {
+		name="1st Laval Artillery"
+		type=artillery
+		home=435
+	}
+	regiment = {
+		name="1st Nantes Artillery"
+		type=artillery
+		home=423
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=303
+	ship = {
+		name="1st Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Southampton Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armée de Fiherana"
+	location=1279
+	regiment = {
+		name="1st Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="2nd Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+}
+

@@ -1,0 +1,10 @@
+owner=CAL
+controller=CAL
+add_core=APA
+add_core=CAL
+add_core=MSC
+add_core=NAH
+add_core=X02
+trade_goods = grain
+life_rating = 30
+terrain = semidesert

@@ -1,0 +1,7 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=SPA
+add_core=X16
+trade_goods = cattle
+life_rating = 35

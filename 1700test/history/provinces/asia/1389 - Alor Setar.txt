@@ -1,0 +1,6 @@
+owner=SRJ
+controller=SRJ
+add_core=MLY
+add_core=SRJ
+trade_goods = timber
+life_rating = 35

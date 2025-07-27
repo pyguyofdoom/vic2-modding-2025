@@ -1,0 +1,9 @@
+owner=X33
+controller=X33
+add_core=ASM
+add_core=BNG
+add_core=HND
+add_core=X33
+add_core=X34
+trade_goods = grain
+life_rating = 32

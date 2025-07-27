@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=NOR
+add_core=SCA
+add_core=X26
+trade_goods = timber
+life_rating = 10

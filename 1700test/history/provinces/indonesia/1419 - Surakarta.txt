@@ -1,0 +1,7 @@
+owner=SUN
+controller=SRJ
+add_core=MJP
+add_core=SRJ
+add_core=SUN
+trade_goods = fruit
+life_rating = 35

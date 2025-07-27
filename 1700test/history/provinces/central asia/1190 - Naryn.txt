@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=KAS
+add_core=TKS
+add_core=YUA
+trade_goods = grain
+life_rating = 35

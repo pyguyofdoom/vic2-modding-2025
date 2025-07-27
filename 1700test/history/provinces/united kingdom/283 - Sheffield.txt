@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=DEN
+add_core=FRA
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1

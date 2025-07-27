@@ -1,0 +1,9 @@
+owner=BYZ
+controller=BYZ
+add_core=ADA
+add_core=NUB
+add_core=SUD
+trade_goods = fish
+life_rating = 31
+terrain = semidesert
+colonial=2

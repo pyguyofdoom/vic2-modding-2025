@@ -1,0 +1,9 @@
+owner=CAL
+controller=CAL
+add_core=APA
+add_core=CAL
+add_core=MSC
+add_core=NAH
+add_core=X02
+trade_goods = coal
+life_rating = 35

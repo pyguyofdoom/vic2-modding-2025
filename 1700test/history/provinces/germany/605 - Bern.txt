@@ -1,0 +1,7 @@
+owner=HLR
+controller=HLR
+add_core=HLR
+add_core=SWI
+add_core=X24
+trade_goods = iron
+life_rating = 34

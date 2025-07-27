@@ -1,0 +1,6 @@
+owner=RDL
+controller=RDL
+add_core=RDL
+add_core=X07
+trade_goods = cotton
+life_rating = 35

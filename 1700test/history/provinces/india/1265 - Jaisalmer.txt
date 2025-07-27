@@ -1,0 +1,7 @@
+owner=PNJ
+controller=PNJ
+add_core=HND
+add_core=MEW
+add_core=PNJ
+trade_goods = wool
+life_rating = 32

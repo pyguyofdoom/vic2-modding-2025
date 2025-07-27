@@ -1,0 +1,7 @@
+owner=X46
+controller=UKR
+add_core=TKS
+add_core=X46
+trade_goods = fruit
+life_rating = 15
+terrain = desert

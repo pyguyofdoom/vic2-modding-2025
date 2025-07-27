@@ -1,0 +1,6 @@
+owner=BAU
+controller=BAU
+add_core=BAU
+add_core=MLY
+trade_goods = wool
+life_rating = 31

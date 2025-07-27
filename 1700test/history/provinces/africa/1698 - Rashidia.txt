@@ -1,0 +1,7 @@
+owner=PRO
+controller=PRO
+add_core=X37
+trade_goods = grain
+life_rating = 31
+terrain = semidesert
+fort = 1

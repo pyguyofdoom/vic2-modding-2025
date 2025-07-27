@@ -1,0 +1,6 @@
+owner=SDY
+controller=SDY
+add_core=SDY
+add_core=X42
+trade_goods = fish
+life_rating = 32

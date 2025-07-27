@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=QIC
+add_core=YUA
+trade_goods = silk
+life_rating = 32

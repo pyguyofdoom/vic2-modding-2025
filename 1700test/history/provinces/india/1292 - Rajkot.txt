@@ -1,0 +1,9 @@
+owner=RAJ
+controller=RAJ
+add_core=HND
+add_core=JGD
+add_core=RAJ
+trade_goods = fish
+life_rating = 32
+naval_base = 2
+fort = 1

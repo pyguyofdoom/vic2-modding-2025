@@ -1,0 +1,8 @@
+owner=PNJ
+controller=PNJ
+add_core=HND
+add_core=MEW
+add_core=PNJ
+add_core=RAJ
+trade_goods = cattle
+life_rating = 32

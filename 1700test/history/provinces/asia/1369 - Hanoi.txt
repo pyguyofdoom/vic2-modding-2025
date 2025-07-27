@@ -1,0 +1,7 @@
+owner=LNA
+controller=LNA
+add_core=DAI
+add_core=IDO
+add_core=LNA
+trade_goods = grain
+life_rating = 40

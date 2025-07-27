@@ -1,0 +1,1077 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 28
+	level = 2
+}
+ARK = {
+	value = 52
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BNE = {
+	value = 187
+	military_access = yes
+	influence_value = 54
+	level = 5
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 8
+	level = 2
+}
+DLI = {
+	value = 76
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -22
+	level = 2
+}
+GEO = {
+	value = -3
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = -45
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KAX = {
+	value = 44
+	level = 2
+}
+KEL = {
+	value = 29
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 155
+	influence_value = 26
+	level = 4
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+LNA = {
+	value = 26
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 68
+	military_access = yes
+	influence_value = 54
+	level = 5
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = -13
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 37
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SUN = {
+	value = -2
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 24
+	level = 2
+}
+TGA = {
+	value = -9
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 200
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = -85
+	level = 2
+}
+X34 = {
+	value = 49
+	level = 2
+}
+X35 = {
+	value = 52
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+X41 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X43 = {
+	value = 37
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 40
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 188
+	influence_value = 34
+	level = 2
+}
+X49 = {
+	value = 46
+	level = 2
+}
+X50 = {
+	value = 437
+	influence_value = 46
+	level = 3
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="'Abd al-Jalîl I Srivijaya"
+	date="1695.4.14"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Nasr ad-Dîn Nazmizan"
+	date="1668.2.14"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Mahmûd Ri'âyat Shâh Hasanuddin"
+	date="1670.11.3"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Inayat Batuta"
+	date="1684.5.3"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="'Abd al-Jalîl Shâh Zulkifli"
+	date="1695.4.12"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Rajah Qasim Hasanuddin"
+	date="1695.4.13"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Rahmat Shâh Nazmizan"
+	date="1695.4.17"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sulaymân Kyai"
+	date="1699.5.26"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="12th Fleet"
+	location=1389
+	ship = {
+		name="1st Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Semarang Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1402
+	ship = {
+		name="2nd Kota Waringin Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="17th Fleet"
+	location=1436
+	ship = {
+		name="1st Gladstone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inderagiri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lombok Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Inderagiri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuching Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Palembang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kuching Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1386
+	ship = {
+		name="1st Kelang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bencoolen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jambi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hainan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Qui Nhon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1445
+	regiment = {
+		name="1st Probolinggo Artillery"
+		type=artillery
+		home=1420
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1430
+	regiment = {
+		name="1st Kuantan Artillery"
+		type=artillery
+		home=1390
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1437
+	regiment = {
+		name="1st Tanjung Puteri Cavalry"
+		type=cavalry
+		home=1385
+	}
+	regiment = {
+		name="1st Tanjungpinang Cavalry"
+		type=cavalry
+		home=1402
+	}
+	regiment = {
+		name="1st Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+	regiment = {
+		name="1st Ipoh Artillery"
+		type=artillery
+		home=2575
+	}
+	regiment = {
+		name="1st Alor Setar Cavalry"
+		type=cavalry
+		home=1389
+	}
+	regiment = {
+		name="1st Ipoh Cavalry"
+		type=cavalry
+		home=2575
+	}
+	regiment = {
+		name="2nd Alor Setar Cavalry"
+		type=cavalry
+		home=1389
+	}
+	regiment = {
+		name="1st Singapore Artillery"
+		type=artillery
+		home=1384
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1404
+	regiment = {
+		name="1st Koepang Artillery"
+		type=artillery
+		home=1445
+	}
+	regiment = {
+		name="1st Lombok Artillery"
+		type=artillery
+		home=1442
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1420
+	regiment = {
+		name="1st Dili Artillery"
+		type=artillery
+		home=1446
+	}
+	regiment = {
+		name="1st Flores Artillery"
+		type=artillery
+		home=1439
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1458
+	regiment = {
+		name="1st Flores Irregulars"
+		type=irregular
+		home=1439
+	}
+	regiment = {
+		name="2nd Probolinggo Artillery"
+		type=artillery
+		home=1420
+	}
+	regiment = {
+		name="1st Rote Irregulars"
+		type=irregular
+		home=1443
+	}
+	regiment = {
+		name="1st Dili Irregulars"
+		type=irregular
+		home=1446
+	}
+	regiment = {
+		name="1st Probolinggo Irregulars"
+		type=irregular
+		home=1420
+	}
+	regiment = {
+		name="2nd Dili Irregulars"
+		type=irregular
+		home=1446
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1455
+	regiment = {
+		name="1st Palembang Irregulars"
+		type=irregular
+		home=1399
+	}
+	regiment = {
+		name="1st Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="2nd Palembang Irregulars"
+		type=irregular
+		home=1399
+	}
+	regiment = {
+		name="1st Tanjungpinang Irregulars"
+		type=irregular
+		home=1402
+	}
+	regiment = {
+		name="1st Tanjung Puteri Irregulars"
+		type=irregular
+		home=1385
+	}
+	regiment = {
+		name="2nd Singapore Artillery"
+		type=artillery
+		home=1384
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2900
+	ship = {
+		name="1st Palak Pinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bombay Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=1418
+	ship = {
+		name="1st Natuna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taliabu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lifau Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="18th Fleet"
+	location=1435
+	ship = {
+		name="1st Surakarta Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2813
+	ship = {
+		name="2nd Kendari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bombay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bombay Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1463
+	ship = {
+		name="1st Palembang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gunungsitoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Merauke Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Palembang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanjungpinang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jambi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Singapore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Palembang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Qui Nhon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Malacca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gunungsitoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Malacca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Singapore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tanjungpinang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Siak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jambi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alor Setar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Roebourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bombay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pattani Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sumba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ambon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Banjarmasin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Surakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tokelau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palak Pinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taliabu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Taliabu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Samarinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Api Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lampung Frigate"
+		type=frigate
+	}
+}
+

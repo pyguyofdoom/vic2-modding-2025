@@ -1,0 +1,6 @@
+owner=USA
+controller=USA
+add_core=DMS
+add_core=ENG
+trade_goods = fish
+life_rating = 35

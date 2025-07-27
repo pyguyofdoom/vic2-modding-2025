@@ -1,0 +1,1658 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BAU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BNY = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+BOS = {
+	value = 34
+	level = 2
+}
+BRR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BTU = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+CAL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CAM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 97
+	influence_value = 11
+	level = 3
+}
+GEO = {
+	value = -1
+	level = 2
+}
+GUR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+ITA = {
+	value = 144
+	influence_value = 23
+	level = 3
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KZB = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+LGR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LNA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+MEX = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+MIK = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSA = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 239
+	influence_value = 47
+	level = 3
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -165
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -87
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+STA = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+USA = {
+	value = -21
+	level = 2
+}
+WSI = {
+	value = 78
+	influence_value = 7
+	level = 3
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -87
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X13 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X15 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X16 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X33 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+X37 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X40 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X41 = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hektor Scheler"
+	date="1676.3.13"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Karl Mertesdorf"
+	date="1686.9.3"
+	type=land
+	personality="chivalrous"
+	background="war_college"
+}
+
+leader = {
+	name="August Lindner"
+	date="1689.3.23"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Albrecht Thelen"
+	date="1689.4.7"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Matthias Edelmann"
+	date="1689.4.23"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Leopold Noell"
+	date="1689.7.6"
+	type=land
+	personality="resolute"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hektor Kuhn"
+	date="1694.3.16"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2794
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Deutschland"
+		type=clipper_transport
+	}
+	ship = {
+		name="Donau"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neckar"
+		type=clipper_transport
+	}
+	ship = {
+		name="New York"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nord-Amerika"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pamir"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pangani"
+		type=clipper_transport
+	}
+	ship = {
+		name="Passat"
+		type=clipper_transport
+	}
+	ship = {
+		name="Peking"
+		type=clipper_transport
+	}
+	ship = {
+		name="Peter Rickmers"
+		type=clipper_transport
+	}
+	ship = {
+		name="Petschili"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pisagua"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pitlochry"
+		type=clipper_transport
+	}
+	ship = {
+		name="Placilla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pola"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pommern"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1316
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="Elsass"
+		type=manowar
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Hessen"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Barbarossa"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Friedrich III"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Karl der Grosse"
+		type=manowar
+	}
+	ship = {
+		name="Kurfürst Friedrich Wilhelm"
+		type=manowar
+	}
+	ship = {
+		name="Lothringen"
+		type=manowar
+	}
+	ship = {
+		name="Mecklenburg"
+		type=manowar
+	}
+	ship = {
+		name="Preussen"
+		type=manowar
+	}
+	ship = {
+		name="Schlesien"
+		type=manowar
+	}
+	ship = {
+		name="Schleswig-Holstein"
+		type=manowar
+	}
+	ship = {
+		name="Schwaben"
+		type=manowar
+	}
+	ship = {
+		name="Weissenburg"
+		type=manowar
+	}
+	ship = {
+		name="Wettin"
+		type=manowar
+	}
+	ship = {
+		name="Wittelsbach"
+		type=manowar
+	}
+	ship = {
+		name="Wörth"
+		type=manowar
+	}
+	ship = {
+		name="Zähringen"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dunkirk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Amsterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mayumbe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mbanza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Emden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bisho Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Imperial Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dunkirk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Imperial Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vannes Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=400
+	regiment = {
+		name="1st Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="2nd Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="1st Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="2nd Lille Artillery"
+		type=artillery
+		home=399
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=543
+	regiment = {
+		name="1st Arras Infantry"
+		type=infantry
+		home=401
+	}
+	regiment = {
+		name="1st Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="3rd Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="1st Limburg Artillery"
+		type=artillery
+		home=381
+	}
+	regiment = {
+		name="1st Amsterdam Artillery"
+		type=artillery
+		home=375
+	}
+	regiment = {
+		name="1st Eindhoven Artillery"
+		type=artillery
+		home=379
+	}
+	regiment = {
+		name="2nd Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="1st Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="3rd Bruges Artillery"
+		type=artillery
+		home=388
+	}
+}
+
+army = {
+	name="14th Army"
+	location=377
+	regiment = {
+		name="1st Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="1st Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+	regiment = {
+		name="1st Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="1st Rotterdam Artillery"
+		type=artillery
+		home=376
+	}
+	regiment = {
+		name="1st Arras Artillery"
+		type=artillery
+		home=401
+	}
+}
+
+army = {
+	name="13th Army"
+	location=384
+	regiment = {
+		name="1st Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="2nd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="1st Zwolle Artillery"
+		type=artillery
+		home=384
+	}
+	regiment = {
+		name="1st Düsseldorf Artillery"
+		type=artillery
+		home=578
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2046
+	regiment = {
+		name="1st Mbeya Infantry"
+		type=infantry
+		home=2046
+	}
+	regiment = {
+		name="2nd Mbeya Infantry"
+		type=infantry
+		home=2046
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=531
+	regiment = {
+		name="1st Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="2nd Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="3rd Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="4th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="5th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=385
+	regiment = {
+		name="1st Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="2nd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="3rd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+}
+
+army = {
+	name="Asafo Company"
+	location=387
+	regiment = {
+		name="1st Saarbrücken Infantry"
+		type=infantry
+		home=573
+	}
+	regiment = {
+		name="2nd Saarbrücken Infantry"
+		type=infantry
+		home=573
+	}
+	regiment = {
+		name="3rd Saarbrücken Infantry"
+		type=infantry
+		home=573
+	}
+}
+
+army = {
+	name="Armee von Dortmund"
+	location=403
+	regiment = {
+		name="1st Melun Infantry"
+		type=infantry
+		home=427
+	}
+	regiment = {
+		name="1st Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="1st Clermont-Ferrand Infantry"
+		type=infantry
+		home=448
+	}
+	regiment = {
+		name="1st Chartres Artillery"
+		type=artillery
+		home=426
+	}
+	regiment = {
+		name="1st Tours Artillery"
+		type=artillery
+		home=441
+	}
+	regiment = {
+		name="1st Moulins Artillery"
+		type=artillery
+		home=430
+	}
+	regiment = {
+		name="1st Melun Artillery"
+		type=artillery
+		home=427
+	}
+	regiment = {
+		name="1st Chartres Infantry"
+		type=infantry
+		home=426
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2737
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+	ship = {
+		name="Albatross"
+		type=frigate
+	}
+	ship = {
+		name="Alexandrine"
+		type=frigate
+	}
+	ship = {
+		name="Amazone"
+		type=frigate
+	}
+	ship = {
+		name="Arcona"
+		type=frigate
+	}
+	ship = {
+		name="Ariadne"
+		type=frigate
+	}
+	ship = {
+		name="Augusta"
+		type=frigate
+	}
+	ship = {
+		name="Barbarossa"
+		type=frigate
+	}
+	ship = {
+		name="Basilisk"
+		type=frigate
+	}
+	ship = {
+		name="Bismarck"
+		type=frigate
+	}
+	ship = {
+		name="Blitz"
+		type=frigate
+	}
+	ship = {
+		name="Blücher"
+		type=frigate
+	}
+}
+
+army = {
+	name="Zanj Company"
+	location=379
+	regiment = {
+		name="2nd Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="3rd Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="4th Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+}
+
+army = {
+	name="Buccaneer Battalion"
+	location=380
+	regiment = {
+		name="1st Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="2nd Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="3rd Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="4th Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+}
+
+army = {
+	name="Silver Company"
+	location=391
+	regiment = {
+		name="1st Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="2nd Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="3rd Charleville Infantry"
+		type=infantry
+		home=405
+	}
+}
+
+army = {
+	name="Sahel Company"
+	location=404
+	regiment = {
+		name="1st Liège Infantry"
+		type=infantry
+		home=395
+	}
+	regiment = {
+		name="1st Eupen-Malmedy Infantry"
+		type=infantry
+		home=396
+	}
+	regiment = {
+		name="2nd Arlon Infantry"
+		type=infantry
+		home=398
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=382
+	regiment = {
+		name="1st Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="2nd Verdun Infantry"
+		type=infantry
+		home=413
+	}
+}
+
+army = {
+	name="Free Swiss Guard"
+	location=542
+	regiment = {
+		name="1st Chaumont Infantry"
+		type=infantry
+		home=407
+	}
+	regiment = {
+		name="2nd Chaumont Infantry"
+		type=infantry
+		home=407
+	}
+}
+
+army = {
+	name="Frisian Free Company"
+	location=390
+	regiment = {
+		name="1st Metz Infantry"
+		type=infantry
+		home=412
+	}
+	regiment = {
+		name="2nd Metz Infantry"
+		type=infantry
+		home=412
+	}
+}
+
+army = {
+	name="Flemish Company"
+	location=389
+	regiment = {
+		name="1st Nancy Infantry"
+		type=infantry
+		home=411
+	}
+	regiment = {
+		name="1st Épinal Infantry"
+		type=infantry
+		home=414
+	}
+}
+
+army = {
+	name="Wandering Knights of Rhodes"
+	location=540
+	regiment = {
+		name="1st Laon Infantry"
+		type=infantry
+		home=403
+	}
+}
+
+army = {
+	name="Dahomey Amazons"
+	location=401
+	regiment = {
+		name="1st Luxembourg Infantry"
+		type=infantry
+		home=397
+	}
+}
+
+army = {
+	name="Yaka Free Warriors"
+	location=394
+	regiment = {
+		name="2nd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="3rd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+}
+
+army = {
+	name="4th Army"
+	location=388
+	regiment = {
+		name="1st Orléans Infantry"
+		type=infantry
+		home=438
+	}
+	regiment = {
+		name="2nd Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="3rd Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="1st Middelburg Artillery"
+		type=artillery
+		home=378
+	}
+	regiment = {
+		name="1st Freiburg Artillery"
+		type=artillery
+		home=587
+	}
+	regiment = {
+		name="1st Ghent Artillery"
+		type=artillery
+		home=389
+	}
+	regiment = {
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
+	}
+	regiment = {
+		name="1st Limoges Infantry"
+		type=infantry
+		home=445
+	}
+}
+
+army = {
+	name="5th Army"
+	location=375
+	regiment = {
+		name="4th Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="4th Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="1st Zurich Infantry"
+		type=infantry
+		home=603
+	}
+	regiment = {
+		name="1st Karlsruhe Artillery"
+		type=artillery
+		home=586
+	}
+	regiment = {
+		name="1st Clermont-Ferrand Artillery"
+		type=artillery
+		home=448
+	}
+	regiment = {
+		name="1st Tulle Artillery"
+		type=artillery
+		home=447
+	}
+	regiment = {
+		name="2nd Karlsruhe Artillery"
+		type=artillery
+		home=586
+	}
+	regiment = {
+		name="1st Moulins Infantry"
+		type=infantry
+		home=430
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1284
+	regiment = {
+		name="2nd Zurich Infantry"
+		type=infantry
+		home=603
+	}
+	regiment = {
+		name="5th Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="3rd Zurich Infantry"
+		type=infantry
+		home=603
+	}
+	regiment = {
+		name="1st Lyon Artillery"
+		type=artillery
+		home=451
+	}
+	regiment = {
+		name="1st Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="1st Blois Artillery"
+		type=artillery
+		home=440
+	}
+	regiment = {
+		name="2nd Limburg Artillery"
+		type=artillery
+		home=381
+	}
+	regiment = {
+		name="1st Karlsruhe Infantry"
+		type=infantry
+		home=586
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1306
+	regiment = {
+		name="1st Antwerp Infantry"
+		type=infantry
+		home=390
+	}
+	regiment = {
+		name="1st Tübingen Infantry"
+		type=infantry
+		home=591
+	}
+	regiment = {
+		name="1st Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Osnabrück Infantry"
+		type=infantry
+		home=538
+	}
+	regiment = {
+		name="2nd Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="1st Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="6th Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="1st Darmstadt Artillery"
+		type=artillery
+		home=2560
+	}
+	regiment = {
+		name="1st Macon Artillery"
+		type=artillery
+		home=431
+	}
+	regiment = {
+		name="1st Besançon Artillery"
+		type=artillery
+		home=432
+	}
+	regiment = {
+		name="1st Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="2nd Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="1st Wiesbaden Artillery"
+		type=artillery
+		home=565
+	}
+}
+
+army = {
+	name="Gorkhalis"
+	location=1300
+	regiment = {
+		name="1st Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Macon Infantry"
+		type=infantry
+		home=431
+	}
+}
+
+army = {
+	name="Great Lakes Free Warriors"
+	location=1287
+	regiment = {
+		name="1st Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="2nd Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+}
+
+army = {
+	name="Tamil Company"
+	location=1306
+	regiment = {
+		name="3rd Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="4th Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="1st Mangalore Artillery"
+		type=artillery
+		home=1316
+	}
+	regiment = {
+		name="5th Mangalore Infantry"
+		type=infantry
+		home=1316
+	}
+	regiment = {
+		name="2nd Mangalore Artillery"
+		type=artillery
+		home=1316
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+add_core=XAL
+trade_goods = fish
+life_rating = 35

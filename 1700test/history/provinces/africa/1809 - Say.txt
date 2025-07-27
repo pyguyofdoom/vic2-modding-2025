@@ -1,0 +1,9 @@
+owner=PRO
+controller=GUR
+add_core=GUR
+add_core=SGH
+add_core=TMB
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert
+colonial=2

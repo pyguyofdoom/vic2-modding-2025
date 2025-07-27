@@ -1,0 +1,6 @@
+owner=UKR
+controller=UKR
+add_core=X22
+trade_goods = sulphur
+life_rating = 35
+colonial=2

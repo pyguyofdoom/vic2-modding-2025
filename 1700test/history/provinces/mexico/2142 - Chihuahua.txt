@@ -1,0 +1,6 @@
+owner=BLZ
+controller=MEX
+add_core=BLZ
+add_core=MEX
+trade_goods = iron
+life_rating = 35

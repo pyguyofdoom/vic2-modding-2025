@@ -1,0 +1,381 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 592
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 285
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1437
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 516
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 3
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1229
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2661
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2993
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 5637
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 94
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 340
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1968
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 2907
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 612
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 594
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = norse_pagan_reformed
+		size= 82
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1484
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 3042
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 691
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 41
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 850
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 1752
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 265
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 3
+	}
+
+}

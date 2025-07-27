@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=BYZ
+add_core=EGY
+add_core=X38
+trade_goods = grain
+life_rating = 10

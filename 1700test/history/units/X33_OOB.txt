@@ -1,0 +1,765 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 182
+	military_access = yes
+	influence_value = 53
+	level = 5
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUE = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BNG = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 146
+	military_access = yes
+	influence_value = 74
+	level = 5
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -55
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 203
+	military_access = yes
+	influence_value = 58
+	level = 5
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -26
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 21
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 136
+	influence_value = 21
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -35
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 175
+	military_access = yes
+	influence_value = 51
+	level = 5
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 186
+	influence_value = 34
+	level = 3
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 315
+	military_access = yes
+	influence_value = 86
+	level = 5
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SNZ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = -32
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 14
+	level = 2
+}
+SUN = {
+	value = -72
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 179
+	influence_value = 32
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = -73
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 139
+	influence_value = 22
+	level = 3
+}
+X43 = {
+	value = -124
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 19
+	level = 2
+}
+X49 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Tsenye Gnon"
+	date="1676.10.12"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Pratapnarayanroy Dbas"
+	date="1681.9.10"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Gyalpo Khun"
+	date="1682.5.28"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Phagpa Ldong"
+	date="1686.5.17"
+	type=land
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Lhanang Se"
+	date="1693.3.7"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1461
+	regiment = {
+		name="1st Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="2nd Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="1st Chittagong Cavalry"
+		type=cavalry
+		home=1257
+	}
+	regiment = {
+		name="1st Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="3rd Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="4th Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="5th Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="2nd Chittagong Cavalry"
+		type=cavalry
+		home=1257
+	}
+	regiment = {
+		name="3rd Chittagong Cavalry"
+		type=cavalry
+		home=1257
+	}
+	regiment = {
+		name="3rd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="5th Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1257
+	regiment = {
+		name="2nd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="4th Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="1st Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2850
+	ship = {
+		name="1st Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jolo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Solomon Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Solomon Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2800
+	ship = {
+		name="1st Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Andaman Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ceram Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ceram Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ceram Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taliabu Clipper Transport"
+		type=clipper_transport
+	}
+}
+

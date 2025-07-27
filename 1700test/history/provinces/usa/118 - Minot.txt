@@ -1,0 +1,5 @@
+owner=NAK
+controller=NAK
+add_core=NAK
+trade_goods = coal
+life_rating = 35

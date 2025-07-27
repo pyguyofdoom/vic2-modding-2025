@@ -1,0 +1,8 @@
+owner=BRR
+controller=BRR
+add_core=BRR
+add_core=BUN
+add_core=HND
+add_core=SRI
+trade_goods = dye
+life_rating = 32

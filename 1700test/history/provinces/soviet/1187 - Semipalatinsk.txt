@@ -1,0 +1,7 @@
+owner=KHA
+controller=KHA
+add_core=KHA
+add_core=MGL
+add_core=X18
+trade_goods = timber
+life_rating = 30

@@ -1,0 +1,1090 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 27
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = -4
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 40
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = -43
+	level = 2
+}
+BOS = {
+	value = 43
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 1
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = -2
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -25
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = -78
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIK = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 174
+	influence_value = 31
+	level = 4
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = -46
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 220
+	influence_value = 42
+	level = 4
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = -31
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adriano de Cadenet"
+	date="1680.9.6"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ionas de Baschi"
+	date="1685.1.19"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Pelagio de Gassendi"
+	date="1689.10.4"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Pelagio d'Aiguières"
+	date="1690.2.4"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Mathieu de Saint Victoret"
+	date="1690.2.10"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Iarnuocon d'Aiglun"
+	date="1690.2.13"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Theocharistos de Monteil"
+	date="1690.2.15"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Aldrien de Barberin"
+	date="1690.3.4"
+	type=sea
+	personality="polite"
+	background="pawn"
+}
+
+leader = {
+	name="Aldobrandino de Castaing"
+	date="1692.3.20"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Aldebert d'Audiffredi"
+	date="1697.5.4"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Neven III de Montmorency"
+	date="1697.10.28"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Armée de Ceuta"
+	location=506
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st Ziguinchor Infantry"
+		type=infantry
+		home=1792
+	}
+	regiment = {
+		name="1st Safi Cavalry"
+		type=cavalry
+		home=2563
+	}
+	regiment = {
+		name="1st Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Safi Artillery"
+		type=artillery
+		home=2563
+	}
+	regiment = {
+		name="1st Segu Cavalry"
+		type=cavalry
+		home=1800
+	}
+	regiment = {
+		name="1st Covilhã Cavalry"
+		type=cavalry
+		home=520
+	}
+	regiment = {
+		name="3rd Sikasso Artillery"
+		type=artillery
+		home=1799
+	}
+}
+
+army = {
+	name="Armée de Bagoe"
+	location=514
+	regiment = {
+		name="1st Agadir Infantry"
+		type=infantry
+		home=1694
+	}
+	regiment = {
+		name="1st Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="1st Dinguiraye Artillery"
+		type=artillery
+		home=1881
+	}
+	regiment = {
+		name="1st Warzazat Artillery"
+		type=artillery
+		home=1699
+	}
+}
+
+army = {
+	name="Armée de Montpellier"
+	location=517
+	regiment = {
+		name="1st Fez Infantry"
+		type=infantry
+		home=1680
+	}
+	regiment = {
+		name="2nd Safi Artillery"
+		type=artillery
+		home=2563
+	}
+}
+
+army = {
+	name="Armée de Haute Provence"
+	location=1804
+	regiment = {
+		name="1st Bambuhu Infantry"
+		type=infantry
+		home=1795
+	}
+	regiment = {
+		name="1st Wa Infantry"
+		type=infantry
+		home=1912
+	}
+	regiment = {
+		name="1st Ceuta Cavalry"
+		type=cavalry
+		home=2590
+	}
+	regiment = {
+		name="2nd Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Lisbon Cavalry"
+		type=cavalry
+		home=521
+	}
+	regiment = {
+		name="1st Bandiagara Cavalry"
+		type=cavalry
+		home=1804
+	}
+	regiment = {
+		name="4th Huelva Artillery"
+		type=artillery
+		home=511
+	}
+}
+
+army = {
+	name="Armée d'Orange"
+	location=1693
+	regiment = {
+		name="1st Rabat Infantry"
+		type=infantry
+		home=1685
+	}
+	regiment = {
+		name="2nd Rabat Infantry"
+		type=infantry
+		home=1685
+	}
+	regiment = {
+		name="1st Valencia Artillery"
+		type=artillery
+		home=503
+	}
+	regiment = {
+		name="3rd Safi Artillery"
+		type=artillery
+		home=2563
+	}
+}
+
+army = {
+	name="Armée de Bure"
+	location=515
+	regiment = {
+		name="1st Kankan Infantry"
+		type=infantry
+		home=1882
+	}
+	regiment = {
+		name="4th Safi Artillery"
+		type=artillery
+		home=2563
+	}
+	regiment = {
+		name="1st Kong Infantry"
+		type=infantry
+		home=1898
+	}
+	regiment = {
+		name="2nd Odienne Artillery"
+		type=artillery
+		home=1900
+	}
+}
+
+army = {
+	name="Armée de Agadir"
+	location=1683
+	regiment = {
+		name="2nd Wa Infantry"
+		type=infantry
+		home=1912
+	}
+	regiment = {
+		name="1st Jugu Infantry"
+		type=infantry
+		home=1922
+	}
+	regiment = {
+		name="1st Sikasso Artillery"
+		type=artillery
+		home=1799
+	}
+	regiment = {
+		name="1st Sokode Infantry"
+		type=infantry
+		home=1918
+	}
+	regiment = {
+		name="1st Timbo Artillery"
+		type=artillery
+		home=1880
+	}
+}
+
+army = {
+	name="Armée du Pays d'Arles"
+	location=490
+	regiment = {
+		name="1st Bougouni Artillery"
+		type=artillery
+		home=1798
+	}
+	regiment = {
+		name="2nd Bougouni Artillery"
+		type=artillery
+		home=1798
+	}
+}
+
+army = {
+	name="Armée de Provence-Forcalquier"
+	location=1796
+	regiment = {
+		name="2nd Agadir Infantry"
+		type=infantry
+		home=1694
+	}
+	regiment = {
+		name="1st Wazzan Infantry"
+		type=infantry
+		home=1681
+	}
+	regiment = {
+		name="1st Bamako Artillery"
+		type=artillery
+		home=1794
+	}
+	regiment = {
+		name="1st Odienne Artillery"
+		type=artillery
+		home=1900
+	}
+	regiment = {
+		name="1st Huelva Infantry"
+		type=infantry
+		home=511
+	}
+}
+
+army = {
+	name="Armée du Rhône"
+	location=503
+	regiment = {
+		name="2nd Ziguinchor Infantry"
+		type=infantry
+		home=1792
+	}
+	regiment = {
+		name="1st Valencia Cavalry"
+		type=cavalry
+		home=503
+	}
+	regiment = {
+		name="1st Ziguinchor Artillery"
+		type=artillery
+		home=1792
+	}
+	regiment = {
+		name="3rd Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Bamako Infantry"
+		type=infantry
+		home=1794
+	}
+	regiment = {
+		name="1st Ciudad Real Cavalry"
+		type=cavalry
+		home=491
+	}
+	regiment = {
+		name="1st Warzazat Cavalry"
+		type=cavalry
+		home=1699
+	}
+	regiment = {
+		name="2nd Sikasso Artillery"
+		type=artillery
+		home=1799
+	}
+}
+
+army = {
+	name="Armée de Trarza"
+	location=1699
+	regiment = {
+		name="1st Wagadugu Artillery"
+		type=artillery
+		home=1901
+	}
+	regiment = {
+		name="1st Tamale Artillery"
+		type=artillery
+		home=1913
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1699
+	regiment = {
+		name="1st Montpellier Infantry"
+		type=infantry
+		home=461
+	}
+	regiment = {
+		name="2nd Montpellier Infantry"
+		type=infantry
+		home=461
+	}
+}
+
+army = {
+	name="Free Miquelets"
+	location=490
+	regiment = {
+		name="1st Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=1804
+	regiment = {
+		name="1st Timbo Infantry"
+		type=infantry
+		home=1880
+	}
+	regiment = {
+		name="1st Toledo Infantry"
+		type=infantry
+		home=489
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=504
+	ship = {
+		name="1st Setubal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Beja Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ceuta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Biloxi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wilmington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2750
+	ship = {
+		name="1st Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Beja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huelva Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Granada Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Setubal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Beja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gibraltar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madeira Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=504
+	ship = {
+		name="1st Beja Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Occitanian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Huelva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bizerte Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Beja Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salerno Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Beja Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Almería Frigate"
+		type=frigate
+	}
+}
+

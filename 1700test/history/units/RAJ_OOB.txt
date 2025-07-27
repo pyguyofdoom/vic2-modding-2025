@@ -1,0 +1,754 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 19
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = -33
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 24
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -86
+	level = 2
+}
+GEO = {
+	value = -102
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = -84
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = -84
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = -50
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = -3
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 63
+	influence_value = 3
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -7
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = -24
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = -8
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -11
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = -9
+	level = 2
+}
+X35 = {
+	value = 8
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 237
+	influence_value = 46
+	level = 4
+}
+X41 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X43 = {
+	value = 138
+	influence_value = 22
+	level = 4
+}
+X44 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X45 = {
+	value = -3
+	level = 2
+}
+X46 = {
+	value = 187
+	influence_value = 34
+	level = 4
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Devavarman Jadon"
+	date="1662.5.5"
+	type=land
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Bhoj Das"
+	date="1682.1.4"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Bhoj Bhati"
+	date="1688.10.23"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Kumarapala Khumba"
+	date="1692.1.10"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Beejpala Bargujar"
+	date="1696.1.4"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Harpal Saran"
+	date="1697.1.9"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="12th Army"
+	location=1270
+	regiment = {
+		name="1st Udaipur Irregulars"
+		type=irregular
+		home=1269
+	}
+	regiment = {
+		name="1st Jaipur Cavalry"
+		type=cavalry
+		home=1268
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1292
+	regiment = {
+		name="1st Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="1st Udaipur Cavalry"
+		type=cavalry
+		home=1269
+	}
+	regiment = {
+		name="1st Chhatarpur Cavalry"
+		type=cavalry
+		home=1273
+	}
+	regiment = {
+		name="2nd Udaipur Cavalry"
+		type=cavalry
+		home=1269
+	}
+	regiment = {
+		name="2nd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="1st Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1292
+	regiment = {
+		name="2nd Udaipur Irregulars"
+		type=irregular
+		home=1269
+	}
+	regiment = {
+		name="1st Rajkot Cavalry"
+		type=cavalry
+		home=1292
+	}
+	regiment = {
+		name="2nd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="3rd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="3rd Udaipur Irregulars"
+		type=irregular
+		home=1269
+	}
+	regiment = {
+		name="2nd Jaipur Cavalry"
+		type=cavalry
+		home=1268
+	}
+	regiment = {
+		name="4th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2788
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Surat Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2789
+	ship = {
+		name="1st Surat Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1292
+	ship = {
+		name="1st Lakshmandevid Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lakshmandevid Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Surat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lakshmandevid Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+}
+

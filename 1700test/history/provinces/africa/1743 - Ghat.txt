@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+add_core=FRA
+add_core=HLR
+trade_goods = cattle
+life_rating = 40

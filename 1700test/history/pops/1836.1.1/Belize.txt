@@ -1,0 +1,100 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 127
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 322
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 360
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 795
+	}
+
+}

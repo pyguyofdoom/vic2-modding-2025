@@ -1,0 +1,7 @@
+owner=BRR
+controller=BRR
+add_core=BRR
+add_core=HND
+add_core=ORI
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=PRO
+controller=PRO
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert

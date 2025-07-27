@@ -1,0 +1,6 @@
+owner=SRJ
+controller=SRJ
+add_core=SRJ
+add_core=TDO
+trade_goods = fish
+life_rating = 35

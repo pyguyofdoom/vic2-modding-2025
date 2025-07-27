@@ -1,0 +1,6 @@
+owner=RDL
+controller=RDL
+add_core=PER
+add_core=RDL
+trade_goods = wool
+life_rating = 35

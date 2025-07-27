@@ -1,0 +1,4 @@
+owner=BYZ
+controller=BYZ
+trade_goods = timber
+life_rating = 35

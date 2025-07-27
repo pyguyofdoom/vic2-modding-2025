@@ -1,0 +1,7 @@
+owner=BTU
+controller=BTU
+add_core=BTU
+add_core=CEB
+trade_goods = fish
+life_rating = 35
+naval_base = 2

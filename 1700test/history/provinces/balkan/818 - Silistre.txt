@@ -1,0 +1,4 @@
+owner=X05
+controller=X05
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=UKR
+controller=UKR
+add_core=PCH
+add_core=TKS
+trade_goods = opium
+life_rating = 35

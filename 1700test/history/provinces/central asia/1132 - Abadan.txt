@@ -1,0 +1,7 @@
+owner=RDL
+controller=RDL
+add_core=RDL
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+naval_base = 1

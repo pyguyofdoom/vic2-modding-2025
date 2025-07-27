@@ -1,0 +1,535 @@
+935 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 2947
+	}
+
+}
+1162 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 236
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = yazidi
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = yazidi
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 1
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 3518
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 162
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 433
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 2001
+	}
+
+}
+1165 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 130
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1684
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 670
+	}
+
+}
+1167 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = yazidi
+		size= 486
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = yazidi
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = yazidi
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 2
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = yazidi
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = yazidi
+		size= 2956
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = monothelite
+		size= 253
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 352
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1160
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size= 242
+	}
+
+}
+1168 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1635
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = monothelite
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = monothelite
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = monothelite
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = monothelite
+		size= 1004
+	}
+
+}

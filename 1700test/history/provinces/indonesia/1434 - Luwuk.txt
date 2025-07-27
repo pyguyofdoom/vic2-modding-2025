@@ -1,0 +1,5 @@
+owner=SUN
+controller=SUN
+add_core=SUN
+trade_goods = fruit
+life_rating = 31

@@ -1,0 +1,6 @@
+owner=SDY
+controller=SDY
+add_core=IDO
+add_core=SDY
+trade_goods = timber
+life_rating = 31

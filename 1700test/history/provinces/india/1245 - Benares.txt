@@ -1,0 +1,6 @@
+owner=X43
+controller=X43
+add_core=HND
+add_core=X43
+trade_goods = opium
+life_rating = 32

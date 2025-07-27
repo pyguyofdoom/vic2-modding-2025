@@ -1,0 +1,8 @@
+owner=X40
+controller=X40
+add_core=HND
+add_core=X40
+add_core=XMA
+trade_goods = fish
+life_rating = 32
+terrain = small_island

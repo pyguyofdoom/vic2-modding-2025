@@ -1,0 +1,9 @@
+owner=UKR
+controller=KOR
+add_core=KHA
+add_core=MGL
+add_core=X18
+add_core=ZUN
+trade_goods = timber
+life_rating = 35
+colonial=2

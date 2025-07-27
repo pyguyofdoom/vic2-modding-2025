@@ -1,0 +1,528 @@
+2186 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 231
+	}
+
+	craftsmen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2628
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 520
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 38
+	}
+
+	clerks=
+	{
+		culture = mayan
+		religion = mayan
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8
+	}
+
+	capitalists=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7970
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 487
+	}
+
+	craftsmen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 5542
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2710
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 196
+	}
+
+	clerks=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 414
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	capitalists=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 14582
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 348
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7130
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 398
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2139
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 399
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 16751
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5186
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 255
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 619
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 11549
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 990
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 315
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2262
+	}
+
+}
+2628 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8314
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 452
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2438
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 455
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 19002
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=X37
+controller=PRO
+add_core=X37
+trade_goods = fruit
+life_rating = 35

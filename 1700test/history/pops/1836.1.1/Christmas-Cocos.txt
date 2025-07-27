@@ -1,0 +1,9 @@
+2244 = {
+	farmers=
+	{
+		culture = sinhala
+		religion = jain
+		size= 14
+	}
+
+}

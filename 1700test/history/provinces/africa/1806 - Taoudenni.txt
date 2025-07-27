@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=NUB
+add_core=SUD
+trade_goods = wool
+life_rating = 10
+colonial=2

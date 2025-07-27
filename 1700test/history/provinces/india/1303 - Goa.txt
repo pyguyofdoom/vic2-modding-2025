@@ -1,0 +1,7 @@
+owner=SRI
+controller=SRI
+add_core=HND
+add_core=SRI
+add_core=X44
+trade_goods = precious_goods
+life_rating = 32

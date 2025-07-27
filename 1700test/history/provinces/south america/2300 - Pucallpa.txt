@@ -1,0 +1,6 @@
+owner=WSI
+controller=WSI
+trade_goods = wool
+life_rating = 31
+terrain = jungle
+colonial=2

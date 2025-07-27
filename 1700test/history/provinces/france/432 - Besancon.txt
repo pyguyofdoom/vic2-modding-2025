@@ -1,0 +1,7 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HLR
+add_core=X23
+trade_goods = coal
+life_rating = 33

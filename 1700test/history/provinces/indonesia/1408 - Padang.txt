@@ -1,0 +1,7 @@
+owner=PGR
+controller=PGR
+add_core=MLY
+add_core=PGR
+trade_goods = fruit
+life_rating = 32
+naval_base = 1

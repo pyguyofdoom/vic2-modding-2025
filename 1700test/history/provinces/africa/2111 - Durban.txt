@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+add_core=ZUL
+trade_goods = wool
+life_rating = 35
+colonial=2

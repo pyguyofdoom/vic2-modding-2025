@@ -1,0 +1,7 @@
+owner=X13
+controller=X13
+add_core=ENG
+add_core=IRE
+add_core=X13
+trade_goods = cattle
+life_rating = 35

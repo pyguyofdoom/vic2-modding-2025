@@ -1,0 +1,11 @@
+owner=PRO
+controller=PRO
+trade_goods = fish
+life_rating = 15
+terrain = semidesert
+state_building=
+{
+	level=1
+	building = lumber_mill
+	upgrade = yes
+}

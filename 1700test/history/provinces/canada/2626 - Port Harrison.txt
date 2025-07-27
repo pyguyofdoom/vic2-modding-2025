@@ -1,0 +1,6 @@
+owner=ICL
+controller=ICL
+add_core=ICL
+trade_goods = timber
+life_rating = 10
+terrain = new_world_boreal

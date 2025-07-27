@@ -1,0 +1,2207 @@
+2087 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 404
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 19810
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 4562
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 659
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 24865
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 612
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 638
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 101
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 40
+	}
+
+}
+2088 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1236
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 754
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 371
+	}
+
+}
+2089 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 239
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 11732
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2701
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 14724
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 391
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 360
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 23
+	}
+
+}
+2090 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 217
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 10628
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2448
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 13340
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 353
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 343
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 325
+	}
+
+}
+2091 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3868
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 4025
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 338
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 90
+	}
+
+}
+2092 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3369
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3313
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 311
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 373
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 18
+	}
+
+}
+2093 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2300
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 2358
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 153
+	}
+
+}
+2094 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 933
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 15731
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 954
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 14551
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1348
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 282
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 53
+	}
+
+}
+2095 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 4650
+	}
+
+}
+2096 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 136
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 6682
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 6713
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 154
+	}
+
+}
+2097 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 8728
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 760
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 8766
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 479
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 123
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 15
+	}
+
+}
+2098 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 401
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 40
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 505
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 18133
+	}
+
+}
+2099 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 401
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 40
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 505
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 18133
+	}
+
+}
+2100 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1312
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 1460
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 73
+	}
+
+	officers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 920
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 31743
+	}
+
+}
+2101 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1177
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 427
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 19729
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1186
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 16243
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 3851
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 278
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 120
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 34
+	}
+
+}
+2102 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 840
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 12737
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 843
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 10477
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2502
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 180
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 275
+	}
+
+}
+2103 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 648
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 10101
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 652
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 8312
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1980
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 218
+	}
+
+}
+2104 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 682
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 630
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 30200
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 686
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 635
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 25049
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 5690
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 410
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 176
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 50
+	}
+
+}
+2105 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 682
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 267
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 12293
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 959
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 604
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 626
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 9980
+	}
+
+}
+2106 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 702
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 10239
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 808
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 510
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 644
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 8299
+	}
+
+}
+2107 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 265
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 12818
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 966
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 609
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 243
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 10452
+	}
+
+}
+2108 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3301
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 45708
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2952
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 35407
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 893
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 3789
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 2387
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 615
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 189
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 76
+	}
+
+}
+2109 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1044
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 788
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 37593
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 31564
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 3092
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1001
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 757
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 1947
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 154
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 61
+	}
+
+}
+2110 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1177
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 322
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 6210
+	}
+
+}
+2111 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1667
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 457
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 1028
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 23
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 19451
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = catholic
+		size= 1055
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = catholic
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = catholic
+		size= 148
+	}
+
+}
+2112 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 342
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 290
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 13852
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 11489
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 342
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2615
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 188
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 81
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 288
+	}
+
+}
+2113 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1338
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1988
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3976
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 646
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 199
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1252
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 89923
+	}
+
+}
+2114 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2382
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 827
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1655
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 269
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 83
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 521
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 35594
+	}
+
+}
+2558 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3493
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3435
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 322
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 67
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 387
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 19
+	}
+
+}

@@ -1,0 +1,16 @@
+name = "American-Marrakechi Imperialist War"
+
+1697.3.12 = {
+	add_attacker = USA
+	add_attacker = ITA
+	add_defender = MRK
+	add_defender = PRO
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = USA
+		receiver = MRK
+		country = MRK
+		state_province_id = 2136
+	}
+}

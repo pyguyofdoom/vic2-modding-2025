@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=AFG
+add_core=MGL
+trade_goods = fish
+life_rating = 25
+terrain = semidesert

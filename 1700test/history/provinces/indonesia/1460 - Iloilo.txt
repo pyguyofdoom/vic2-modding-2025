@@ -1,0 +1,6 @@
+owner=TDO
+controller=SRJ
+add_core=MDS
+add_core=TDO
+trade_goods = fruit
+life_rating = 35

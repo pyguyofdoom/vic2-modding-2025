@@ -1,0 +1,10 @@
+owner=X43
+controller=X43
+add_core=ASM
+add_core=BNG
+add_core=HND
+add_core=X33
+add_core=X34
+add_core=X43
+trade_goods = coal
+life_rating = 32

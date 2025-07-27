@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=TKS
+add_core=X36
+trade_goods = grain
+life_rating = 30
+colonial=2

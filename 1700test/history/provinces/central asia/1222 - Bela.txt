@@ -1,0 +1,10 @@
+owner=ARA
+controller=ARA
+add_core=ARA
+add_core=BLC
+add_core=HND
+add_core=IRQ
+add_core=PNJ
+add_core=SIN
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,14 @@
+owner=UKR
+controller=UKR
+add_core=FEO
+add_core=UKR
+add_core=X39
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

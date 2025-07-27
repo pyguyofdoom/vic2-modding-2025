@@ -1,0 +1,79 @@
+203 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 280
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 605
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 947
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=GEO
+controller=GEO
+add_core=ALH
+add_core=GEO
+add_core=PER
+add_core=RDL
+trade_goods = opium
+life_rating = 35

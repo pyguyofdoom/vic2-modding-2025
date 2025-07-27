@@ -1,0 +1,7 @@
+owner=HLR
+controller=HLR
+add_core=HLR
+add_core=NET
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

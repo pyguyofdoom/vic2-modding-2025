@@ -1,0 +1,7 @@
+owner=X05
+controller=X05
+add_core=POL
+add_core=WSF
+add_core=X05
+trade_goods = fruit
+life_rating = 35

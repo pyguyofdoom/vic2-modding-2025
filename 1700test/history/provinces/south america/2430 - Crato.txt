@@ -1,0 +1,6 @@
+owner=WSI
+controller=WSI
+add_core=CEQ
+trade_goods = cotton
+life_rating = 31
+terrain = new_world_semidesert

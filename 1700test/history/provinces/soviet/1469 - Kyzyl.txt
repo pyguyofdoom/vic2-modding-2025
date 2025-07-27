@@ -1,0 +1,8 @@
+owner=KOR
+controller=KOR
+add_core=KHA
+add_core=KOR
+add_core=MGL
+add_core=ZUN
+trade_goods = coal
+life_rating = 35

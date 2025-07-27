@@ -1,0 +1,8 @@
+owner=X41
+controller=HLR
+add_core=HND
+add_core=KRN
+add_core=X41
+trade_goods = dye
+life_rating = 32
+fort = 1

@@ -1,0 +1,9 @@
+owner=BTU
+controller=DAI
+add_core=BTU
+add_core=DAI
+add_core=MGD
+add_core=TDO
+trade_goods = iron
+life_rating = 35
+naval_base = 1

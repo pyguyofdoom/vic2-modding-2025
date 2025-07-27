@@ -1,0 +1,8 @@
+owner=SRJ
+controller=BNJ
+add_core=BRU
+add_core=LAN
+add_core=MLY
+add_core=SRJ
+trade_goods = precious_metal
+life_rating = 34

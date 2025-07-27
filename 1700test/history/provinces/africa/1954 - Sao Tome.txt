@@ -1,0 +1,5 @@
+owner=HLR
+controller=HLR
+trade_goods = coffee
+life_rating = 35
+terrain = small_island

@@ -1,0 +1,6 @@
+owner=MRK
+controller=MRK
+add_core=TLC
+trade_goods = fruit
+life_rating = 35
+fort = 1

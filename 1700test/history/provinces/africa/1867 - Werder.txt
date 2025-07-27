@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=ADA
+add_core=AJU
+trade_goods = grain
+life_rating = 10
+terrain = dryhills
+colonial=2

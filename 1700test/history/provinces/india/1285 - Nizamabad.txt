@@ -1,0 +1,9 @@
+owner=X41
+controller=SRI
+add_core=BRR
+add_core=HND
+add_core=SRI
+add_core=X41
+trade_goods = fruit
+life_rating = 32
+fort = 1

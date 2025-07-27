@@ -1,0 +1,7 @@
+owner=ITA
+controller=PRO
+add_core=CAT
+add_core=ITA
+add_core=SPA
+trade_goods = fruit
+life_rating = 35

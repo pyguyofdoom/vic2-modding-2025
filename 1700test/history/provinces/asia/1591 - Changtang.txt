@@ -1,0 +1,6 @@
+owner=X43
+controller=X43
+add_core=TIB
+add_core=X43
+trade_goods = cattle
+life_rating = 30

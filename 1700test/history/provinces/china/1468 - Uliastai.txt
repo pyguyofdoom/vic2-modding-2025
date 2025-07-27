@@ -1,0 +1,8 @@
+owner=KHA
+controller=KHA
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=YRK
+trade_goods = grain
+life_rating = 32

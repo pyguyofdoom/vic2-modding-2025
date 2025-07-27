@@ -1,0 +1,7 @@
+owner=X46
+controller=X46
+add_core=HND
+add_core=MEW
+add_core=X46
+trade_goods = cattle
+life_rating = 32

@@ -1,0 +1,7 @@
+owner=ARK
+controller=ARK
+add_core=ARK
+add_core=IDO
+trade_goods = grain
+life_rating = 35
+fort = 1

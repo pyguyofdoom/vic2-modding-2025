@@ -1,0 +1,6 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+add_core=KIC
+trade_goods = iron
+life_rating = 33

@@ -1,0 +1,8 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HLR
+add_core=X10
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

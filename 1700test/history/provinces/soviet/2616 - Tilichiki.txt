@@ -1,0 +1,7 @@
+owner=KOR
+controller=KOR
+add_core=CHU
+add_core=HOD
+add_core=KOR
+trade_goods = fish
+life_rating = 20

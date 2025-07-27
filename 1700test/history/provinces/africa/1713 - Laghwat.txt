@@ -1,0 +1,7 @@
+owner=X37
+controller=X37
+add_core=ALD
+add_core=X37
+trade_goods = grain
+life_rating = 31
+terrain = semidesert

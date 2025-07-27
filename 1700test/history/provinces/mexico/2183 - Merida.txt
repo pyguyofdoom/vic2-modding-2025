@@ -1,0 +1,6 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+add_core=XIU
+trade_goods = grain
+life_rating = 35

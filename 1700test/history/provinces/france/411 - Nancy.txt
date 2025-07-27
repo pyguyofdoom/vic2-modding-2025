@@ -1,0 +1,12 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HLR
+trade_goods = dye
+life_rating = 31
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

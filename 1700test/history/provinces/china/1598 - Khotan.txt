@@ -1,0 +1,5 @@
+owner=YUA
+controller=TIB
+add_core=YUA
+trade_goods = grain
+life_rating = 32

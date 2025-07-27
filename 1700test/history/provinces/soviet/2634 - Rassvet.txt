@@ -1,0 +1,7 @@
+owner=KOR
+controller=KOR
+add_core=CHV
+add_core=KOR
+trade_goods = fish
+life_rating = 10
+terrain = montane_tundra

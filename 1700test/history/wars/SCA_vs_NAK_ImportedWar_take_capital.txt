@@ -1,0 +1,19 @@
+name = "Stormfiend Empire-Nakawe Imperialist War"
+
+1700.1.11 = {
+	add_attacker = SCA
+	add_attacker = NEW
+	add_attacker = MEX
+	add_attacker = LOU
+	add_defender = NAK
+	add_defender = X33
+	add_defender = BTU
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SCA
+		receiver = NAK
+		country = NAK
+		state_province_id = 118
+	}
+}

@@ -1,0 +1,8 @@
+owner=X43
+controller=X43
+add_core=BRR
+add_core=HND
+add_core=ORI
+add_core=X43
+trade_goods = grain
+life_rating = 32

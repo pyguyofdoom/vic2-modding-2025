@@ -1,0 +1,7 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+add_core=MSC
+add_core=X02
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,144 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1024
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 173
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 2554
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 168
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 5
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = catholic
+		size= 1
+	}
+
+}

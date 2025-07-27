@@ -1,0 +1,13 @@
+owner=HLR
+controller=HLR
+add_core=HND
+add_core=KRN
+trade_goods = cotton
+life_rating = 32
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

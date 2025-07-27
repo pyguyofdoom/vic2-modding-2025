@@ -1,0 +1,1318 @@
+29 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1489
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 305
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 1565
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 611
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = jain
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = jain
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = jain
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = jain
+		size= 388
+	}
+
+}
+1191 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = zoroastrian
+		size= 7452
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 834
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 834
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 21
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian
+		size= 32086
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1849
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 207
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 1249
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 31
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 525
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 6263
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 4337
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 687
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 687
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 17
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 289
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 28216
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1183
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1062
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 6275
+	}
+
+}
+1195 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian_heresy
+		size= 1165
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 767
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 30893
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = tengri_pagan_reformed
+		size= 509
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 417
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 1437
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 268
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 12102
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 346
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = jain
+		size= 284
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = jain
+		size= 3115
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = jain
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 31
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = jain
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = jain
+		size= 5475
+	}
+
+}
+1198 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 36529
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 6110
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 8888
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 686
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 98
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 229
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 916
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = theravada
+		size= 163803
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 1681
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 281
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 9707
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 748
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 107
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 1001
+	}
+
+}
+1199 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = tengri_pagan_reformed
+		size= 17426
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 3563
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 5726
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 414
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 32
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 802
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 99155
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 2574
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 526
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 7418
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 41
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 1039
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = jain
+		size= 6491
+	}
+
+}
+1200 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian_heresy
+		size= 1568
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 704
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 344
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = zoroastrian_heresy
+		size= 12552
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = tengri_pagan_reformed
+		size= 721
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 857
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 1575
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 29
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = tengri_pagan_reformed
+		size= 13651
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 506
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = jain
+		size= 364
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = jain
+		size= 3024
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = jain
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 57
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = jain
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 847
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = jain
+		size= 2496
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = theravada
+		size= 1786
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 802
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = theravada
+		size= 392
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = theravada
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = theravada
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 14296
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 1187
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = jain
+		size= 305
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1602
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 719
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 704
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 12327
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = jain
+		size= 422
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 20
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2003
+	}
+
+}
+1202 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = theravada
+		size= 10267
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 1945
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = theravada
+		size= 3126
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = theravada
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = theravada
+		size= 73
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = theravada
+		size= 438
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = theravada
+		size= 53310
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = jain
+		size= 3062
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = jain
+		size= 580
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = jain
+		size= 4990
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = jain
+		size= 360
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 116
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = jain
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = jain
+		size= 699
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = jain
+		size= 10795
+	}
+
+}

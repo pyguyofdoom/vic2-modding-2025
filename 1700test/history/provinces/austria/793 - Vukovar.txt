@@ -1,0 +1,6 @@
+owner=BOS
+controller=BOS
+add_core=BOS
+add_core=YUG
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,5 @@
+owner=WSI
+controller=WSI
+trade_goods = wool
+life_rating = 37
+colonial=2

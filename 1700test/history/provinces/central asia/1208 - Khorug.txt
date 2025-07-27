@@ -1,0 +1,5 @@
+owner=X46
+controller=YUA
+add_core=X46
+trade_goods = cattle
+life_rating = 35

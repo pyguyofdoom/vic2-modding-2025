@@ -1,0 +1,6 @@
+owner=UKR
+controller=UKR
+add_core=TKS
+trade_goods = opium
+life_rating = 30
+colonial=2

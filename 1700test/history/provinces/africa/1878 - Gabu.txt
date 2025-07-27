@@ -1,0 +1,4 @@
+owner=PRO
+controller=PRO
+trade_goods = grain
+life_rating = 15

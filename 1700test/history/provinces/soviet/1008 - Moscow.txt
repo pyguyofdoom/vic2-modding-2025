@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=MSH
+add_core=UKR
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

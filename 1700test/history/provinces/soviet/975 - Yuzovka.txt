@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=FEO
+add_core=UKR
+add_core=X39
+trade_goods = coal
+life_rating = 35

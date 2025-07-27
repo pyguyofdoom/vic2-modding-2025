@@ -1,0 +1,5 @@
+owner=WSI
+controller=WSI
+add_core=WSI
+trade_goods = coffee
+life_rating = 35

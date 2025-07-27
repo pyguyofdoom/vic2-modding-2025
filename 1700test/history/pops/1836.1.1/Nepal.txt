@@ -1,0 +1,340 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = theravada
+		size= 9343
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 7661
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = theravada
+		size= 3748
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = theravada
+		size= 271
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 112
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 349
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 61668
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 5348
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 4385
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 8036
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 581
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 241
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 259
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 750
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 28058
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 8827
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 2998
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 2856
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 60
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = theravada
+		size= 38258
+	}
+
+	slaves=
+	{
+		culture = avadhi
+		religion = jain
+		size= 2505
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = jain
+		size= 851
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = jain
+		size= 4670
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = jain
+		size= 337
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = jain
+		size= 99
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = jain
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = jain
+		size= 436
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = jain
+		size= 6184
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2882
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 979
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1573
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 33
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11717
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = theravada
+		size= 3272
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 1111
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = theravada
+		size= 447
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = theravada
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 14925
+	}
+
+}

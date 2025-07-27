@@ -1,0 +1,130 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15633
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 156
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 59063
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 6721
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 970
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 940
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 585
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 208
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 95
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11966
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 120
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 38745
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 4563
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 385
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 658
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 851
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 140
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 65
+	}
+
+}

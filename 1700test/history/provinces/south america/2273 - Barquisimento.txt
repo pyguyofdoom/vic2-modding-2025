@@ -1,0 +1,5 @@
+owner=WSI
+controller=WSI
+trade_goods = coffee
+life_rating = 33
+terrain = montane_forest

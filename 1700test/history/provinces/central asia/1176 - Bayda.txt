@@ -1,0 +1,9 @@
+owner=ARA
+controller=ARA
+add_core=ADE
+add_core=ARA
+add_core=NUB
+add_core=SUD
+trade_goods = fish
+life_rating = 32
+terrain = semidesert

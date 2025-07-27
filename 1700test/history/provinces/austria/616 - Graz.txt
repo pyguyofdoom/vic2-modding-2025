@@ -1,0 +1,6 @@
+owner=X05
+controller=X05
+add_core=X05
+add_core=YUG
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,8 @@
+owner=BLZ
+controller=BLZ
+add_core=AZT
+add_core=BLZ
+add_core=MTL
+add_core=TRS
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,5 @@
+owner=PRO
+controller=PRO
+add_core=PRO
+trade_goods = iron
+life_rating = 35

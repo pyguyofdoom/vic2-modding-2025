@@ -1,0 +1,12 @@
+owner=HLR
+controller=HLR
+add_core=BEL
+add_core=HLR
+trade_goods = coal
+life_rating = 31
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

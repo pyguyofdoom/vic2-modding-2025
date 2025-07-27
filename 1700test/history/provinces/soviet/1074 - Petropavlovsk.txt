@@ -1,0 +1,7 @@
+owner=KOR
+controller=KOR
+add_core=KMC
+add_core=KOR
+trade_goods = fish
+life_rating = 15
+terrain = montane_tundra

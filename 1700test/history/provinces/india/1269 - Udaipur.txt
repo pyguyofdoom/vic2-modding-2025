@@ -1,0 +1,10 @@
+owner=RAJ
+controller=RAJ
+add_core=BUN
+add_core=HND
+add_core=MEW
+add_core=PNJ
+add_core=RAJ
+trade_goods = opium
+life_rating = 32
+fort = 1

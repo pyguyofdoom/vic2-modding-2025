@@ -1,0 +1,871 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 23
+	level = 2
+}
+ARG = {
+	value = -75
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = -167
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -46
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 63
+	influence_value = 3
+	level = 3
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -3
+	level = 2
+}
+MIK = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSA = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 25
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -5
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 38
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 18
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lawrence van Brabant"
+	date="1689.6.25"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Richard van Kamerijk"
+	date="1691.1.24"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="Free Company"
+	location=2219
+	regiment = {
+		name="1st El Jobal Infantry"
+		type=infantry
+		home=2277
+	}
+	regiment = {
+		name="3rd Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2290
+	regiment = {
+		name="1st Yuncos Infantry"
+		type=infantry
+		home=2288
+	}
+	regiment = {
+		name="1st Huánuco Infantry"
+		type=infantry
+		home=2293
+	}
+	regiment = {
+		name="1st Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="2nd Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2443
+	regiment = {
+		name="1st Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2987
+	ship = {
+		name="Cyclops"
+		type=frigate
+	}
+	ship = {
+		name="Vulture"
+		type=frigate
+	}
+	ship = {
+		name="Firebrand"
+		type=frigate
+	}
+	ship = {
+		name="Gladiator"
+		type=frigate
+	}
+	ship = {
+		name="Sampson"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2526
+	regiment = {
+		name="1st Ayacucho Infantry"
+		type=infantry
+		home=2299
+	}
+	regiment = {
+		name="2nd Huánuco Infantry"
+		type=infantry
+		home=2293
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3150
+	ship = {
+		name="Centaur"
+		type=frigate
+	}
+	ship = {
+		name="Dragon"
+		type=frigate
+	}
+	ship = {
+		name="Penelope"
+		type=frigate
+	}
+	ship = {
+		name="1st Hawaii Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hawaii Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2975
+	ship = {
+		name="Royal Albert"
+		type=manowar
+	}
+	ship = {
+		name="Windsor Castle"
+		type=manowar
+	}
+	ship = {
+		name="Marlborough"
+		type=manowar
+	}
+	ship = {
+		name="Royal Sovereign"
+		type=manowar
+	}
+	ship = {
+		name="Prince of Wales"
+		type=manowar
+	}
+	ship = {
+		name="Queen"
+		type=manowar
+	}
+	ship = {
+		name="Victoria"
+		type=manowar
+	}
+	ship = {
+		name="Frederick William"
+		type=manowar
+	}
+	ship = {
+		name="Algiers"
+		type=manowar
+	}
+	ship = {
+		name="Retribution"
+		type=frigate
+	}
+	ship = {
+		name="Terrible"
+		type=frigate
+	}
+	ship = {
+		name="Avenger"
+		type=frigate
+	}
+	ship = {
+		name="Birkenhead"
+		type=frigate
+	}
+	ship = {
+		name="Odin"
+		type=frigate
+	}
+	ship = {
+		name="Sidon"
+		type=frigate
+	}
+	ship = {
+		name="Leopard"
+		type=frigate
+	}
+	ship = {
+		name="Tiger"
+		type=frigate
+	}
+	ship = {
+		name="Magicienne"
+		type=frigate
+	}
+	ship = {
+		name="Valorous"
+		type=frigate
+	}
+	ship = {
+		name="Furious"
+		type=frigate
+	}
+	ship = {
+		name="Resolute"
+		type=frigate
+	}
+	ship = {
+		name="Amphion"
+		type=frigate
+	}
+	ship = {
+		name="Arrogant"
+		type=frigate
+	}
+	ship = {
+		name="Dauntless"
+		type=frigate
+	}
+	ship = {
+		name="1st Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Albion"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=400
+	ship = {
+		name="Vigilant"
+		type=frigate
+	}
+	ship = {
+		name="Termagant"
+		type=frigate
+	}
+	ship = {
+		name="Euphrates"
+		type=frigate
+	}
+	ship = {
+		name="Tribune"
+		type=frigate
+	}
+	ship = {
+		name="Curacoa"
+		type=frigate
+	}
+	ship = {
+		name="Imperieuse"
+		type=frigate
+	}
+	ship = {
+		name="Euryalus"
+		type=frigate
+	}
+	ship = {
+		name="Aurora"
+		type=frigate
+	}
+	ship = {
+		name="Forte"
+		type=frigate
+	}
+	ship = {
+		name="Shannon"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=540
+	regiment = {
+		name="2nd El Jobal Infantry"
+		type=infantry
+		home=2277
+	}
+	regiment = {
+		name="1st Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="1st San Felipe Infantry"
+		type=infantry
+		home=2268
+	}
+	regiment = {
+		name="1st Angostura Artillery"
+		type=artillery
+		home=2275
+	}
+	regiment = {
+		name="1st Barquisimeto Infantry"
+		type=infantry
+		home=2273
+	}
+	regiment = {
+		name="1st Calabozo Artillery"
+		type=artillery
+		home=2266
+	}
+	regiment = {
+		name="1st Jamaica Artillery"
+		type=artillery
+		home=2217
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2219
+	ship = {
+		name="2nd Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2967
+	ship = {
+		name="Chesapeake"
+		type=frigate
+	}
+	ship = {
+		name="Liffey"
+		type=frigate
+	}
+}
+

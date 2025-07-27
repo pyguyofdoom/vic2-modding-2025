@@ -1,0 +1,5 @@
+owner=LOU
+controller=USA
+add_core=LOU
+trade_goods = grain
+life_rating = 35

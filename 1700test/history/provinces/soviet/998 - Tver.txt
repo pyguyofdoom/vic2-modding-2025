@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=MSH
+add_core=RUS
+add_core=UKR
+trade_goods = timber
+life_rating = 35

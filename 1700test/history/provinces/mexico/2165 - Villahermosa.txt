@@ -1,0 +1,5 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+trade_goods = coffee
+life_rating = 34

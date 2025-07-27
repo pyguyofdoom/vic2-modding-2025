@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HLR
+trade_goods = sulphur
+life_rating = 31

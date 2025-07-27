@@ -1,0 +1,8 @@
+owner=HLR
+controller=HLR
+add_core=GER
+add_core=HLR
+add_core=X10
+add_core=X24
+trade_goods = fruit
+life_rating = 40

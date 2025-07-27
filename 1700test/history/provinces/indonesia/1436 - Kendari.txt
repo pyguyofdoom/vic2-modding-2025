@@ -1,0 +1,5 @@
+owner=BNE
+controller=BNE
+add_core=BNE
+trade_goods = dye
+life_rating = 31

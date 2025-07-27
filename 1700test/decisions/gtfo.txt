@@ -1,0 +1,8491 @@
+political_decisions = {
+	gtfo_on = {
+		picture = gtfo
+		alert = no
+		potential = {
+			OR = {
+				has_country_flag = government_decisions_on
+				ai = yes
+			}
+			num_of_vassals_no_substates = 1
+			is_vassal = no
+			NOT = { has_country_flag = gtfo has_country_flag = gtfo_disabled }
+		}
+		allow = { civilized = yes ai = no }
+		effect = { set_country_flag = gtfo }
+	}
+	gtfo_off = {
+		picture = gtfo
+		alert = no
+		potential = {
+			has_country_flag = gtfo
+			NOT = { has_country_flag = gtfo_disabled }
+		}
+		allow = { ai = no }
+		effect = { clr_country_flag = gtfo }
+	}
+	gtfo_disabled = {
+		picture = gtfo
+		alert = no
+		potential = {
+			OR = {
+				has_country_flag = government_decisions_on
+				ai = yes
+			}
+			has_country_flag = gtfo
+			NOT = { has_country_flag = gtfo_disabled }
+		}
+		allow = { ai = no }
+		effect = { clr_country_flag = gtfo set_country_flag = gtfo_disabled }
+	}
+
+	gtfo_ADA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ADA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ADA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ADA
+			diplomatic_influence = { who = ADA value = -100 }
+		}
+	}
+
+	gtfo_ADE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ADE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ADE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ADE
+			diplomatic_influence = { who = ADE value = -100 }
+		}
+	}
+
+	gtfo_AFG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AFG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AFG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AFG
+			diplomatic_influence = { who = AFG value = -100 }
+		}
+	}
+
+	gtfo_AJU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AJU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AJU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AJU
+			diplomatic_influence = { who = AJU value = -100 }
+		}
+	}
+
+	gtfo_ALD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ALD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ALD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ALD
+			diplomatic_influence = { who = ALD value = -100 }
+		}
+	}
+
+	gtfo_ALH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ALH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ALH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ALH
+			diplomatic_influence = { who = ALH value = -100 }
+		}
+	}
+
+	gtfo_ALS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ALS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ALS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ALS
+			diplomatic_influence = { who = ALS value = -100 }
+		}
+	}
+
+	gtfo_APA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			APA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			APA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = APA
+			diplomatic_influence = { who = APA value = -100 }
+		}
+	}
+
+	gtfo_ARA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARA
+			diplomatic_influence = { who = ARA value = -100 }
+		}
+	}
+
+	gtfo_ARG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARG
+			diplomatic_influence = { who = ARG value = -100 }
+		}
+	}
+
+	gtfo_ARK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARK
+			diplomatic_influence = { who = ARK value = -100 }
+		}
+	}
+
+	gtfo_ARM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARM
+			diplomatic_influence = { who = ARM value = -100 }
+		}
+	}
+
+	gtfo_ARN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARN
+			diplomatic_influence = { who = ARN value = -100 }
+		}
+	}
+
+	gtfo_ARP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ARP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ARP
+			diplomatic_influence = { who = ARP value = -100 }
+		}
+	}
+
+	gtfo_ASH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ASH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ASH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ASH
+			diplomatic_influence = { who = ASH value = -100 }
+		}
+	}
+
+	gtfo_ASM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ASM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ASM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ASM
+			diplomatic_influence = { who = ASM value = -100 }
+		}
+	}
+
+	gtfo_ATJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ATJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ATJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ATJ
+			diplomatic_influence = { who = ATJ value = -100 }
+		}
+	}
+
+	gtfo_AUA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUA
+			diplomatic_influence = { who = AUA value = -100 }
+		}
+	}
+
+	gtfo_AUE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUE
+			diplomatic_influence = { who = AUE value = -100 }
+		}
+	}
+
+	gtfo_AUI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUI
+			diplomatic_influence = { who = AUI value = -100 }
+		}
+	}
+
+	gtfo_AUK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUK
+			diplomatic_influence = { who = AUK value = -100 }
+		}
+	}
+
+	gtfo_AUL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUL
+			diplomatic_influence = { who = AUL value = -100 }
+		}
+	}
+
+	gtfo_AUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUN
+			diplomatic_influence = { who = AUN value = -100 }
+		}
+	}
+
+	gtfo_AUO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUO
+			diplomatic_influence = { who = AUO value = -100 }
+		}
+	}
+
+	gtfo_AUP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUP
+			diplomatic_influence = { who = AUP value = -100 }
+		}
+	}
+
+	gtfo_AUW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AUW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AUW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AUW
+			diplomatic_influence = { who = AUW value = -100 }
+		}
+	}
+
+	gtfo_AVA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AVA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AVA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AVA
+			diplomatic_influence = { who = AVA value = -100 }
+		}
+	}
+
+	gtfo_AWA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AWA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AWA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AWA
+			diplomatic_influence = { who = AWA value = -100 }
+		}
+	}
+
+	gtfo_AYR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AYR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AYR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AYR
+			diplomatic_influence = { who = AYR value = -100 }
+		}
+	}
+
+	gtfo_AZT = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			AZT = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AZT = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = AZT
+			diplomatic_influence = { who = AZT value = -100 }
+		}
+	}
+
+	gtfo_BAL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BAL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BAL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BAL
+			diplomatic_influence = { who = BAL value = -100 }
+		}
+	}
+
+	gtfo_BAU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BAU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BAU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BAU
+			diplomatic_influence = { who = BAU value = -100 }
+		}
+	}
+
+	gtfo_BEY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BEY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BEY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BEY
+			diplomatic_influence = { who = BEY value = -100 }
+		}
+	}
+
+	gtfo_BLA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BLA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BLA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BLA
+			diplomatic_influence = { who = BLA value = -100 }
+		}
+	}
+
+	gtfo_BLC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BLC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BLC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BLC
+			diplomatic_influence = { who = BLC value = -100 }
+		}
+	}
+
+	gtfo_BLM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BLM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BLM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BLM
+			diplomatic_influence = { who = BLM value = -100 }
+		}
+	}
+
+	gtfo_BLZ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BLZ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BLZ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BLZ
+			diplomatic_influence = { who = BLZ value = -100 }
+		}
+	}
+
+	gtfo_BNE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BNE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BNE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BNE
+			diplomatic_influence = { who = BNE value = -100 }
+		}
+	}
+
+	gtfo_BNG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BNG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BNG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BNG
+			diplomatic_influence = { who = BNG value = -100 }
+		}
+	}
+
+	gtfo_BNJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BNJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BNJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BNJ
+			diplomatic_influence = { who = BNJ value = -100 }
+		}
+	}
+
+	gtfo_BNY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BNY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BNY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BNY
+			diplomatic_influence = { who = BNY value = -100 }
+		}
+	}
+
+	gtfo_BOS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BOS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BOS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BOS
+			diplomatic_influence = { who = BOS value = -100 }
+		}
+	}
+
+	gtfo_BOU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BOU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BOU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BOU
+			diplomatic_influence = { who = BOU value = -100 }
+		}
+	}
+
+	gtfo_BRR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BRR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BRR
+			diplomatic_influence = { who = BRR value = -100 }
+		}
+	}
+
+	gtfo_BRU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BRU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BRU
+			diplomatic_influence = { who = BRU value = -100 }
+		}
+	}
+
+	gtfo_BRZ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BRZ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRZ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BRZ
+			diplomatic_influence = { who = BRZ value = -100 }
+		}
+	}
+
+	gtfo_BTN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BTN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BTN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BTN
+			diplomatic_influence = { who = BTN value = -100 }
+		}
+	}
+
+	gtfo_BTS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BTS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BTS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BTS
+			diplomatic_influence = { who = BTS value = -100 }
+		}
+	}
+
+	gtfo_BTU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BTU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BTU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BTU
+			diplomatic_influence = { who = BTU value = -100 }
+		}
+	}
+
+	gtfo_BUG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BUG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BUG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BUG
+			diplomatic_influence = { who = BUG value = -100 }
+		}
+	}
+
+	gtfo_BUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BUN
+			diplomatic_influence = { who = BUN value = -100 }
+		}
+	}
+
+	gtfo_BUR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BUR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BUR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BUR
+			diplomatic_influence = { who = BUR value = -100 }
+		}
+	}
+
+	gtfo_BYZ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			BYZ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BYZ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = BYZ
+			diplomatic_influence = { who = BYZ value = -100 }
+		}
+	}
+
+	gtfo_CAD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CAD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CAD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CAD
+			diplomatic_influence = { who = CAD value = -100 }
+		}
+	}
+
+	gtfo_CAL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CAL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CAL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CAL
+			diplomatic_influence = { who = CAL value = -100 }
+		}
+	}
+
+	gtfo_CAM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CAM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CAM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CAM
+			diplomatic_influence = { who = CAM value = -100 }
+		}
+	}
+
+	gtfo_CCM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CCM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CCM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CCM
+			diplomatic_influence = { who = CCM value = -100 }
+		}
+	}
+
+	gtfo_CDL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CDL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CDL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CDL
+			diplomatic_influence = { who = CDL value = -100 }
+		}
+	}
+
+	gtfo_CEB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CEB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CEB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CEB
+			diplomatic_influence = { who = CEB value = -100 }
+		}
+	}
+
+	gtfo_CEQ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CEQ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CEQ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CEQ
+			diplomatic_influence = { who = CEQ value = -100 }
+		}
+	}
+
+	gtfo_CHA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHA
+			diplomatic_influence = { who = CHA value = -100 }
+		}
+	}
+
+	gtfo_CHC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHC
+			diplomatic_influence = { who = CHC value = -100 }
+		}
+	}
+
+	gtfo_CHE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHE
+			diplomatic_influence = { who = CHE value = -100 }
+		}
+	}
+
+	gtfo_CHN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHN
+			diplomatic_influence = { who = CHN value = -100 }
+		}
+	}
+
+	gtfo_CHU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHU
+			diplomatic_influence = { who = CHU value = -100 }
+		}
+	}
+
+	gtfo_CHV = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CHV = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHV = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CHV
+			diplomatic_influence = { who = CHV value = -100 }
+		}
+	}
+
+	gtfo_CIR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CIR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CIR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CIR
+			diplomatic_influence = { who = CIR value = -100 }
+		}
+	}
+
+	gtfo_CKW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CKW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CKW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CKW
+			diplomatic_influence = { who = CKW value = -100 }
+		}
+	}
+
+	gtfo_CMA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CMA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CMA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CMA
+			diplomatic_influence = { who = CMA value = -100 }
+		}
+	}
+
+	gtfo_CNK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CNK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CNK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CNK
+			diplomatic_influence = { who = CNK value = -100 }
+		}
+	}
+
+	gtfo_CRA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CRA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CRA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CRA
+			diplomatic_influence = { who = CRA value = -100 }
+		}
+	}
+
+	gtfo_CSH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CSH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CSH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CSH
+			diplomatic_influence = { who = CSH value = -100 }
+		}
+	}
+
+	gtfo_CSU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CSU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CSU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CSU
+			diplomatic_influence = { who = CSU value = -100 }
+		}
+	}
+
+	gtfo_CUA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CUA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CUA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CUA
+			diplomatic_influence = { who = CUA value = -100 }
+		}
+	}
+
+	gtfo_CWU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CWU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CWU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CWU
+			diplomatic_influence = { who = CWU value = -100 }
+		}
+	}
+
+	gtfo_CXI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CXI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CXI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CXI
+			diplomatic_influence = { who = CXI value = -100 }
+		}
+	}
+
+	gtfo_CYN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			CYN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CYN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = CYN
+			diplomatic_influence = { who = CYN value = -100 }
+		}
+	}
+
+	gtfo_DAI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DAI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DAI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DAI
+			diplomatic_influence = { who = DAI value = -100 }
+		}
+	}
+
+	gtfo_DEN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DEN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DEN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DEN
+			diplomatic_influence = { who = DEN value = -100 }
+		}
+	}
+
+	gtfo_DJA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DJA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DJA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DJA
+			diplomatic_influence = { who = DJA value = -100 }
+		}
+	}
+
+	gtfo_DLH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DLH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DLH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DLH
+			diplomatic_influence = { who = DLH value = -100 }
+		}
+	}
+
+	gtfo_DLI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DLI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DLI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DLI
+			diplomatic_influence = { who = DLI value = -100 }
+		}
+	}
+
+	gtfo_DLM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DLM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DLM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DLM
+			diplomatic_influence = { who = DLM value = -100 }
+		}
+	}
+
+	gtfo_DMS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			DMS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			DMS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = DMS
+			diplomatic_influence = { who = DMS value = -100 }
+		}
+	}
+
+	gtfo_EGY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			EGY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			EGY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = EGY
+			diplomatic_influence = { who = EGY value = -100 }
+		}
+	}
+
+	gtfo_EPI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			EPI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			EPI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = EPI
+			diplomatic_influence = { who = EPI value = -100 }
+		}
+	}
+
+	gtfo_FEO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FEO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FEO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FEO
+			diplomatic_influence = { who = FEO value = -100 }
+		}
+	}
+
+	gtfo_FER = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FER = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FER = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FER
+			diplomatic_influence = { who = FER value = -100 }
+		}
+	}
+
+	gtfo_FIN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FIN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FIN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FIN
+			diplomatic_influence = { who = FIN value = -100 }
+		}
+	}
+
+	gtfo_FJL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FJL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FJL
+			diplomatic_influence = { who = FJL value = -100 }
+		}
+	}
+
+	gtfo_FJV = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FJV = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJV = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FJV
+			diplomatic_influence = { who = FJV value = -100 }
+		}
+	}
+
+	gtfo_FJW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FJW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FJW
+			diplomatic_influence = { who = FJW value = -100 }
+		}
+	}
+
+	gtfo_FLA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FLA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FLA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FLA
+			diplomatic_influence = { who = FLA value = -100 }
+		}
+	}
+
+	gtfo_FRA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FRA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FRA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FRA
+			diplomatic_influence = { who = FRA value = -100 }
+		}
+	}
+
+	gtfo_FUL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			FUL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FUL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = FUL
+			diplomatic_influence = { who = FUL value = -100 }
+		}
+	}
+
+	gtfo_GEL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GEL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GEL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GEL
+			diplomatic_influence = { who = GEL value = -100 }
+		}
+	}
+
+	gtfo_GEN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GEN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GEN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GEN
+			diplomatic_influence = { who = GEN value = -100 }
+		}
+	}
+
+	gtfo_GEO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GEO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GEO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GEO
+			diplomatic_influence = { who = GEO value = -100 }
+		}
+	}
+
+	gtfo_GHR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GHR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GHR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GHR
+			diplomatic_influence = { who = GHR value = -100 }
+		}
+	}
+
+	gtfo_GOC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GOC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GOC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GOC
+			diplomatic_influence = { who = GOC value = -100 }
+		}
+	}
+
+	gtfo_GRE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GRE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GRE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GRE
+			diplomatic_influence = { who = GRE value = -100 }
+		}
+	}
+
+	gtfo_GRI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GRI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GRI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GRI
+			diplomatic_influence = { who = GRI value = -100 }
+		}
+	}
+
+	gtfo_GUG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			GUG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GUG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = GUG
+			diplomatic_influence = { who = GUG value = -100 }
+		}
+	}
+
+	gtfo_HAU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HAU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HAU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HAU
+			diplomatic_influence = { who = HAU value = -100 }
+		}
+	}
+
+	gtfo_HDA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HDA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HDA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HDA
+			diplomatic_influence = { who = HDA value = -100 }
+		}
+	}
+
+	gtfo_HDJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HDJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HDJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HDJ
+			diplomatic_influence = { who = HDJ value = -100 }
+		}
+	}
+
+	gtfo_HDY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HDY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HDY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HDY
+			diplomatic_influence = { who = HDY value = -100 }
+		}
+	}
+
+	gtfo_HES = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HES = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HES = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HES
+			diplomatic_influence = { who = HES value = -100 }
+		}
+	}
+
+	gtfo_HLR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HLR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HLR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HLR
+			diplomatic_influence = { who = HLR value = -100 }
+		}
+	}
+
+	gtfo_HOD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HOD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HOD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HOD
+			diplomatic_influence = { who = HOD value = -100 }
+		}
+	}
+
+	gtfo_HUA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HUA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HUA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HUA
+			diplomatic_influence = { who = HUA value = -100 }
+		}
+	}
+
+	gtfo_HWH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HWH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HWH
+			diplomatic_influence = { who = HWH value = -100 }
+		}
+	}
+
+	gtfo_HWK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HWK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HWK
+			diplomatic_influence = { who = HWK value = -100 }
+		}
+	}
+
+	gtfo_HWM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HWM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HWM
+			diplomatic_influence = { who = HWM value = -100 }
+		}
+	}
+
+	gtfo_HWO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			HWO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = HWO
+			diplomatic_influence = { who = HWO value = -100 }
+		}
+	}
+
+	gtfo_ICL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ICL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ICL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ICL
+			diplomatic_influence = { who = ICL value = -100 }
+		}
+	}
+
+	gtfo_INN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			INN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			INN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = INN
+			diplomatic_influence = { who = INN value = -100 }
+		}
+	}
+
+	gtfo_IRE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			IRE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			IRE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = IRE
+			diplomatic_influence = { who = IRE value = -100 }
+		}
+	}
+
+	gtfo_IRQ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			IRQ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			IRQ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = IRQ
+			diplomatic_influence = { who = IRQ value = -100 }
+		}
+	}
+
+	gtfo_ITA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ITA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ITA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ITA
+			diplomatic_influence = { who = ITA value = -100 }
+		}
+	}
+
+	gtfo_JAR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			JAR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JAR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = JAR
+			diplomatic_influence = { who = JAR value = -100 }
+		}
+	}
+
+	gtfo_JGD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			JGD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JGD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = JGD
+			diplomatic_influence = { who = JGD value = -100 }
+		}
+	}
+
+	gtfo_JIM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			JIM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JIM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = JIM
+			diplomatic_influence = { who = JIM value = -100 }
+		}
+	}
+
+	gtfo_JIN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			JIN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JIN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = JIN
+			diplomatic_influence = { who = JIN value = -100 }
+		}
+	}
+
+	gtfo_KAF = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KAF = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KAF = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KAF
+			diplomatic_influence = { who = KAF value = -100 }
+		}
+	}
+
+	gtfo_KAS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KAS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KAS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KAS
+			diplomatic_influence = { who = KAS value = -100 }
+		}
+	}
+
+	gtfo_KAX = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KAX = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KAX = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KAX
+			diplomatic_influence = { who = KAX value = -100 }
+		}
+	}
+
+	gtfo_KBO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KBO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KBO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KBO
+			diplomatic_influence = { who = KBO value = -100 }
+		}
+	}
+
+	gtfo_KCX = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KCX = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KCX = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KCX
+			diplomatic_influence = { who = KCX value = -100 }
+		}
+	}
+
+	gtfo_KEL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KEL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KEL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KEL
+			diplomatic_influence = { who = KEL value = -100 }
+		}
+	}
+
+	gtfo_KHA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KHA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KHA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KHA
+			diplomatic_influence = { who = KHA value = -100 }
+		}
+	}
+
+	gtfo_KHI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KHI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KHI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KHI
+			diplomatic_influence = { who = KHI value = -100 }
+		}
+	}
+
+	gtfo_KIC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KIC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KIC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KIC
+			diplomatic_influence = { who = KIC value = -100 }
+		}
+	}
+
+	gtfo_KIE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KIE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KIE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KIE
+			diplomatic_influence = { who = KIE value = -100 }
+		}
+	}
+
+	gtfo_KIO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KIO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KIO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KIO
+			diplomatic_influence = { who = KIO value = -100 }
+		}
+	}
+
+	gtfo_KLK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KLK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KLK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KLK
+			diplomatic_influence = { who = KLK value = -100 }
+		}
+	}
+
+	gtfo_KMC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KMC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KMC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KMC
+			diplomatic_influence = { who = KMC value = -100 }
+		}
+	}
+
+	gtfo_KMK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KMK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KMK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KMK
+			diplomatic_influence = { who = KMK value = -100 }
+		}
+	}
+
+	gtfo_KOC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KOC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KOC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KOC
+			diplomatic_influence = { who = KOC value = -100 }
+		}
+	}
+
+	gtfo_KOI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KOI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KOI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KOI
+			diplomatic_influence = { who = KOI value = -100 }
+		}
+	}
+
+	gtfo_KON = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KON = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KON = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KON
+			diplomatic_influence = { who = KON value = -100 }
+		}
+	}
+
+	gtfo_KOR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KOR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KOR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KOR
+			diplomatic_influence = { who = KOR value = -100 }
+		}
+	}
+
+	gtfo_KRC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KRC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KRC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KRC
+			diplomatic_influence = { who = KRC value = -100 }
+		}
+	}
+
+	gtfo_KRN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KRN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KRN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KRN
+			diplomatic_influence = { who = KRN value = -100 }
+		}
+	}
+
+	gtfo_KSJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KSJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KSJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KSJ
+			diplomatic_influence = { who = KSJ value = -100 }
+		}
+	}
+
+	gtfo_KUB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KUB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KUB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KUB
+			diplomatic_influence = { who = KUB value = -100 }
+		}
+	}
+
+	gtfo_KZB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KZB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KZB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KZB
+			diplomatic_influence = { who = KZB value = -100 }
+		}
+	}
+
+	gtfo_LAN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LAN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LAN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LAN
+			diplomatic_influence = { who = LAN value = -100 }
+		}
+	}
+
+	gtfo_LBA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LBA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LBA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LBA
+			diplomatic_influence = { who = LBA value = -100 }
+		}
+	}
+
+	gtfo_LEN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LEN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LEN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LEN
+			diplomatic_influence = { who = LEN value = -100 }
+		}
+	}
+
+	gtfo_LGR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LGR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LGR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LGR
+			diplomatic_influence = { who = LGR value = -100 }
+		}
+	}
+
+	gtfo_LIT = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LIT = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LIT = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LIT
+			diplomatic_influence = { who = LIT value = -100 }
+		}
+	}
+
+	gtfo_LNA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LNA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LNA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LNA
+			diplomatic_influence = { who = LNA value = -100 }
+		}
+	}
+
+	gtfo_LNG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LNG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LNG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LNG
+			diplomatic_influence = { who = LNG value = -100 }
+		}
+	}
+
+	gtfo_LOU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LOU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LOU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LOU
+			diplomatic_influence = { who = LOU value = -100 }
+		}
+	}
+
+	gtfo_LPN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LPN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LPN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LPN
+			diplomatic_influence = { who = LPN value = -100 }
+		}
+	}
+
+	gtfo_LUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LUN
+			diplomatic_influence = { who = LUN value = -100 }
+		}
+	}
+
+	gtfo_LXA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			LXA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LXA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = LXA
+			diplomatic_influence = { who = LXA value = -100 }
+		}
+	}
+
+	gtfo_MDS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MDS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MDS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MDS
+			diplomatic_influence = { who = MDS value = -100 }
+		}
+	}
+
+	gtfo_MEW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MEW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MEW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MEW
+			diplomatic_influence = { who = MEW value = -100 }
+		}
+	}
+
+	gtfo_MEX = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MEX = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MEX = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MEX
+			diplomatic_influence = { who = MEX value = -100 }
+		}
+	}
+
+	gtfo_MGD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MGD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MGD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MGD
+			diplomatic_influence = { who = MGD value = -100 }
+		}
+	}
+
+	gtfo_MHR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MHR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MHR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MHR
+			diplomatic_influence = { who = MHR value = -100 }
+		}
+	}
+
+	gtfo_MIK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MIK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MIK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MIK
+			diplomatic_influence = { who = MIK value = -100 }
+		}
+	}
+
+	gtfo_MJP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MJP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MJP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MJP
+			diplomatic_influence = { who = MJP value = -100 }
+		}
+	}
+
+	gtfo_MKS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MKS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MKS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MKS
+			diplomatic_influence = { who = MKS value = -100 }
+		}
+	}
+
+	gtfo_MKU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MKU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MKU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MKU
+			diplomatic_influence = { who = MKU value = -100 }
+		}
+	}
+
+	gtfo_MLS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MLS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MLS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MLS
+			diplomatic_influence = { who = MLS value = -100 }
+		}
+	}
+
+	gtfo_MLW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MLW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MLW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MLW
+			diplomatic_influence = { who = MLW value = -100 }
+		}
+	}
+
+	gtfo_MNP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MNP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MNP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MNP
+			diplomatic_influence = { who = MNP value = -100 }
+		}
+	}
+
+	gtfo_MNX = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MNX = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MNX = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MNX
+			diplomatic_influence = { who = MNX value = -100 }
+		}
+	}
+
+	gtfo_MRE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MRE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MRE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MRE
+			diplomatic_influence = { who = MRE value = -100 }
+		}
+	}
+
+	gtfo_MRI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MRI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MRI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MRI
+			diplomatic_influence = { who = MRI value = -100 }
+		}
+	}
+
+	gtfo_MRK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MRK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MRK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MRK
+			diplomatic_influence = { who = MRK value = -100 }
+		}
+	}
+
+	gtfo_MSC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MSC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MSC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MSC
+			diplomatic_influence = { who = MSC value = -100 }
+		}
+	}
+
+	gtfo_MSH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MSH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MSH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MSH
+			diplomatic_influence = { who = MSH value = -100 }
+		}
+	}
+
+	gtfo_MTL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MTL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MTL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MTL
+			diplomatic_influence = { who = MTL value = -100 }
+		}
+	}
+
+	gtfo_MUS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MUS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MUS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MUS
+			diplomatic_influence = { who = MUS value = -100 }
+		}
+	}
+
+	gtfo_MYA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			MYA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MYA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = MYA
+			diplomatic_influence = { who = MYA value = -100 }
+		}
+	}
+
+	gtfo_NAH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NAH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NAH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NAH
+			diplomatic_influence = { who = NAH value = -100 }
+		}
+	}
+
+	gtfo_NAK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NAK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NAK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NAK
+			diplomatic_influence = { who = NAK value = -100 }
+		}
+	}
+
+	gtfo_NAV = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NAV = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NAV = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NAV
+			diplomatic_influence = { who = NAV value = -100 }
+		}
+	}
+
+	gtfo_NDO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NDO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NDO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NDO
+			diplomatic_influence = { who = NDO value = -100 }
+		}
+	}
+
+	gtfo_NEJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NEJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NEJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NEJ
+			diplomatic_influence = { who = NEJ value = -100 }
+		}
+	}
+
+	gtfo_NEP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NEP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NEP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NEP
+			diplomatic_influence = { who = NEP value = -100 }
+		}
+	}
+
+	gtfo_NET = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NET = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NET = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NET
+			diplomatic_influence = { who = NET value = -100 }
+		}
+	}
+
+	gtfo_NEW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NEW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NEW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NEW
+			diplomatic_influence = { who = NEW value = -100 }
+		}
+	}
+
+	gtfo_NHY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NHY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NHY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NHY
+			diplomatic_influence = { who = NHY value = -100 }
+		}
+	}
+
+	gtfo_NNG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NNG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NNG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NNG
+			diplomatic_influence = { who = NNG value = -100 }
+		}
+	}
+
+	gtfo_NOL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NOL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NOL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NOL
+			diplomatic_influence = { who = NOL value = -100 }
+		}
+	}
+
+	gtfo_NOR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NOR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NOR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NOR
+			diplomatic_influence = { who = NOR value = -100 }
+		}
+	}
+
+	gtfo_NRM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NRM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NRM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NRM
+			diplomatic_influence = { who = NRM value = -100 }
+		}
+	}
+
+	gtfo_NTZ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NTZ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NTZ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NTZ
+			diplomatic_influence = { who = NTZ value = -100 }
+		}
+	}
+
+	gtfo_NUB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NUB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NUB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NUB
+			diplomatic_influence = { who = NUB value = -100 }
+		}
+	}
+
+	gtfo_NZA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NZA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NZA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NZA
+			diplomatic_influence = { who = NZA value = -100 }
+		}
+	}
+
+	gtfo_NZK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NZK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NZK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NZK
+			diplomatic_influence = { who = NZK value = -100 }
+		}
+	}
+
+	gtfo_NZN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			NZN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NZN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = NZN
+			diplomatic_influence = { who = NZN value = -100 }
+		}
+	}
+
+	gtfo_ORI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ORI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ORI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ORI
+			diplomatic_influence = { who = ORI value = -100 }
+		}
+	}
+
+	gtfo_ORL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ORL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ORL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ORL
+			diplomatic_influence = { who = ORL value = -100 }
+		}
+	}
+
+	gtfo_OSA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			OSA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			OSA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = OSA
+			diplomatic_influence = { who = OSA value = -100 }
+		}
+	}
+
+	gtfo_OSH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			OSH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			OSH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = OSH
+			diplomatic_influence = { who = OSH value = -100 }
+		}
+	}
+
+	gtfo_PAP = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PAP = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAP = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PAP
+			diplomatic_influence = { who = PAP value = -100 }
+		}
+	}
+
+	gtfo_PAW = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PAW = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAW = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PAW
+			diplomatic_influence = { who = PAW value = -100 }
+		}
+	}
+
+	gtfo_PCH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PCH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PCH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PCH
+			diplomatic_influence = { who = PCH value = -100 }
+		}
+	}
+
+	gtfo_PCJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PCJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PCJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PCJ
+			diplomatic_influence = { who = PCJ value = -100 }
+		}
+	}
+
+	gtfo_PEG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PEG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PEG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PEG
+			diplomatic_influence = { who = PEG value = -100 }
+		}
+	}
+
+	gtfo_PEO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PEO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PEO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PEO
+			diplomatic_influence = { who = PEO value = -100 }
+		}
+	}
+
+	gtfo_PER = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PER = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PER = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PER
+			diplomatic_influence = { who = PER value = -100 }
+		}
+	}
+
+	gtfo_PGR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PGR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PGR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PGR
+			diplomatic_influence = { who = PGR value = -100 }
+		}
+	}
+
+	gtfo_PHG = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PHG = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PHG = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PHG
+			diplomatic_influence = { who = PHG value = -100 }
+		}
+	}
+
+	gtfo_PIM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PIM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PIM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PIM
+			diplomatic_influence = { who = PIM value = -100 }
+		}
+	}
+
+	gtfo_PLB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PLB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PLB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PLB
+			diplomatic_influence = { who = PLB value = -100 }
+		}
+	}
+
+	gtfo_PLT = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PLT = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PLT = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PLT
+			diplomatic_influence = { who = PLT value = -100 }
+		}
+	}
+
+	gtfo_PNJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PNJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PNJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PNJ
+			diplomatic_influence = { who = PNJ value = -100 }
+		}
+	}
+
+	gtfo_POL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			POL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			POL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = POL
+			diplomatic_influence = { who = POL value = -100 }
+		}
+	}
+
+	gtfo_POR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			POR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			POR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = POR
+			diplomatic_influence = { who = POR value = -100 }
+		}
+	}
+
+	gtfo_PRM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PRM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PRM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PRM
+			diplomatic_influence = { who = PRM value = -100 }
+		}
+	}
+
+	gtfo_PRO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PRO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PRO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PRO
+			diplomatic_influence = { who = PRO value = -100 }
+		}
+	}
+
+	gtfo_PSA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			PSA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PSA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = PSA
+			diplomatic_influence = { who = PSA value = -100 }
+		}
+	}
+
+	gtfo_QIC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			QIC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			QIC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = QIC
+			diplomatic_influence = { who = QIC value = -100 }
+		}
+	}
+
+	gtfo_RAJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			RAJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			RAJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = RAJ
+			diplomatic_influence = { who = RAJ value = -100 }
+		}
+	}
+
+	gtfo_RDL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			RDL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			RDL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = RDL
+			diplomatic_influence = { who = RDL value = -100 }
+		}
+	}
+
+	gtfo_RWA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			RWA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			RWA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = RWA
+			diplomatic_influence = { who = RWA value = -100 }
+		}
+	}
+
+	gtfo_RYA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			RYA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			RYA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = RYA
+			diplomatic_influence = { who = RYA value = -100 }
+		}
+	}
+
+	gtfo_SAL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SAL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SAL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SAL
+			diplomatic_influence = { who = SAL value = -100 }
+		}
+	}
+
+	gtfo_SCA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SCA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SCA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SCA
+			diplomatic_influence = { who = SCA value = -100 }
+		}
+	}
+
+	gtfo_SDY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SDY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SDY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SDY
+			diplomatic_influence = { who = SDY value = -100 }
+		}
+	}
+
+	gtfo_SGH = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SGH = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SGH = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SGH
+			diplomatic_influence = { who = SGH value = -100 }
+		}
+	}
+
+	gtfo_SGU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SGU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SGU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SGU
+			diplomatic_influence = { who = SGU value = -100 }
+		}
+	}
+
+	gtfo_SHS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SHS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SHS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SHS
+			diplomatic_influence = { who = SHS value = -100 }
+		}
+	}
+
+	gtfo_SHU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SHU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SHU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SHU
+			diplomatic_influence = { who = SHU value = -100 }
+		}
+	}
+
+	gtfo_SIA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SIA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SIA
+			diplomatic_influence = { who = SIA value = -100 }
+		}
+	}
+
+	gtfo_SIB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SIB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SIB
+			diplomatic_influence = { who = SIB value = -100 }
+		}
+	}
+
+	gtfo_SIN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SIN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SIN
+			diplomatic_influence = { who = SIN value = -100 }
+		}
+	}
+
+	gtfo_SIO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SIO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SIO
+			diplomatic_influence = { who = SIO value = -100 }
+		}
+	}
+
+	gtfo_SKA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SKA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SKA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SKA
+			diplomatic_influence = { who = SKA value = -100 }
+		}
+	}
+
+	gtfo_SLS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SLS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SLS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SLS
+			diplomatic_influence = { who = SLS value = -100 }
+		}
+	}
+
+	gtfo_SLV = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SLV = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SLV = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SLV
+			diplomatic_influence = { who = SLV value = -100 }
+		}
+	}
+
+	gtfo_SMO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SMO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SMO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SMO
+			diplomatic_influence = { who = SMO value = -100 }
+		}
+	}
+
+	gtfo_SNZ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SNZ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SNZ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SNZ
+			diplomatic_influence = { who = SNZ value = -100 }
+		}
+	}
+
+	gtfo_SOL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SOL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SOL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SOL
+			diplomatic_influence = { who = SOL value = -100 }
+		}
+	}
+
+	gtfo_SRI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SRI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SRI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SRI
+			diplomatic_influence = { who = SRI value = -100 }
+		}
+	}
+
+	gtfo_SRJ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SRJ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SRJ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SRJ
+			diplomatic_influence = { who = SRJ value = -100 }
+		}
+	}
+
+	gtfo_STA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			STA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			STA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = STA
+			diplomatic_influence = { who = STA value = -100 }
+		}
+	}
+
+	gtfo_SUD = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SUD = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SUD = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SUD
+			diplomatic_influence = { who = SUD value = -100 }
+		}
+	}
+
+	gtfo_SUL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SUL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SUL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SUL
+			diplomatic_influence = { who = SUL value = -100 }
+		}
+	}
+
+	gtfo_SUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SUN
+			diplomatic_influence = { who = SUN value = -100 }
+		}
+	}
+
+	gtfo_SVY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SVY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SVY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SVY
+			diplomatic_influence = { who = SVY value = -100 }
+		}
+	}
+
+	gtfo_SWA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SWA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SWA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SWA
+			diplomatic_influence = { who = SWA value = -100 }
+		}
+	}
+
+	gtfo_SWI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			SWI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SWI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = SWI
+			diplomatic_influence = { who = SWI value = -100 }
+		}
+	}
+
+	gtfo_TDO = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TDO = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TDO = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TDO
+			diplomatic_influence = { who = TDO value = -100 }
+		}
+	}
+
+	gtfo_TEU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TEU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TEU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TEU
+			diplomatic_influence = { who = TEU value = -100 }
+		}
+	}
+
+	gtfo_TGA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TGA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TGA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TGA
+			diplomatic_influence = { who = TGA value = -100 }
+		}
+	}
+
+	gtfo_TIB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TIB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TIB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TIB
+			diplomatic_influence = { who = TIB value = -100 }
+		}
+	}
+
+	gtfo_TID = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TID = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TID = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TID
+			diplomatic_influence = { who = TID value = -100 }
+		}
+	}
+
+	gtfo_TLA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TLA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TLA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TLA
+			diplomatic_influence = { who = TLA value = -100 }
+		}
+	}
+
+	gtfo_TLC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TLC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TLC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TLC
+			diplomatic_influence = { who = TLC value = -100 }
+		}
+	}
+
+	gtfo_TMB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TMB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TMB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TMB
+			diplomatic_influence = { who = TMB value = -100 }
+		}
+	}
+
+	gtfo_TON = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TON = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TON = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TON
+			diplomatic_influence = { who = TON value = -100 }
+		}
+	}
+
+	gtfo_TRA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TRA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TRA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TRA
+			diplomatic_influence = { who = TRA value = -100 }
+		}
+	}
+
+	gtfo_TRS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TRS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TRS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TRS
+			diplomatic_influence = { who = TRS value = -100 }
+		}
+	}
+
+	gtfo_TTE = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TTE = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TTE = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TTE
+			diplomatic_influence = { who = TTE value = -100 }
+		}
+	}
+
+	gtfo_TUL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TUL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TUL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TUL
+			diplomatic_influence = { who = TUL value = -100 }
+		}
+	}
+
+	gtfo_TUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TUN
+			diplomatic_influence = { who = TUN value = -100 }
+		}
+	}
+
+	gtfo_TUS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			TUS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TUS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = TUS
+			diplomatic_influence = { who = TUS value = -100 }
+		}
+	}
+
+	gtfo_UGR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			UGR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			UGR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = UGR
+			diplomatic_influence = { who = UGR value = -100 }
+		}
+	}
+
+	gtfo_UKR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			UKR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			UKR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = UKR
+			diplomatic_influence = { who = UKR value = -100 }
+		}
+	}
+
+	gtfo_URB = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			URB = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			URB = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = URB
+			diplomatic_influence = { who = URB value = -100 }
+		}
+	}
+
+	gtfo_USA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			USA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			USA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = USA
+			diplomatic_influence = { who = USA value = -100 }
+		}
+	}
+
+	gtfo_UTS = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			UTS = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			UTS = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = UTS
+			diplomatic_influence = { who = UTS value = -100 }
+		}
+	}
+
+	gtfo_VEN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			VEN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			VEN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = VEN
+			diplomatic_influence = { who = VEN value = -100 }
+		}
+	}
+
+	gtfo_WCR = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			WCR = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WCR = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = WCR
+			diplomatic_influence = { who = WCR value = -100 }
+		}
+	}
+
+	gtfo_WES = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			WES = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WES = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = WES
+			diplomatic_influence = { who = WES value = -100 }
+		}
+	}
+
+	gtfo_WIC = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			WIC = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WIC = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = WIC
+			diplomatic_influence = { who = WIC value = -100 }
+		}
+	}
+
+	gtfo_WLY = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			WLY = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WLY = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = WLY
+			diplomatic_influence = { who = WLY value = -100 }
+		}
+	}
+
+	gtfo_WSI = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			WSI = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WSI = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = WSI
+			diplomatic_influence = { who = WSI value = -100 }
+		}
+	}
+
+	gtfo_X00 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X00 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X00 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X00
+			diplomatic_influence = { who = X00 value = -100 }
+		}
+	}
+
+	gtfo_X01 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X01 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X01 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X01
+			diplomatic_influence = { who = X01 value = -100 }
+		}
+	}
+
+	gtfo_X02 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X02 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X02 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X02
+			diplomatic_influence = { who = X02 value = -100 }
+		}
+	}
+
+	gtfo_X03 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X03 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X03 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X03
+			diplomatic_influence = { who = X03 value = -100 }
+		}
+	}
+
+	gtfo_X04 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X04 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X04 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X04
+			diplomatic_influence = { who = X04 value = -100 }
+		}
+	}
+
+	gtfo_X05 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X05 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X05 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X05
+			diplomatic_influence = { who = X05 value = -100 }
+		}
+	}
+
+	gtfo_X06 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X06 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X06 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X06
+			diplomatic_influence = { who = X06 value = -100 }
+		}
+	}
+
+	gtfo_X07 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X07 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X07 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X07
+			diplomatic_influence = { who = X07 value = -100 }
+		}
+	}
+
+	gtfo_X08 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X08 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X08 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X08
+			diplomatic_influence = { who = X08 value = -100 }
+		}
+	}
+
+	gtfo_X09 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X09 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X09 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X09
+			diplomatic_influence = { who = X09 value = -100 }
+		}
+	}
+
+	gtfo_X10 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X10 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X10 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X10
+			diplomatic_influence = { who = X10 value = -100 }
+		}
+	}
+
+	gtfo_X11 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X11 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X11 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X11
+			diplomatic_influence = { who = X11 value = -100 }
+		}
+	}
+
+	gtfo_X12 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X12 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X12 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X12
+			diplomatic_influence = { who = X12 value = -100 }
+		}
+	}
+
+	gtfo_X13 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X13 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X13 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X13
+			diplomatic_influence = { who = X13 value = -100 }
+		}
+	}
+
+	gtfo_X14 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X14 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X14 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X14
+			diplomatic_influence = { who = X14 value = -100 }
+		}
+	}
+
+	gtfo_X15 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X15 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X15 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X15
+			diplomatic_influence = { who = X15 value = -100 }
+		}
+	}
+
+	gtfo_X16 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X16 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X16 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X16
+			diplomatic_influence = { who = X16 value = -100 }
+		}
+	}
+
+	gtfo_X17 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X17 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X17 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X17
+			diplomatic_influence = { who = X17 value = -100 }
+		}
+	}
+
+	gtfo_X18 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X18 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X18 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X18
+			diplomatic_influence = { who = X18 value = -100 }
+		}
+	}
+
+	gtfo_X19 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X19 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X19 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X19
+			diplomatic_influence = { who = X19 value = -100 }
+		}
+	}
+
+	gtfo_X20 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X20 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X20 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X20
+			diplomatic_influence = { who = X20 value = -100 }
+		}
+	}
+
+	gtfo_X21 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X21 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X21 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X21
+			diplomatic_influence = { who = X21 value = -100 }
+		}
+	}
+
+	gtfo_X22 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X22 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X22 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X22
+			diplomatic_influence = { who = X22 value = -100 }
+		}
+	}
+
+	gtfo_X23 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X23 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X23 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X23
+			diplomatic_influence = { who = X23 value = -100 }
+		}
+	}
+
+	gtfo_X24 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X24 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X24 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X24
+			diplomatic_influence = { who = X24 value = -100 }
+		}
+	}
+
+	gtfo_X25 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X25 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X25 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X25
+			diplomatic_influence = { who = X25 value = -100 }
+		}
+	}
+
+	gtfo_X26 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X26 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X26 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X26
+			diplomatic_influence = { who = X26 value = -100 }
+		}
+	}
+
+	gtfo_X27 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X27 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X27 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X27
+			diplomatic_influence = { who = X27 value = -100 }
+		}
+	}
+
+	gtfo_X28 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X28 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X28 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X28
+			diplomatic_influence = { who = X28 value = -100 }
+		}
+	}
+
+	gtfo_X29 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X29 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X29 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X29
+			diplomatic_influence = { who = X29 value = -100 }
+		}
+	}
+
+	gtfo_X30 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X30 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X30 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X30
+			diplomatic_influence = { who = X30 value = -100 }
+		}
+	}
+
+	gtfo_X31 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X31 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X31 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X31
+			diplomatic_influence = { who = X31 value = -100 }
+		}
+	}
+
+	gtfo_X32 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X32 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X32 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X32
+			diplomatic_influence = { who = X32 value = -100 }
+		}
+	}
+
+	gtfo_X33 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X33 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X33 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X33
+			diplomatic_influence = { who = X33 value = -100 }
+		}
+	}
+
+	gtfo_X34 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X34 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X34 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X34
+			diplomatic_influence = { who = X34 value = -100 }
+		}
+	}
+
+	gtfo_X35 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X35 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X35 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X35
+			diplomatic_influence = { who = X35 value = -100 }
+		}
+	}
+
+	gtfo_X36 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X36 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X36 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X36
+			diplomatic_influence = { who = X36 value = -100 }
+		}
+	}
+
+	gtfo_X37 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X37 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X37 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X37
+			diplomatic_influence = { who = X37 value = -100 }
+		}
+	}
+
+	gtfo_X38 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X38 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X38 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X38
+			diplomatic_influence = { who = X38 value = -100 }
+		}
+	}
+
+	gtfo_X39 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X39 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X39 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X39
+			diplomatic_influence = { who = X39 value = -100 }
+		}
+	}
+
+	gtfo_X40 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X40 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X40 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X40
+			diplomatic_influence = { who = X40 value = -100 }
+		}
+	}
+
+	gtfo_X41 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X41 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X41 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X41
+			diplomatic_influence = { who = X41 value = -100 }
+		}
+	}
+
+	gtfo_X42 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X42 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X42 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X42
+			diplomatic_influence = { who = X42 value = -100 }
+		}
+	}
+
+	gtfo_X43 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X43 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X43 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X43
+			diplomatic_influence = { who = X43 value = -100 }
+		}
+	}
+
+	gtfo_X44 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X44 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X44 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X44
+			diplomatic_influence = { who = X44 value = -100 }
+		}
+	}
+
+	gtfo_X45 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X45 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X45 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X45
+			diplomatic_influence = { who = X45 value = -100 }
+		}
+	}
+
+	gtfo_X46 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X46 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X46 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X46
+			diplomatic_influence = { who = X46 value = -100 }
+		}
+	}
+
+	gtfo_X47 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X47 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X47 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X47
+			diplomatic_influence = { who = X47 value = -100 }
+		}
+	}
+
+	gtfo_X48 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X48 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X48 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X48
+			diplomatic_influence = { who = X48 value = -100 }
+		}
+	}
+
+	gtfo_X49 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X49 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X49 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X49
+			diplomatic_influence = { who = X49 value = -100 }
+		}
+	}
+
+	gtfo_X50 = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			X50 = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X50 = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = X50
+			diplomatic_influence = { who = X50 value = -100 }
+		}
+	}
+
+	gtfo_XAL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			XAL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			XAL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = XAL
+			diplomatic_influence = { who = XAL value = -100 }
+		}
+	}
+
+	gtfo_XIU = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			XIU = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			XIU = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = XIU
+			diplomatic_influence = { who = XIU value = -100 }
+		}
+	}
+
+	gtfo_XMA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			XMA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			XMA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = XMA
+			diplomatic_influence = { who = XMA value = -100 }
+		}
+	}
+
+	gtfo_YAN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			YAN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YAN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = YAN
+			diplomatic_influence = { who = YAN value = -100 }
+		}
+	}
+
+	gtfo_YAQ = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			YAQ = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YAQ = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = YAQ
+			diplomatic_influence = { who = YAQ value = -100 }
+		}
+	}
+
+	gtfo_YKT = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			YKT = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YKT = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = YKT
+			diplomatic_influence = { who = YKT value = -100 }
+		}
+	}
+
+	gtfo_YRK = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			YRK = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YRK = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = YRK
+			diplomatic_influence = { who = YRK value = -100 }
+		}
+	}
+
+	gtfo_YUA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			YUA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YUA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = YUA
+			diplomatic_influence = { who = YUA value = -100 }
+		}
+	}
+
+	gtfo_ZIM = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ZIM = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ZIM = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ZIM
+			diplomatic_influence = { who = ZIM value = -100 }
+		}
+	}
+
+	gtfo_ZUL = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ZUL = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ZUL = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ZUL
+			diplomatic_influence = { who = ZUL value = -100 }
+		}
+	}
+
+	gtfo_ZUN = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			ZUN = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ZUN = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = ZUN
+			diplomatic_influence = { who = ZUN value = -100 }
+		}
+	}
+}

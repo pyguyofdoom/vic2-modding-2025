@@ -1,0 +1,7 @@
+owner=KAX
+controller=AVA
+add_core=HND
+add_core=KAX
+trade_goods = fruit
+life_rating = 35
+fort = 1

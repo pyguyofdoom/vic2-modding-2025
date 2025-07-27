@@ -1,0 +1,8 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=IDO
+add_core=MYA
+trade_goods = opium
+life_rating = 35
+fort = 1

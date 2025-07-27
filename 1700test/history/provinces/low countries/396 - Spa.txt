@@ -1,0 +1,6 @@
+owner=HLR
+controller=HLR
+add_core=BEL
+add_core=HLR
+trade_goods = coal
+life_rating = 35

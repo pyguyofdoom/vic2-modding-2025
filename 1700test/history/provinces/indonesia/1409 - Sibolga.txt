@@ -1,0 +1,6 @@
+owner=PGR
+controller=PGR
+add_core=MLY
+add_core=PGR
+trade_goods = wool
+life_rating = 35

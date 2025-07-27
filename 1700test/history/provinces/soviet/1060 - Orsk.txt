@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=TKS
+add_core=UKR
+add_core=X14
+trade_goods = iron
+life_rating = 35

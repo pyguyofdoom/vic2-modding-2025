@@ -1,0 +1,7 @@
+owner=X33
+controller=SRJ
+add_core=BRU
+add_core=X33
+trade_goods = grain
+life_rating = 31
+terrain = mountain

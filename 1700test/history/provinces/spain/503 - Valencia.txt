@@ -1,0 +1,7 @@
+owner=PRO
+controller=PRO
+add_core=CAT
+add_core=PRO
+add_core=SPA
+trade_goods = silk
+life_rating = 35

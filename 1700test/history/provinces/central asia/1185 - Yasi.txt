@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=SIB
+add_core=TKS
+add_core=X36
+trade_goods = wool
+life_rating = 30
+colonial=2

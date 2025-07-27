@@ -1,0 +1,5 @@
+owner=WSI
+controller=WSI
+trade_goods = sulphur
+life_rating = 39
+colonial=2

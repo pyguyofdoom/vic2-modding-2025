@@ -1,0 +1,23 @@
+name = "French Reconquest of Chakla"
+
+1700.6.30 = {
+	add_attacker = FRA
+	add_attacker = BNG
+	add_attacker = SRI
+	add_attacker = X30
+	add_attacker = X37
+	add_attacker = BLZ
+	add_attacker = ARG
+	add_attacker = BRZ
+	add_defender = X33
+	add_defender = BTU
+	add_defender = PEG
+	add_defender = X41
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = FRA
+		receiver = X33
+		state_province_id = 2566
+	}
+}

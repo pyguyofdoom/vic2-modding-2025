@@ -1,0 +1,7 @@
+owner=HLR
+controller=HLR
+add_core=BEY
+add_core=FRA
+add_core=HLR
+trade_goods = timber
+life_rating = 32

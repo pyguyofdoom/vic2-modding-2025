@@ -1,0 +1,1858 @@
+791 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1149
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 349
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 13932
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 649
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 744
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 7165
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 231
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1375
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1111
+	}
+
+}
+792 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 1422
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 1683
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 33722
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1145
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 4396
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 317
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1094
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 23078
+	}
+
+}
+794 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1367
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 32772
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 355
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 468
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1165
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1827
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 51
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 644
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 25464
+	}
+
+}
+795 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1088
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 286
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 27027
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 782
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 698
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 18545
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1190
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 387
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2800
+	}
+
+}
+796 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 880
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 232
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 21852
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 686
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 592
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 16263
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 960
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 605
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1499
+	}
+
+}
+797 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 3255
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 4463
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 932
+	}
+
+}
+798 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1224
+	}
+
+	craftsmen=
+	{
+		culture = serb
+		religion = catholic
+		size= 8209
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 363
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 52
+	}
+
+	clerks=
+	{
+		culture = serb
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 5
+	}
+
+	capitalists=
+	{
+		culture = serb
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 22219
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 126
+	}
+
+	craftsmen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 847
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	clerks=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1661
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 806
+	}
+
+	craftsmen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 5403
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 1754
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 253
+	}
+
+	clerks=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 23
+	}
+
+	capitalists=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 12237
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 281
+	}
+
+	craftsmen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1882
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 3219
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 465
+	}
+
+	clerks=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 550
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 43
+	}
+
+	capitalists=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 155
+	}
+
+}
+799 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size= 1076
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size= 26820
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 2289
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 708
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 1542
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 223
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 15844
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 247
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2830
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 409
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2410
+	}
+
+}
+802 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1956
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 595
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 23540
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 2006
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 1815
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 22551
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2511
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 363
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 50
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 352
+	}
+
+}
+803 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 2155
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 655
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 25795
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 2210
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 1999
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 24711
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2766
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 387
+	}
+
+}
+804 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 466
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 19092
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = bogomilist
+		size= 1580
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 737
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 2787
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 520
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 15088
+	}
+
+}
+2538 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 1978
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 2352
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 422
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = bogomilist
+		size= 48257
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1603
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 6164
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 384
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 70
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 1106
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = bogomilist
+		size= 33520
+	}
+
+}

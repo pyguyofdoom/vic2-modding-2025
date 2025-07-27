@@ -1,0 +1,6 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+add_core=YAQ
+trade_goods = cattle
+life_rating = 35

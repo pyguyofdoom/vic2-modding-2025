@@ -1,0 +1,6 @@
+owner=BNE
+controller=BNE
+add_core=BNE
+add_core=MKS
+trade_goods = grain
+life_rating = 31

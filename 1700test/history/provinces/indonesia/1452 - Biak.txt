@@ -1,0 +1,6 @@
+owner=PGR
+controller=SRJ
+add_core=PGR
+trade_goods = fish
+life_rating = 31
+naval_base = 1

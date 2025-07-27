@@ -1,0 +1,9 @@
+owner=WSI
+controller=WSI
+add_core=HWH
+add_core=HWK
+add_core=HWM
+add_core=HWO
+trade_goods = sulphur
+life_rating = 10
+colonial=2

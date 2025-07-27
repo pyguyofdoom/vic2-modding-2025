@@ -1,0 +1,6 @@
+owner=X45
+controller=X45
+add_core=X45
+add_core=YRK
+trade_goods = sulphur
+life_rating = 32

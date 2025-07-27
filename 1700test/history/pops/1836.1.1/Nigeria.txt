@@ -1,0 +1,3961 @@
+1923 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 35610
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 4653
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = shamanism
+		size= 3324
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = shamanism
+		size= 540
+	}
+
+	bureaucrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 83
+	}
+
+	officers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 1047
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 37699
+	}
+
+}
+1924 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 15461
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 4466
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 897
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 58747
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 4376
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 1264
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 1405
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 15247
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 13507
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 3901
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 5438
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 507
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 45739
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 4049
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1170
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 9619
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 695
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 149
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 898
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 4133
+	}
+
+}
+1925 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 25227
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6608
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1327
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 84572
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 7140
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 1870
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 2079
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 21894
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 22037
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 5772
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 8045
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 581
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 125
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 65624
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 6606
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1730
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 14232
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1028
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 221
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 253
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1328
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 5501
+	}
+
+}
+1926 = {
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size= 4250
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size= 2150
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 2200
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 158600
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = animist
+		size= 40000
+	}
+
+}
+1927 = {
+	aristocrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 525
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size= 2500
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 39025
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = animist
+		size= 6000
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 9050
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 2000
+	}
+
+}
+1928 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 42122
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 5737
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = shamanism
+		size= 11473
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = shamanism
+		size= 1864
+	}
+
+	bureaucrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 516
+	}
+
+	officers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 229
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 3614
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 221273
+	}
+
+}
+1929 = {
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size= 34050
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = animist
+		size= 6000
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = animist
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = animist
+		size= 1150
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = animist
+		size= 9950
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 14250
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 6000
+	}
+
+}
+1930 = {
+	aristocrats=
+	{
+		culture = edo
+		religion = animist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = animist
+		size= 1175
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = animist
+		size= 18650
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = animist
+		size= 8000
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 2250
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 575
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 35525
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 16000
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = animist
+		size= 1550
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = animist
+		size= 775
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = animist
+		size= 3125
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = animist
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = animist
+		size= 45750
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = animist
+		size= 26000
+	}
+
+}
+1931 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 76356
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 6042
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = shamanism
+		size= 12084
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = shamanism
+		size= 1964
+	}
+
+	bureaucrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 302
+	}
+
+	officers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 242
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 3806
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 201301
+	}
+
+}
+1932 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5814
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 573
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 22267
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 8034
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 790
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 27356
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 2729
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 859
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 443
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 136
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+}
+1933 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 68100
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 5663
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = shamanism
+		size= 23170
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = shamanism
+		size= 1674
+	}
+
+	bureaucrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 257
+	}
+
+	officers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = shamanism
+		size= 4325
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = shamanism
+		size= 179757
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 2580
+	}
+
+	soldiers=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 3279
+	}
+
+	clergymen=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = edo
+		religion = west_african_pagan_reformed
+		size= 4801
+	}
+
+}
+1934 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 16561
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1584
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 61065
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 27788
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 2658
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 91213
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 8485
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 1379
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 2672
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 593
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 169
+	}
+
+}
+1935 = {
+	aristocrats=
+	{
+		culture = ibo
+		religion = animist
+		size= 4150
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = animist
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = animist
+		size= 2100
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = animist
+		size= 8350
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = animist
+		size= 2400
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = animist
+		size= 157000
+	}
+
+	slaves=
+	{
+		culture = ibibio
+		religion = animist
+		size= 34000
+	}
+
+}
+1936 = {
+	aristocrats=
+	{
+		culture = tiv
+		religion = animist
+		size= 1850
+	}
+
+	clergymen=
+	{
+		culture = tiv
+		religion = animist
+		size= 925
+	}
+
+	artisans=
+	{
+		culture = tiv
+		religion = animist
+		size= 3725
+	}
+
+	soldiers=
+	{
+		culture = tiv
+		religion = animist
+		size= 950
+	}
+
+	farmers=
+	{
+		culture = tiv
+		religion = animist
+		size= 62550
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = animist
+		size= 23000
+	}
+
+}
+1937 = {
+	aristocrats=
+	{
+		culture = tiv
+		religion = animist
+		size= 875
+	}
+
+	clergymen=
+	{
+		culture = tiv
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = tiv
+		religion = animist
+		size= 1775
+	}
+
+	soldiers=
+	{
+		culture = tiv
+		religion = animist
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = tiv
+		religion = animist
+		size= 56250
+	}
+
+	slaves=
+	{
+		culture = tiv
+		religion = animist
+		size= 8000
+	}
+
+}
+1938 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 819
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 321
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 4431
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 477
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 187
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = norse_pagan_reformed
+		size= 2315
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 689
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 418
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 948
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 88
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 460
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 165
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 802
+	}
+
+}
+1939 = {
+	slaves=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 2163
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 1559
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 23909
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1145
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 286
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 12348
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 2304
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 1660
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 1019
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 24207
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 347
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1623
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1517
+	}
+
+}
+1940 = {
+	slaves=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 493
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 1064
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 214
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 427
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 438
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 812
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 137
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 3698
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 704
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 566
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 7435
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 573
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 107
+	}
+
+}
+1941 = {
+	slaves=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 394
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = shamanism
+		size= 1073
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 171
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = west_african_pagan_reformed
+		size= 434
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 351
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = norse_pagan_reformed
+		size= 825
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 204
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 2958
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 663
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 533
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 7521
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 101
+	}
+
+}
+1942 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 8200
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 775
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 12600
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 2700
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 6375
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 2000
+	}
+
+}
+1943 = {
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 4425
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 5475
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 2000
+	}
+
+}
+1944 = {
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = sunni
+		size= 41225
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 13800
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 10000
+	}
+
+}
+1945 = {
+	slaves=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 41103
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 4700
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 2350
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 382
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 82
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 494
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 185850
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 31275
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 3576
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 5926
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 963
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 207
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 1245
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = norse_pagan_reformed
+		size= 135507
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 1120
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 8533
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1387
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 299
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = norse_pagan_reformed
+		size= 1792
+	}
+
+}
+1946 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 2050
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 37325
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 1800
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 1100
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 16625
+	}
+
+}
+1947 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1925
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 975
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 4900
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 150100
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 525
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 1400
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 45500
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 54000
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 725
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 100025
+	}
+
+}
+1948 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 2325
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 125
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1175
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 5850
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1175
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 106025
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 27325
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 13000
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1325
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 150
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 675
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 675
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 48025
+	}
+
+	aristocrats=
+	{
+		culture = songhai
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = songhai
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = songhai
+		religion = sunni
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = sunni
+		size= 5475
+	}
+
+}
+1949 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 2950
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 83700
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 35925
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 47000
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1325
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 78350
+	}
+
+}
+1950 = {
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 3650
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 1800
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 1100
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 525
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 10125
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 650
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 10725
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 4000
+	}
+
+}
+1951 = {
+	aristocrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 4600
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 800
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2500
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 9600
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2400
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 160000
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = sunni
+		size= 60000
+	}
+
+}
+1952 = {
+	aristocrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2200
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 4800
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 1200
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 74500
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = sunni
+		size= 36000
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1300
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 3600
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 65600
+	}
+
+}
+1953 = {
+	aristocrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 3900
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2000
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 7900
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2000
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 144200
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = sunni
+		size= 36000
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7200
+	}
+
+}

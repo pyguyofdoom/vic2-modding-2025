@@ -1,0 +1,6 @@
+owner=ARA
+controller=ARA
+add_core=ARA
+add_core=PER
+trade_goods = opium
+life_rating = 35

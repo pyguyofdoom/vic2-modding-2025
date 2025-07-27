@@ -1,0 +1,6 @@
+owner=X46
+controller=X46
+add_core=X46
+trade_goods = grain
+life_rating = 35
+terrain = semidesert

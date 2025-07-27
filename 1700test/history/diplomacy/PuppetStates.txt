@@ -1,0 +1,168 @@
+vassal=
+{
+	first="BOS"
+	second="IRE"
+	start_date="1675.9.21"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="BLZ"
+	start_date="1512.1.19"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="ARG"
+	start_date="1526.2.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="BRZ"
+	start_date="1562.8.19"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X30"
+	start_date="1567.5.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="SRI"
+	start_date="1606.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X37"
+	start_date="1648.10.31"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="BNG"
+	start_date="1667.12.10"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GEO"
+	second="RDL"
+	start_date="1538.3.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GEO"
+	second="ALH"
+	start_date="1544.9.6"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="KOR"
+	second="CAL"
+	start_date="1529.2.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="KRN"
+	second="X35"
+	start_date="1538.1.13"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SRJ"
+	second="KEL"
+	start_date="1557.11.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SRJ"
+	second="DLI"
+	start_date="1560.3.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SRJ"
+	second="PGR"
+	start_date="1596.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SRJ"
+	second="MKS"
+	start_date="1621.10.10"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SRJ"
+	second="SUN"
+	start_date="1632.10.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCA"
+	second="NEW"
+	start_date="1486.3.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCA"
+	second="MEX"
+	start_date="1511.5.30"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCA"
+	second="LOU"
+	start_date="1527.2.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X33"
+	second="BTU"
+	start_date="1693.12.18"
+	end_date="1936.1.1"
+}
+

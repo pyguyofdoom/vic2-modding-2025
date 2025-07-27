@@ -1,0 +1,4 @@
+owner=SCA
+controller=SCA
+trade_goods = fish
+life_rating = 10

@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=SCA
+add_core=UKR
+trade_goods = timber
+life_rating = 10
+terrain = boreal

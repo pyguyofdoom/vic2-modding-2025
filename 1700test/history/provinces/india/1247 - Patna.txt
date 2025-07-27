@@ -1,0 +1,9 @@
+owner=X43
+controller=TIB
+add_core=KCX
+add_core=NEP
+add_core=X28
+add_core=X34
+add_core=X43
+trade_goods = opium
+life_rating = 32

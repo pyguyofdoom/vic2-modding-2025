@@ -1,0 +1,44 @@
+2131 = {
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = catholic
+		size= 1
+	}
+
+}

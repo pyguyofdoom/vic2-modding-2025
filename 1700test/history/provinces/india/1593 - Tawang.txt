@@ -1,0 +1,5 @@
+owner=SDY
+controller=SDY
+add_core=SDY
+trade_goods = cattle
+life_rating = 30

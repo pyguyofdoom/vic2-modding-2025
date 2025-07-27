@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=SCA
+add_core=X26
+trade_goods = iron
+life_rating = 10
+terrain = boreal

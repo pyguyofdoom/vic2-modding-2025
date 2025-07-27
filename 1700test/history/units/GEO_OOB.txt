@@ -1,0 +1,843 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 83
+	military_access = yes
+	influence_value = 58
+	level = 5
+}
+ARA = {
+	value = 104
+	influence_value = 13
+	level = 4
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 59
+	influence_value = 2
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+FRA = {
+	value = -5
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = -3
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = -13
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = -11
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+MKS = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+PNJ = {
+	value = -12
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -47
+	level = 2
+}
+RDL = {
+	value = -23
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 165
+	influence_value = 28
+	level = 4
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 108
+	influence_value = 14
+	level = 4
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = -11
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+X46 = {
+	value = -10
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -27
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Simon I Of Lalilulelo"
+	date="1682.11.13"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Tsotne Sologashvili"
+	date="1674.10.11"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Givi Robatishvili"
+	date="1678.5.30"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Simon Tusishvili"
+	date="1683.5.24"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Vamiq Turkestanishvili"
+	date="1685.6.12"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ioane Vachnadze"
+	date="1686.7.25"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Teimuraz Javakhishvili"
+	date="1692.1.1"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Beka Chkhetidze"
+	date="1697.1.16"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1215
+	regiment = {
+		name="1st Kandahar Infantry"
+		type=infantry
+		home=1215
+	}
+	regiment = {
+		name="2nd Kandahar Infantry"
+		type=infantry
+		home=1215
+	}
+	regiment = {
+		name="3rd Kandahar Infantry"
+		type=infantry
+		home=1215
+	}
+	regiment = {
+		name="1st Poti Infantry"
+		type=infantry
+		home=1094
+	}
+	regiment = {
+		name="1st Gizab Artillery"
+		type=artillery
+		home=2133
+	}
+	regiment = {
+		name="1st Balkh Artillery"
+		type=artillery
+		home=1211
+	}
+	regiment = {
+		name="1st Pasanauri Artillery"
+		type=artillery
+		home=1091
+	}
+	regiment = {
+		name="1st Mashhad Artillery"
+		type=artillery
+		home=1147
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1200
+	regiment = {
+		name="1st Kars Infantry"
+		type=infantry
+		home=885
+	}
+	regiment = {
+		name="4th Kandahar Infantry"
+		type=infantry
+		home=1215
+	}
+	regiment = {
+		name="2nd Poti Infantry"
+		type=infantry
+		home=1094
+	}
+	regiment = {
+		name="1st Ardabil Artillery"
+		type=artillery
+		home=1112
+	}
+	regiment = {
+		name="2nd Zaranj Artillery"
+		type=artillery
+		home=1214
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1213
+	regiment = {
+		name="1st Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Baku Artillery"
+		type=artillery
+		home=1102
+	}
+	regiment = {
+		name="2nd Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Bamyan Artillery"
+		type=artillery
+		home=1213
+	}
+	regiment = {
+		name="2nd Bamyan Artillery"
+		type=artillery
+		home=1213
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1219
+	regiment = {
+		name="1st Sirjan Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="1st Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="1st Shiraz Infantry"
+		type=infantry
+		home=1135
+	}
+	regiment = {
+		name="1st Sabzevar Artillery"
+		type=artillery
+		home=1149
+	}
+	regiment = {
+		name="1st Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Zaranj Artillery"
+		type=artillery
+		home=1214
+	}
+	regiment = {
+		name="1st Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+}
+
+army = {
+	name="38th Army"
+	location=1214
+	regiment = {
+		name="2nd Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="1st Zanjan Infantry"
+		type=infantry
+		home=1123
+	}
+	regiment = {
+		name="1st Mashhad Infantry"
+		type=infantry
+		home=1147
+	}
+	regiment = {
+		name="1st Sabzevar Infantry"
+		type=infantry
+		home=1149
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1138
+	regiment = {
+		name="1st Zaranj Infantry"
+		type=infantry
+		home=1214
+	}
+	regiment = {
+		name="3rd Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="2nd Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2787
+	ship = {
+		name="Aragveti"
+		type=frigate
+	}
+	ship = {
+		name="Anacopia"
+		type=frigate
+	}
+	ship = {
+		name="Artaani"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1197
+	regiment = {
+		name="1st Ganja Artillery"
+		type=artillery
+		home=1105
+	}
+	regiment = {
+		name="1st Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+	regiment = {
+		name="1st Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="2nd Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="3rd Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2790
+	ship = {
+		name="Abkhazeti"
+		type=frigate
+	}
+	ship = {
+		name="Bichvinta"
+		type=frigate
+	}
+	ship = {
+		name="Batomi"
+		type=frigate
+	}
+	ship = {
+		name="Chavchavadze"
+		type=frigate
+	}
+	ship = {
+		name="Dmanisi"
+		type=frigate
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2133
+	regiment = {
+		name="1st Grozny Artillery"
+		type=artillery
+		home=1055
+	}
+	regiment = {
+		name="2nd Pasanauri Artillery"
+		type=artillery
+		home=1091
+	}
+	regiment = {
+		name="1st Derbent Artillery"
+		type=artillery
+		home=1052
+	}
+	regiment = {
+		name="1st Kars Artillery"
+		type=artillery
+		home=885
+	}
+}
+
+army = {
+	name="55th Army"
+	location=1215
+	regiment = {
+		name="1st Bojnurd Infantry"
+		type=infantry
+		home=1150
+	}
+	regiment = {
+		name="1st Birjand Infantry"
+		type=infantry
+		home=1148
+	}
+	regiment = {
+		name="5th Kandahar Infantry"
+		type=infantry
+		home=1215
+	}
+	regiment = {
+		name="1st Balkh Infantry"
+		type=infantry
+		home=1211
+	}
+	regiment = {
+		name="1st Akhaltsikhe Artillery"
+		type=artillery
+		home=1093
+	}
+	regiment = {
+		name="2nd Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+	regiment = {
+		name="1st Khvoy Artillery"
+		type=artillery
+		home=1109
+	}
+	regiment = {
+		name="1st Mahabad Artillery"
+		type=artillery
+		home=1111
+	}
+}
+

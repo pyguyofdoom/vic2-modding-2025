@@ -1,0 +1,7 @@
+owner=PEG
+controller=PEG
+add_core=IDO
+add_core=PEG
+add_core=SIA
+trade_goods = iron
+life_rating = 35

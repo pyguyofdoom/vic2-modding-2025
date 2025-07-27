@@ -1,0 +1,7 @@
+owner=ARA
+controller=ARA
+add_core=ARA
+add_core=NUB
+add_core=SUD
+trade_goods = coffee
+life_rating = 35

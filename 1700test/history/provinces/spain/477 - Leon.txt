@@ -1,0 +1,19 @@
+owner=X16
+controller=FRA
+add_core=SPA
+add_core=X16
+trade_goods = coal
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

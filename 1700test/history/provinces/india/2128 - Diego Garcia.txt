@@ -1,0 +1,6 @@
+owner=X44
+controller=X44
+add_core=X44
+trade_goods = fish
+life_rating = 32
+terrain = small_island

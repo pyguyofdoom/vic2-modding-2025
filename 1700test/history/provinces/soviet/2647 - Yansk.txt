@@ -1,0 +1,8 @@
+owner=SRJ
+controller=SRJ
+add_core=BLM
+add_core=MJP
+add_core=SRJ
+trade_goods = fish
+life_rating = 35
+terrain = hills

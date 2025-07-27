@@ -1,0 +1,8 @@
+owner=DLI
+controller=DLI
+add_core=DLI
+add_core=MLY
+add_core=PSA
+add_core=SRJ
+trade_goods = fruit
+life_rating = 38

@@ -1,0 +1,12 @@
+owner=HLR
+controller=HLR
+add_core=BEL
+add_core=HLR
+trade_goods = iron
+life_rating = 31
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

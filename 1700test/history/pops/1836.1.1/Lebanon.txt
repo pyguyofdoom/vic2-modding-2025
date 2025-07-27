@@ -1,0 +1,596 @@
+912 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 241
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 10182
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 308
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 1030
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 1237
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 5763
+	}
+
+}
+913 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 351
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 16637
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 1686
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 249
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 1682
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 377
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 9419
+	}
+
+}
+914 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 132
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 6244
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 189
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 632
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 758
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 3534
+	}
+
+}
+915 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 9382
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = norse_pagan_reformed
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 731
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = hellenic_pagan
+		size= 5310
+	}
+
+}

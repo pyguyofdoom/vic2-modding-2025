@@ -1,0 +1,6 @@
+owner=BLZ
+controller=BLZ
+add_core=BLZ
+trade_goods = cattle
+life_rating = 31
+terrain = new_world_semidesert

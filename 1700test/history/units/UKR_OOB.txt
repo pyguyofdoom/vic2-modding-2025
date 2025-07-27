@@ -1,0 +1,675 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = -10
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 6
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 23
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = -9
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 101
+	influence_value = 12
+	level = 3
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 52
+	level = 2
+}
+X46 = {
+	value = -82
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -72
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mitrofan III Of Lalilulelo"
+	date="1686.5.23"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Fedot Fomenko"
+	date="1686.12.19"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mitrofan Skorokhod"
+	date="1695.1.16"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Putiata Korolyuk"
+	date="1696.3.1"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2588
+	ship = {
+		name="Krym"
+		type=manowar
+	}
+	ship = {
+		name="1st Viipuri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Luga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Luga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melitopol Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Luga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Petersburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Luga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Zaporiz'ka"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2611
+	regiment = {
+		name="1st Kiev Infantry"
+		type=infantry
+		home=958
+	}
+	regiment = {
+		name="1st Chernigov Cavalry"
+		type=cavalry
+		home=962
+	}
+	regiment = {
+		name="1st Orel Artillery"
+		type=artillery
+		home=1017
+	}
+	regiment = {
+		name="1st Belozersk Artillery"
+		type=artillery
+		home=992
+	}
+	regiment = {
+		name="1st Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="2nd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1038
+	regiment = {
+		name="1st Ekaterinburg Infantry"
+		type=infantry
+		home=1058
+	}
+	regiment = {
+		name="1st Belozersk Cavalry"
+		type=cavalry
+		home=992
+	}
+	regiment = {
+		name="1st Tikhvin Infantry"
+		type=infantry
+		home=1004
+	}
+}
+
+army = {
+	name="1st Army"
+	location=942
+	regiment = {
+		name="1st Kazan Infantry"
+		type=infantry
+		home=1030
+	}
+	regiment = {
+		name="1st Onega Infantry"
+		type=infantry
+		home=2588
+	}
+	regiment = {
+		name="1st Kaunas Cavalry"
+		type=cavalry
+		home=361
+	}
+	regiment = {
+		name="2nd Belozersk Artillery"
+		type=artillery
+		home=992
+	}
+	regiment = {
+		name="1st Tikhvin Cavalry"
+		type=cavalry
+		home=1004
+	}
+	regiment = {
+		name="1st Uglich Artillery"
+		type=artillery
+		home=991
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2707
+	ship = {
+		name="Dniester"
+		type=frigate
+	}
+	ship = {
+		name="Dnipro"
+		type=frigate
+	}
+}
+
+army = {
+	name="18th Army"
+	location=986
+	regiment = {
+		name="1st Arkhangelsk Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="1st Vyterga Cavalry"
+		type=cavalry
+		home=993
+	}
+	regiment = {
+		name="1st Proskorov Infantry"
+		type=infantry
+		home=955
+	}
+	regiment = {
+		name="3rd Vyterga Cavalry"
+		type=cavalry
+		home=993
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1184
+	regiment = {
+		name="2nd Arkhangelsk Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="2nd Vyterga Cavalry"
+		type=cavalry
+		home=993
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="1st Arkhangelsk Artillery"
+		type=artillery
+		home=981
+	}
+}
+

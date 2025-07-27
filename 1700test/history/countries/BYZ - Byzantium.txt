@@ -1,0 +1,70 @@
+capital = 858
+primary_culture = greek
+culture = copts
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.177488
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=no_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=underground_parties
+
+ruling_party = BYZ_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 15
+	conservative = 79
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness= 1.18215
+
+# Technologies
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+military_staff_system = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+prestige=27.6263
+
+# Decisions
+1.1.1 = {
+	decision = enable_suez_canal
+}
+oob = "BYZ_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_BYZ
+set_country_flag = eu4_country_BYZ

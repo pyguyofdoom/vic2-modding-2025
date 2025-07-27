@@ -1,0 +1,6 @@
+owner=WSI
+controller=WSI
+add_core=WSI
+trade_goods = fish
+life_rating = 30
+terrain = new_world_mountain

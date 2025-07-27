@@ -1,0 +1,9 @@
+owner=UKR
+controller=UKR
+add_core=TKS
+add_core=X18
+add_core=X22
+add_core=YRK
+trade_goods = iron
+life_rating = 35
+colonial=2

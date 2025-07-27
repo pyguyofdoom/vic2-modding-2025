@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=NUB
+add_core=SUD
+trade_goods = fish
+life_rating = 31
+terrain = desert
+colonial=2

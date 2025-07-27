@@ -1,0 +1,8 @@
+owner=X46
+controller=X46
+add_core=HND
+add_core=MEW
+add_core=PNJ
+add_core=X46
+trade_goods = wool
+life_rating = 32

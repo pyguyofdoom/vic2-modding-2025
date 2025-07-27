@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=AJU
+add_core=MRE
+trade_goods = grain
+life_rating = 31
+terrain = semidesert
+colonial=2

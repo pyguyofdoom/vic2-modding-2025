@@ -1,0 +1,193 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1134
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 163
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 2432
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 268
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 50
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 209
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 540
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 5
+	}
+
+}

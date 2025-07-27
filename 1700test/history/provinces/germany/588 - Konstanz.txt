@@ -1,0 +1,8 @@
+owner=X05
+controller=X05
+add_core=GER
+add_core=TEU
+add_core=X05
+add_core=X10
+trade_goods = timber
+life_rating = 40

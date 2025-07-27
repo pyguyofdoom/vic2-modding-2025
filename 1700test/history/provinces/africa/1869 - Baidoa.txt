@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=AJU
+trade_goods = fruit
+life_rating = 35
+terrain = savanna
+colonial=2

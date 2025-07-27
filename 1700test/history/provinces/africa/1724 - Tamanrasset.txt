@@ -1,0 +1,8 @@
+owner=SCA
+controller=REB
+add_core=DEN
+add_core=SCA
+add_core=X17
+trade_goods = wool
+life_rating = 30
+terrain = small_island

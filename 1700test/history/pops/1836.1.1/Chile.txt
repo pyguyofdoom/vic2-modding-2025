@@ -1,0 +1,1856 @@
+2305 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 5772
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 10213
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 680
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 109
+	}
+
+}
+2307 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 2186
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 3718
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 590
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 712
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 8
+	}
+
+}
+2308 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1352
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 2295
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 373
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 682
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 5
+	}
+
+}
+2309 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 2480
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 4558
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 299
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 49
+	}
+
+}
+2322 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 75
+	}
+
+	craftsmen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2788
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4751
+	}
+
+	craftsmen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 5384
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 6581
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 2008
+	}
+
+	clerks=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 492
+	}
+
+	capitalists=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 187
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 45
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 29
+	}
+
+}
+2323 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6635
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 11670
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 126
+	}
+
+}
+2324 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 421
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 41553
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 17226
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1223
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 684
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 60
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 551
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 3426
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 557
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 171
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 1919
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 48348
+	}
+
+}
+2325 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 12779
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 5302
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 375
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 211
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 18
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 54
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 1054
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 53
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 14867
+	}
+
+}
+2326 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5989
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 10536
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 704
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 113
+	}
+
+}
+2327 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 17
+	}
+
+	craftsmen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8807
+	}
+
+	craftsmen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 4226
+	}
+
+	clerks=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 393
+	}
+
+	capitalists=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 23
+	}
+
+	craftsmen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 11479
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 23
+	}
+
+	clerks=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 1086
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 5
+	}
+
+	capitalists=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 423
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 30
+	}
+
+}
+2328 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7897
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 3478
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 235
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 12
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 624
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 8583
+	}
+
+}
+2329 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3074
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1354
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 243
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 3340
+	}
+
+}
+2330 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5914
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 2641
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 488
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 6997
+	}
+
+}
+2331 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3112
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1388
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 3683
+	}
+
+}
+2332 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5805
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 2558
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 459
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 6308
+	}
+
+}
+2333 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 939
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 399
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = jain
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = druidist
+		size= 972
+	}
+
+}
+2334 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 652
+	}
+
+	farmers=
+	{
+		culture = thegioimoi
+		religion = sunni
+		size= 493
+	}
+
+	artisans=
+	{
+		culture = thegioimoi
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = thegioimoi
+		religion = sunni
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = thegioimoi
+		religion = sunni
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = thegioimoi
+		religion = sunni
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = thegioimoi
+		religion = druidist
+		size= 43
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 413
+	}
+
+}
+2335 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 518
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = druidist
+		size= 1
+	}
+
+}

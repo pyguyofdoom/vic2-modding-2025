@@ -1,0 +1,4 @@
+owner=SRJ
+controller=SRJ
+trade_goods = fish
+life_rating = 10

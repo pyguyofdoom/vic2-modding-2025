@@ -1,0 +1,6 @@
+owner=X44
+controller=REB
+add_core=X44
+trade_goods = fish
+life_rating = 30
+terrain = new_world_plains

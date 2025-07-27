@@ -1,0 +1,676 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+ARP = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUN = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -92
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRR = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = -62
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 34
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 43
+	level = 2
+}
+GEO = {
+	value = 38
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HLR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 45
+	level = 2
+}
+LNA = {
+	value = -15
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEO = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SDY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 169
+	military_access = yes
+	influence_value = 49
+	level = 5
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SRJ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = -54
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 175
+	influence_value = 31
+	level = 4
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Binnya Ran Nardu"
+	date="1692.3.8"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Smim Sawhtut Leura"
+	date="1693.11.20"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Razadarit Min"
+	date="1694.10.13"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Leik Mawdaw Mani"
+	date="1695.9.30"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1332
+	regiment = {
+		name="1st Moulmein Irregulars"
+		type=irregular
+		home=1343
+	}
+	regiment = {
+		name="2nd Moulmein Irregulars"
+		type=irregular
+		home=1343
+	}
+	regiment = {
+		name="1st Pegu Artillery"
+		type=artillery
+		home=1332
+	}
+	regiment = {
+		name="3rd Moulmein Irregulars"
+		type=irregular
+		home=1343
+	}
+	regiment = {
+		name="1st Rangoon Artillery"
+		type=artillery
+		home=1330
+	}
+	regiment = {
+		name="2nd Rangoon Artillery"
+		type=artillery
+		home=1330
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1332
+	regiment = {
+		name="1st Pegu Irregulars"
+		type=irregular
+		home=1332
+	}
+	regiment = {
+		name="2nd Pegu Irregulars"
+		type=irregular
+		home=1332
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1330
+	ship = {
+		name="1st Rangoon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rangoon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rangoon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bassein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pegu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bassein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mergui Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bassein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pegu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rangoon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rangoon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rangoon Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2798
+	ship = {
+		name="1st Bassein Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pegu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bassein Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1344
+	ship = {
+		name="2nd Bassein Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bassein Frigate"
+		type=frigate
+	}
+}
+

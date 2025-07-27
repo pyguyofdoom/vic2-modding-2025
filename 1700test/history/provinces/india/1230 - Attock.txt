@@ -1,0 +1,7 @@
+owner=GEO
+controller=GEO
+add_core=HND
+add_core=X46
+trade_goods = wool
+life_rating = 32
+colonial=2

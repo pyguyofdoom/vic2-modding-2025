@@ -1,0 +1,4 @@
+owner=WSI
+controller=WSI
+trade_goods = timber
+life_rating = 31
