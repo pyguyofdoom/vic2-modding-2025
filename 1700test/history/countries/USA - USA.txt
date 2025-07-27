@@ -8,7 +8,7 @@ religion = norse_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.257509
+literacy = 0.457509
 
 civilized = yes
 
