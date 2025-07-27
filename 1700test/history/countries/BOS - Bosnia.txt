@@ -8,7 +8,7 @@ religion = bogomilist
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.200979
+literacy = 0.600979
 
 civilized = yes
 

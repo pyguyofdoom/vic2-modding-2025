@@ -6,7 +6,7 @@ religion = catholic
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.216929
+literacy = 0.416929
 
 civilized = yes
 

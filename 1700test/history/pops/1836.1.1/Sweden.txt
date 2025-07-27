@@ -309,7 +309,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 7233
+		size= 17233
 	}
 
 	artisans=
@@ -351,7 +351,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 25406
+		size= 125406
 	}
 
 }
@@ -402,12 +402,13 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 108932
+		size= 208932
 	}
 
 }
 325 = {
 	soldiers=
+	{
 	{
 		culture = swedish
 		religion = norse_pagan_reformed

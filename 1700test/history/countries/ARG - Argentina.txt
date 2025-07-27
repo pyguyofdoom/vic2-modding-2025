@@ -1,7 +1,6 @@
 capital = 2348
 primary_culture = nouvellien
-culture = aimara
-culture = araucanian
+
 culture = zzz_religion_druidist
 religion = druidist
 government = democracy

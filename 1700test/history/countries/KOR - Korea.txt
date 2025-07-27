@@ -1,6 +1,6 @@
 capital = 1624
 primary_culture = korean
-culture = beifaren
+
 culture = japanese
 culture = zzz_religion_mahayana
 religion = mahayana

@@ -6,7 +6,7 @@ religion = hellenic_pagan
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.177488
+literacy = 0.377488
 
 civilized = yes
 

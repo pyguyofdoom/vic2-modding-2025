@@ -6,9 +6,9 @@ religion = monothelite
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0.0282051
+literacy = 0.282051
 
-
+civilized = yes
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

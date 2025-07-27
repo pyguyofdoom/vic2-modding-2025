@@ -1,17 +1,17 @@
 capital = 425
 primary_culture = breton
 culture = anglo_saxon
-culture = elsinorian
+
 culture = french
-culture = occitan
-culture = picard
-culture = rollonian
+
+culture = basque
+
 culture = zzz_religion_druidist
 religion = druidist
 government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.208809
+literacy = 0.408809
 
 civilized = yes
 

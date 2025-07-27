@@ -1,13 +1,12 @@
 capital = 2190
 primary_culture = nouvellien
-culture = mayan
-culture = nahua
+
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0.153127
+literacy = 0.253127
 
 civilized = yes
 

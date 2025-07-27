@@ -1,14 +1,13 @@
 capital = 104
 primary_culture = dongren
-culture = nyasverigian
-culture = sonoran
+
 culture = zzz_religion_mahayana
 religion = mahayana
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.0430842
-
+literacy = 0.0930842
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
