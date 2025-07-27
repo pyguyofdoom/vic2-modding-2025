@@ -408,7 +408,7 @@
 }
 325 = {
 	soldiers=
-	
+	{
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
