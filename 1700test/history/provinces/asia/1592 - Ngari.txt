@@ -1,5 +1,5 @@
-owner=TIB
-controller=TIB
+owner=X43
+controller=X43
 add_core=GUG
 add_core=TIB
 trade_goods = cattle
