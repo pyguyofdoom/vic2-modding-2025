@@ -208,7 +208,7 @@ political_decisions = {
                 primary_culture = australian
                 primary_culture = anglo_canadian
                 primary_culture = french_canadian
-		has_country_flag = set_country_flag = new_world_nation
+		has_country_flag = new_world_nation
 		
             }
             OR = {
