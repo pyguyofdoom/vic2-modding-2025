@@ -1,7 +1,8 @@
 capital = 399
 primary_culture = dutch
 culture = french
-culture = north_german
+culture = flemish
+culture = wallonian
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
