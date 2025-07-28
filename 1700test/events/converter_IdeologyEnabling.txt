@@ -12,6 +12,7 @@ country_event = {
 		government = bourgeois_dictatorship
 		NOT = { ruling_party_ideology = anarcho_liberal }
 		NOT = { ruling_party_ideology = liberal }
+		NOT = { ruling_party_ideology = conservative } 
 		# NOT = { year = 1840 }
 	}	
 	# major = yes

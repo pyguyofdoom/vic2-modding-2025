@@ -26,7 +26,8 @@ presidential_dictatorship = {
 bourgeois_dictatorship = {
 	#which ideology of parties.
 	anarcho_liberal = yes
-	
+	conservative = yes
+	liberal = yes
 	election = no
 	appoint_ruling_party = yes
 	flagType = republic
