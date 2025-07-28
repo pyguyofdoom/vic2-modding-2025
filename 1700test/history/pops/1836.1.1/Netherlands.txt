@@ -3,7 +3,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 3317
+		size= 1317
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 6743
+		size= 3743
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4691
+		size= 1691
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 1261
+		size= 561
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 1844
+		size= 844
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 1248
+		size= 548
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 7233
+		size= 2233
 	}
 
 	craftsmen=
@@ -662,7 +662,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 2961
+		size= 961
 	}
 
 	artisans=
@@ -711,7 +711,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 1789
+		size= 789
 	}
 
 	artisans=
@@ -960,7 +960,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4133
+		size= 1133
 	}
 
 	artisans=

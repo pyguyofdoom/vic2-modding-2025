@@ -3,7 +3,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 7193
+		size= 3193
 	}
 
 	craftsmen=
@@ -73,7 +73,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 6337
+		size= 3337
 	}
 
 	craftsmen=
@@ -215,7 +215,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 2811
+		size= 1811
 	}
 
 	artisans=
@@ -264,7 +264,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 2515
+		size= 1515
 	}
 
 	artisans=
@@ -364,7 +364,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 8573
+		size= 4573
 	}
 
 	artisans=
@@ -564,14 +564,14 @@
 	{
 		culture = french
 		religion = catholic
-		size= 11315
+		size= 2315
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 9172
+		size= 13172
 	}
 
 	clergymen=
@@ -664,7 +664,7 @@
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
-		size= 7233
+		size= 3233
 	}
 
 	artisans=
@@ -713,7 +713,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 2602
+		size= 1602
 	}
 
 	artisans=
@@ -813,7 +813,7 @@
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
-		size= 13433
+		size= 6433
 	}
 
 	craftsmen=
@@ -883,7 +883,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 3605
+		size= 1605
 	}
 
 	craftsmen=
@@ -5814,7 +5814,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 10305
+		size= 2305
 	}
 
 	artisans=
