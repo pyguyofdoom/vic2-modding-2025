@@ -2,4 +2,3 @@ owner=WSI
 controller=WSI
 trade_goods = grain
 life_rating = 35
-colonial=2

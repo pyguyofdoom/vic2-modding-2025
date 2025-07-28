@@ -2,4 +2,3 @@ owner=WSI
 controller=WSI
 trade_goods = timber
 life_rating = 35
-colonial=2

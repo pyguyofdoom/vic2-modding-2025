@@ -1,8 +1,8 @@
 graphical_culture = EuropeanGC
-color = { 86 195 80 }
+color = { 153 201 125 }
 
 party = {
-	name = "ENG_liberal"
+	name = "MRZ_liberal"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "ENG_conservative"
+	name = "MRZ_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "ENG_socialist"
+	name = "MRZ_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "ENG_reactionary"
+	name = "MRZ_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "ENG_anarcho_liberal"
+	name = "GER_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "ENG_communist"
+	name = "MRZ_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "ENG_fascist"
+	name = "MRZ_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

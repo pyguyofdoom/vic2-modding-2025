@@ -627,7 +627,7 @@ beneluxian = {
 		
 	}
 	grootdesseyn = {
-		color = { 132 24 183 }
+		color = { 145 140 38 }
 		radicalism = 10
 		
 		first_names = { "Sarel" "Rudolf" "Andries" "Hendrik" "Piet" "Racheltjie" "Dirkie" "Siener" "Koos" "Danie" "Christiaan" "Louis" "Petrus" "Paul" "Eugene" "Joubert" }
@@ -636,7 +636,7 @@ beneluxian = {
 		
 	}
 	mauritsstadtian = {
-		color = { 149 119 184 }
+		color = { 176 130 30 }
 		radicalism = 10
 		
 		first_names = { "Sarel" "Rudolf" "Andries" "Hendrik" "Piet" "Racheltjie" "Dirkie" "Siener" "Koos" "Danie" "Christiaan" "Louis" "Petrus" "Paul" "Eugene" "Joubert" }
@@ -645,7 +645,7 @@ beneluxian = {
 		
 	}
 	nieuwereld = {
-		color = { 192 136 87 }
+		color = { 230 191 50 }
 		radicalism = 10
 		
 		first_names = { "Sarel" "Rudolf" "Andries" "Hendrik" "Piet" "Racheltjie" "Dirkie" "Siener" "Koos" "Danie" "Christiaan" "Louis" "Petrus" "Paul" "Eugene" "Joubert" }
@@ -654,7 +654,7 @@ beneluxian = {
 		
 	}
 	surinamian = {
-		color = { 98 111 229 }
+		color = { 184 150 0 }
 		radicalism = 10
 		
 		first_names = { "Sarel" "Rudolf" "Andries" "Hendrik" "Piet" "Racheltjie" "Dirkie" "Siener" "Koos" "Danie" "Christiaan" "Louis" "Petrus" "Paul" "Eugene" "Joubert" }
@@ -3247,6 +3247,14 @@ native_american = {
 	}
 	tupinamba = {
 		color = { 89 80 175 }
+		
+		first_names = { "Tibiriçá" "Piquerobi" "Caiubi" "Ramalho" "Italo" "Arah" "Pirijá" "Arata" "Toruí" "Mbicy" }
+		
+		last_names = { "Piratininga" "Tabajara" "Temiminó" "Tamoio" "Caeté" "Tupinaé" "Tupina" "Aricobé" }
+		
+	}
+	tupi = {
+		color = { 175 80 189 }
 		
 		first_names = { "Tibiriçá" "Piquerobi" "Caiubi" "Ramalho" "Italo" "Arah" "Pirijá" "Arata" "Toruí" "Mbicy" }
 		
