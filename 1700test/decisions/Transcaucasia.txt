@@ -703,5 +703,22 @@ political_decisions = {
                 relation = { who = RUS value = 0 }
             }
         }
-    }
+	}
+	
+	persian_brotherhood_transcaucasia_sweet_transcaucasia = {
+		potential =  {
+			tag = TCA
+			NOT = { has_country_flag = has_zagros
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			invention = national_fraternity
+		}
+		effect = {
+			add_accepted_culture = persian
+			set_country_flag = has_zagros
+		}
+	}
+	
 }
