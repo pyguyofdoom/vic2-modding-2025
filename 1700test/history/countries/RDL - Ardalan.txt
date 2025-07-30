@@ -7,7 +7,7 @@ government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.020277
-
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

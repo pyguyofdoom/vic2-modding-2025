@@ -8,7 +8,7 @@ plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.0259357
 
-
+civilized = yes
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

@@ -1,4 +1,3 @@
-owner=KOR
-controller=KOR
+
 trade_goods = timber
 life_rating = 10
