@@ -12,7 +12,7 @@ government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.408809
-
+non_state_culture_literacy = 0.25
 civilized = yes
 
 # Social Reforms
