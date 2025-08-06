@@ -1,12 +1,13 @@
 capital = 524
-primary_culture = occitan
+primary_culture = Occitan
+culture = Andalusian
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_autocracy
-literacy = 0.283179
-
+literacy = 0.383179
+non_state_culture_literacy = 0.20
 civilized = yes
 
 # Social Reforms

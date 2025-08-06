@@ -7,6 +7,7 @@ government = democracy
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.3969
+non_state_culture_literacy = 0.15
 
 civilized = yes
 

@@ -7,6 +7,8 @@ government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.282051
+non_state_culture_literacy = 0.15
+
 
 civilized = yes
 # Social Reforms

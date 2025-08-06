@@ -10,14 +10,14 @@
 	{
 		culture = bedouin
 		religion = monothelite
-		size= 4133
+		size= 20133
 	}
 
 	artisans=
 	{
 		culture = bedouin
 		religion = monothelite
-		size= 4682
+		size= 40682
 	}
 
 	clergymen=
@@ -31,14 +31,14 @@
 	{
 		culture = bedouin
 		religion = monothelite
-		size= 68
+		size= 168
 	}
 
 	officers=
 	{
 		culture = bedouin
 		religion = monothelite
-		size= 63
+		size= 163
 	}
 
 	aristocrats=
@@ -52,7 +52,7 @@
 	{
 		culture = bedouin
 		religion = monothelite
-		size= 39606
+		size= 309606
 	}
 
 }

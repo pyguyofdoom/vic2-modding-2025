@@ -8451,7 +8451,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 24471
+		size= 400471
 	}
 
 }

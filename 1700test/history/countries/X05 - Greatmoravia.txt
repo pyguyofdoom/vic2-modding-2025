@@ -7,7 +7,7 @@ government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.50
-non_state_culture_literacy = 0.27
+non_state_culture_literacy = 0.35
 
 
 civilized = yes
