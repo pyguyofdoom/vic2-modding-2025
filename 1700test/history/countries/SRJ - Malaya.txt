@@ -6,7 +6,7 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.1580719
+literacy = 0.2080719
 non_state_culture_literacy = 0.08
 
 # Social Reforms
