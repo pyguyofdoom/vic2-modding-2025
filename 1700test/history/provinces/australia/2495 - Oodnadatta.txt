@@ -1,3 +1,6 @@
 trade_goods = fruit
 life_rating = 15
 terrain = semidesert
+owner=X48
+controller=X48
+add_core=X48

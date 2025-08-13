@@ -2,5 +2,7 @@ owner=FRA
 controller=FRA
 add_core=ENG
 add_core=FRA
+add_core = BRT
+add_core = WHA
 trade_goods = iron
 life_rating = 35

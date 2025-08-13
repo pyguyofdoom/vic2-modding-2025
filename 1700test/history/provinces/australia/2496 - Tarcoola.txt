@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 31
 terrain = semidesert
+owner=X48
+controller=X48
+add_core=X48

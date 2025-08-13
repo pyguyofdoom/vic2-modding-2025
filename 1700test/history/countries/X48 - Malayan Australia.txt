@@ -5,7 +5,7 @@ religion = sunni
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.0407913
+literacy = 0.3007913
 civilized = yes
 
 # Social Reforms
@@ -26,6 +26,8 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
+border_policy = open_borders
+
 
 ruling_party = X48_liberal
 upper_house = 
