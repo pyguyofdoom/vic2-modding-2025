@@ -6,7 +6,7 @@ religion = catholic
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.40
 non_state_culture_literacy = 0.35
 
 
