@@ -43,6 +43,23 @@ political_decisions = {
 			}
 		}
 		
+	gilyder_tatars = {
+			potential = {
+					tag = UKR
+					NOT = { has_country_flag = has_tar }
+			}
+			allow = {
+				nationalism_n_imperialism = 1
+					
+			}	
+
+			effect = {
+				add_accepted_culture = uzbek
+				set_country_flag = has_tar		
+			}	
+			
+		}	
+	
 	persian_brotherhood_Georgia_sweet_georgia = {
 		potential = {
 			tag = GEO
@@ -59,21 +76,21 @@ political_decisions = {
 		}
 	}
 	french_fraternity_oroaorahahahdsijs = {
-			potential = {
-				tag = FRA
-				NOT = { has_country_flag = has_FFOR }
-			}
-			allow = {
-				nationalism_n_imperialism = 1
-				invention = national_fraternity
-			}	
-
-			effect = {
-				add_accepted_culture = occitan
-				add_accepted_culture = elsinorian
-				set_country_flag = has_FFOR
-			}
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = has_FFOR }
 		}
+		allow = {
+			nationalism_n_imperialism = 1
+			invention = national_fraternity
+		}	
+
+		effect = {
+			add_accepted_culture = occitan
+			add_accepted_culture = elsinorian
+			set_country_flag = has_FFOR
+		}
+	}
 	Bohemian_something = {
 			potential = {
 				tag = X05
@@ -109,5 +126,5 @@ political_decisions = {
 				set_country_flag = has_INTG
 				GER = { all_core = { add_core = HLR } }
 			}
-		}	
-}
+		}
+	}
